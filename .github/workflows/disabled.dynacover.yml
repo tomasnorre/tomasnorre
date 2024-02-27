@@ -1,7 +1,7 @@
 name: Twitter Dynacover
 on:
   schedule:
-    - cron: "*/20 * * * *"
+    - cron: "2 */3 * * *"
   workflow_dispatch:
 jobs:
   main:
