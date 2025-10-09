@@ -22,7 +22,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([12.0.9](https://github.com/tomasnorre/crawler/releases/tag/12.0.9), 1 month ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.2](https://github.com/tighten/jigsaw/releases/tag/v1.8.2), 3 months ago) - Simple static sites with Laravel’s Blade.
 
-#### 📜 My recent [blog posts](https://soyuka.me)
+#### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
 - [Resize harddisk in Proxmox VM](https://blog.tomasnorre.dk/blog/resize-harddisk-in-proxmox-vm) (1 month ago)
 - [Switch to alpinejs for mobile menu toggle](https://blog.tomasnorre.dk/blog/swtich-to-alpinejs-for-mobile-menu-toggle) (2 months ago)
@@ -30,11 +30,9 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 - [Kamal Deploy](https://blog.tomasnorre.dk/blog/kamal-deploy) (3 months ago)
 - [Jigsaw - replace vue with Alpine.js](https://blog.tomasnorre.dk/blog/jigsaw-replace-vue-with-aplinejs) (4 months ago)
 
-#### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
+#### ❤️ These awesome people [sponsor me](https://github.com/sponsors/tomasnorre) (thank you!)
 
 - [oliverklee](https://github.com/oliverklee) (5 years ago)
 
 This README setup I heavily inspired and copied from https://github.com/soyuka
 
-<a href="https://github.com/tomasnorre"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=tomasnorre&show_icons=true" /></a>
-<a href="https://github.com/tomasnorre"><img alt="Git Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasnorre&layout=compact&icon_color=805AD5&text_color=657389&bg_color=ffffff&hide_border=false&langs_count=16&hide_progress=true" />
