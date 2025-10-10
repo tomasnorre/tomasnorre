@@ -30,7 +30,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-This README setup I heavily inspired and copied from https://github.com/soyuka
+This README setup is heavily inspired and copied from https://github.com/soyuka
 
 <!--
 <a href="https://github.com/tomasnorre"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=tomasnorre&show_icons=true" /></a>
