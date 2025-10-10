@@ -34,5 +34,6 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 - [oliverklee](https://github.com/oliverklee) (5 years ago)
 
-This README setup I heavily inspired and copied from https://github.com/soyuka
+This README setup is heavily inspired and copied from https://github.com/soyuka
+
 
