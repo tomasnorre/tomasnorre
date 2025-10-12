@@ -12,8 +12,8 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (today)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (2 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (3 days ago)
 - [AOEpeople/TYPO3-Update-Refindex](https://github.com/AOEpeople/TYPO3-Update-Refindex) - TYPO3-Extension to update the TYPO3-refindex for specified tables via a scheduler-task (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -24,10 +24,10 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
-- [GitHub Profile README](https://blog.tomasnorre.dk/blog/github-profile-readme) (today)
+- [GitHub Profile README](https://blog.tomasnorre.dk/blog/github-profile-readme) (1 day ago)
 - [Resize harddisk in Proxmox VM](https://blog.tomasnorre.dk/blog/resize-harddisk-in-proxmox-vm) (1 month ago)
 - [Switch to alpinejs for mobile menu toggle](https://blog.tomasnorre.dk/blog/swtich-to-alpinejs-for-mobile-menu-toggle) (2 months ago)
-- [TYPO3 Crawler - 10 Years of contributions](https://blog.tomasnorre.dk/blog/typo3-crawler-10years) (2 months ago)
+- [TYPO3 Crawler - 10 Years of contributions](https://blog.tomasnorre.dk/blog/typo3-crawler-10years) (3 months ago)
 - [Kamal Deploy](https://blog.tomasnorre.dk/blog/kamal-deploy) (3 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/tomasnorre) (thank you!)
