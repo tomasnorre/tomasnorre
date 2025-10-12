@@ -30,6 +30,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
+#### 🌱 My latest projects
+{{range recentRepos 5}}
+- [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
+{{- end}}
+
 #### ⭐ Recent stars
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
