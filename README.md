@@ -12,17 +12,17 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) - Example extension for unit testing and best practices. (today)
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (4 days ago)
+- [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) - Example extension for unit testing and best practices. (1 day ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (3 days ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (5 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [[BUGFIX] Remove cacheDirectory from PHPUnit config](https://github.com/TYPO3BestPractices/tea/pull/1820) on [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) (today)
-- [[TASK] Improve tests](https://github.com/tomasnorre/crawler/pull/1201) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
-- [[TASK] Improve tests](https://github.com/tomasnorre/crawler/pull/1200) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
-- [[CI] set-output in workflows is deprecated](https://github.com/tomasnorre/crawler/pull/1199) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
-- [[TASK] Add RequestHelper to cleanup the BackendControllers](https://github.com/tomasnorre/crawler/pull/1198) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (5 days ago)
+- [[BUGFIX] Remove cacheDirectory from PHPUnit config](https://github.com/TYPO3BestPractices/tea/pull/1820) on [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) (1 day ago)
+- [[TASK] Improve tests](https://github.com/tomasnorre/crawler/pull/1201) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (5 days ago)
+- [[TASK] Improve tests](https://github.com/tomasnorre/crawler/pull/1200) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (5 days ago)
+- [[CI] set-output in workflows is deprecated](https://github.com/tomasnorre/crawler/pull/1199) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (5 days ago)
+- [[TASK] Add RequestHelper to cleanup the BackendControllers](https://github.com/tomasnorre/crawler/pull/1198) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -32,19 +32,19 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
-- [GitHub Profile README](https://blog.tomasnorre.dk/blog/github-profile-readme) (2 days ago)
+- [GitHub Profile README](https://blog.tomasnorre.dk/blog/github-profile-readme) (3 days ago)
 - [Resize harddisk in Proxmox VM](https://blog.tomasnorre.dk/blog/resize-harddisk-in-proxmox-vm) (1 month ago)
-- [Switch to alpinejs for mobile menu toggle](https://blog.tomasnorre.dk/blog/swtich-to-alpinejs-for-mobile-menu-toggle) (2 months ago)
+- [Switch to alpinejs for mobile menu toggle](https://blog.tomasnorre.dk/blog/swtich-to-alpinejs-for-mobile-menu-toggle) (3 months ago)
 - [TYPO3 Crawler - 10 Years of contributions](https://blog.tomasnorre.dk/blog/typo3-crawler-10years) (3 months ago)
 - [Kamal Deploy](https://blog.tomasnorre.dk/blog/kamal-deploy) (3 months ago)
 
 #### ⭐ Recent stars
 
-- [TYPO3/testing-framework](https://github.com/TYPO3/testing-framework) - TYPO3 testing framework for core and extensions (1 day ago)
-- [TYPO3/tailor](https://github.com/TYPO3/tailor) - CLI Tool for maintaining public TYPO3 Extensions (1 day ago)
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (1 day ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
-- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) - Rector for TYPO3 (1 day ago)
+- [TYPO3/testing-framework](https://github.com/TYPO3/testing-framework) - TYPO3 testing framework for core and extensions (2 days ago)
+- [TYPO3/tailor](https://github.com/TYPO3/tailor) - CLI Tool for maintaining public TYPO3 Extensions (2 days ago)
+- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (2 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
+- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) - Rector for TYPO3 (2 days ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/tomasnorre) (thank you!)
 
