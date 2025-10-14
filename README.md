@@ -12,17 +12,17 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (today)
 - [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) - Example extension for unit testing and best practices. (1 day ago)
 - [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (3 days ago)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (5 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: update composer dependencies](https://github.com/tomasnorre/crawler/pull/1203) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
 - [[BUGFIX] Remove cacheDirectory from PHPUnit config](https://github.com/TYPO3BestPractices/tea/pull/1820) on [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) (1 day ago)
 - [[TASK] Improve tests](https://github.com/tomasnorre/crawler/pull/1201) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (5 days ago)
 - [[TASK] Improve tests](https://github.com/tomasnorre/crawler/pull/1200) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (5 days ago)
 - [[CI] set-output in workflows is deprecated](https://github.com/tomasnorre/crawler/pull/1199) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (5 days ago)
-- [[TASK] Add RequestHelper to cleanup the BackendControllers](https://github.com/tomasnorre/crawler/pull/1198) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
