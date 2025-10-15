@@ -18,11 +18,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔨 Latest Pull Requests I published
 
+- [[FEATURE] Automatic reload process status without page reload](https://github.com/tomasnorre/crawler/pull/1205) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
 - [fix: update composer dependencies](https://github.com/tomasnorre/crawler/pull/1203) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
 - [[BUGFIX] Remove cacheDirectory from PHPUnit config](https://github.com/TYPO3BestPractices/tea/pull/1820) on [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) (2 days ago)
 - [[TASK] Improve tests](https://github.com/tomasnorre/crawler/pull/1201) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (6 days ago)
 - [[TASK] Improve tests](https://github.com/tomasnorre/crawler/pull/1200) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (6 days ago)
-- [[CI] set-output in workflows is deprecated](https://github.com/tomasnorre/crawler/pull/1199) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
