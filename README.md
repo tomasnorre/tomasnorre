@@ -12,15 +12,15 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (today)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (4 days ago)
-- [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) - Example extension for unit testing and best practices. (5 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (5 days ago)
+- [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) - Example extension for unit testing and best practices. (6 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [[FEATURE] Automatic reload process status without page reload](https://github.com/tomasnorre/crawler/pull/1205) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 days ago)
-- [fix: update composer dependencies](https://github.com/tomasnorre/crawler/pull/1203) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
-- [[BUGFIX] Remove cacheDirectory from PHPUnit config](https://github.com/TYPO3BestPractices/tea/pull/1820) on [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) (5 days ago)
+- [[FEATURE] Automatic reload process status without page reload](https://github.com/tomasnorre/crawler/pull/1205) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
+- [fix: update composer dependencies](https://github.com/tomasnorre/crawler/pull/1203) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (5 days ago)
+- [[BUGFIX] Remove cacheDirectory from PHPUnit config](https://github.com/TYPO3BestPractices/tea/pull/1820) on [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) (6 days ago)
 - [[TASK] Improve tests](https://github.com/tomasnorre/crawler/pull/1201) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
 - [[TASK] Improve tests](https://github.com/tomasnorre/crawler/pull/1200) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
 
@@ -40,11 +40,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### ⭐ Recent stars
 
-- [TYPO3/testing-framework](https://github.com/TYPO3/testing-framework) - TYPO3 testing framework for core and extensions (6 days ago)
-- [TYPO3/tailor](https://github.com/TYPO3/tailor) - CLI Tool for maintaining public TYPO3 Extensions (6 days ago)
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (6 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 days ago)
-- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) - Rector for TYPO3 (6 days ago)
+- [TYPO3/testing-framework](https://github.com/TYPO3/testing-framework) - TYPO3 testing framework for core and extensions (1 week ago)
+- [TYPO3/tailor](https://github.com/TYPO3/tailor) - CLI Tool for maintaining public TYPO3 Extensions (1 week ago)
+- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (1 week ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
+- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) - Rector for TYPO3 (1 week ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/tomasnorre) (thank you!)
 
