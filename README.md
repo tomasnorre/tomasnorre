@@ -40,11 +40,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### ⭐ Recent stars
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (today)
 - [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins (2 days ago)
 - [TYPO3/testing-framework](https://github.com/TYPO3/testing-framework) - TYPO3 testing framework for core and extensions (1 week ago)
 - [TYPO3/tailor](https://github.com/TYPO3/tailor) - CLI Tool for maintaining public TYPO3 Extensions (1 week ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (1 week ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/tomasnorre) (thank you!)
 
