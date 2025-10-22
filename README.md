@@ -18,11 +18,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔨 Latest Pull Requests I published
 
+- [[CI] Improve CodeCeption ci](https://github.com/tomasnorre/crawler/pull/1209) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
 - [[CI] Improve Playwright ci](https://github.com/tomasnorre/crawler/pull/1208) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
 - [[CI] Test with PHP 8.5](https://github.com/tomasnorre/crawler/pull/1206) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
 - [[FEATURE] Automatic reload process status without page reload](https://github.com/tomasnorre/crawler/pull/1205) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
 - [fix: update composer dependencies](https://github.com/tomasnorre/crawler/pull/1203) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
-- [[BUGFIX] Remove cacheDirectory from PHPUnit config](https://github.com/TYPO3BestPractices/tea/pull/1820) on [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
