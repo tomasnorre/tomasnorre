@@ -10,6 +10,11 @@ You can learn more about my services at https://7th-green.com.
 
 Even if you don’t need my help right now, I’d truly appreciate it if you’d help spread the word. Thank you in advance!
 
+#### 🗞️ Interviews
+- [TYPO3worx.eu - Friends of TYPO3 01: Tomas Norre Mikkelsen](https://archive-2019.typo3worx.eu/2016/12/friends-of-typo3-tomas-norre-mikkelsen/) 2016-12-03
+- [TYPO3.org - Meet Tomas Norre Mikkelsen, Danish Developer in Germany](https://typo3.org/article/meet-tomas-norre-mikkelsen-danish-developer-in-germany-application-podcast-s1e2) 2020-12-31
+- [T3Planet.de - TYPO3 Talk with Tomas: Author of EXT.crawler](https://t3planet.de/en/blog/typo3-talk-with-tomas-devops-continuous-delivery-contributor/) 2021-04-30
+
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
