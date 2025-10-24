@@ -12,16 +12,16 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (today)
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 day ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
 - [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) - Example extension for unit testing and best practices. (1 week ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [[DEVBOX] Update Devbox files](https://github.com/tomasnorre/crawler/pull/1210) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
-- [[CI] Improve CodeCeption ci](https://github.com/tomasnorre/crawler/pull/1209) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [[CI] Improve Playwright ci](https://github.com/tomasnorre/crawler/pull/1208) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [[CI] Test with PHP 8.5](https://github.com/tomasnorre/crawler/pull/1206) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 days ago)
+- [[DEVBOX] Update Devbox files](https://github.com/tomasnorre/crawler/pull/1210) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [[CI] Improve CodeCeption ci](https://github.com/tomasnorre/crawler/pull/1209) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
+- [[CI] Improve Playwright ci](https://github.com/tomasnorre/crawler/pull/1208) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
+- [[CI] Test with PHP 8.5](https://github.com/tomasnorre/crawler/pull/1206) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
 - [[FEATURE] Automatic reload process status without page reload](https://github.com/tomasnorre/crawler/pull/1205) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -40,8 +40,8 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### ⭐ Recent stars
 
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 day ago)
-- [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins (3 days ago)
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (2 days ago)
+- [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins (4 days ago)
 - [TYPO3/testing-framework](https://github.com/TYPO3/testing-framework) - TYPO3 testing framework for core and extensions (1 week ago)
 - [TYPO3/tailor](https://github.com/TYPO3/tailor) - CLI Tool for maintaining public TYPO3 Extensions (1 week ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (1 week ago)
