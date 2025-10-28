@@ -17,7 +17,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (2 days ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (today)
 - [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (4 days ago)
 - [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) - Example extension for unit testing and best practices. (2 weeks ago)
 
@@ -31,8 +31,8 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔭 Latest releases I've contributed to
 
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([12.0.10](https://github.com/tomasnorre/crawler/releases/tag/12.0.10), today) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
 - [ddev/ddev](https://github.com/ddev/ddev) ([v1.24.8](https://github.com/ddev/ddev/releases/tag/v1.24.8), 1 month ago) - Docker-based local PHP&#43;Node.js web development environments
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([12.0.9](https://github.com/tomasnorre/crawler/releases/tag/12.0.9), 2 months ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.2](https://github.com/tighten/jigsaw/releases/tag/v1.8.2), 3 months ago) - Simple static sites with Laravel’s Blade.
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
