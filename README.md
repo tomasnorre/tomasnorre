@@ -23,11 +23,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: improve labels for Add to playlist refresh](https://github.com/fatihak/InkyPi/pull/363) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (today)
+- [add .idea to .gitignore (PyCharm/Intellij Settings)](https://github.com/fatihak/InkyPi/pull/360) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (today)
 - [[DEVBOX] Update Devbox files](https://github.com/tomasnorre/crawler/pull/1210) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
 - [[CI] Improve CodeCeption ci](https://github.com/tomasnorre/crawler/pull/1209) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
 - [[CI] Improve Playwright ci](https://github.com/tomasnorre/crawler/pull/1208) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
-- [[CI] Test with PHP 8.5](https://github.com/tomasnorre/crawler/pull/1206) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
-- [[FEATURE] Automatic reload process status without page reload](https://github.com/tomasnorre/crawler/pull/1205) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
