@@ -17,9 +17,9 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
+- [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins (today)
 - [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (4 days ago)
-- [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) - Example extension for unit testing and best practices. (2 weeks ago)
 
 #### 🔨 Latest Pull Requests I published
 
