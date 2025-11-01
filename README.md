@@ -17,28 +17,28 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (3 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (4 days ago)
 - [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) - Example extension for unit testing and best practices. (2 weeks ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: improve labels for Add to playlist refresh](https://github.com/fatihak/InkyPi/pull/363) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (today)
-- [add .idea to .gitignore (PyCharm/Intellij Settings)](https://github.com/fatihak/InkyPi/pull/360) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (today)
+- [feat: improve labels for Add to playlist refresh](https://github.com/fatihak/InkyPi/pull/363) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (1 day ago)
+- [add .idea to .gitignore (PyCharm/Intellij Settings)](https://github.com/fatihak/InkyPi/pull/360) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (1 day ago)
 - [[DEVBOX] Update Devbox files](https://github.com/tomasnorre/crawler/pull/1210) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
 - [[CI] Improve CodeCeption ci](https://github.com/tomasnorre/crawler/pull/1209) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
 - [[CI] Improve Playwright ci](https://github.com/tomasnorre/crawler/pull/1208) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.7.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.7.0), 2 days ago) - Rector for TYPO3
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([12.0.10](https://github.com/tomasnorre/crawler/releases/tag/12.0.10), 3 days ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
+- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.7.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.7.0), 3 days ago) - Rector for TYPO3
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([12.0.10](https://github.com/tomasnorre/crawler/releases/tag/12.0.10), 4 days ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
 - [ddev/ddev](https://github.com/ddev/ddev) ([v1.24.8](https://github.com/ddev/ddev/releases/tag/v1.24.8), 1 month ago) - Docker-based local PHP&#43;Node.js web development environments
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
 - [Who am I?](https://blog.tomasnorre.dk/blog/who-am-i) (1 week ago)
-- [GitHub Profile README](https://blog.tomasnorre.dk/blog/github-profile-readme) (2 weeks ago)
+- [GitHub Profile README](https://blog.tomasnorre.dk/blog/github-profile-readme) (3 weeks ago)
 - [Resize harddisk in Proxmox VM](https://blog.tomasnorre.dk/blog/resize-harddisk-in-proxmox-vm) (2 months ago)
 - [Switch to alpinejs for mobile menu toggle](https://blog.tomasnorre.dk/blog/swtich-to-alpinejs-for-mobile-menu-toggle) (3 months ago)
 - [TYPO3 Crawler - 10 Years of contributions](https://blog.tomasnorre.dk/blog/typo3-crawler-10years) (3 months ago)
