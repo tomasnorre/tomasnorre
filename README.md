@@ -23,11 +23,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: add GitHub Sponsor plugin](https://github.com/fatihak/InkyPi/pull/375) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (today)
 - [feat: add .editorconfig](https://github.com/fatihak/InkyPi/pull/374) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (today)
 - [feat: bundle JS and CSS instead of using CDN](https://github.com/fatihak/InkyPi/pull/373) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (today)
 - [feat: GitHub Stars plugin](https://github.com/fatihak/InkyPi/pull/369) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (1 day ago)
 - [feat: improve labels for Add to playlist refresh](https://github.com/fatihak/InkyPi/pull/363) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (2 days ago)
-- [add .idea to .gitignore (PyCharm/Intellij Settings)](https://github.com/fatihak/InkyPi/pull/360) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
