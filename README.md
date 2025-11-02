@@ -17,22 +17,22 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins (today)
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (4 days ago)
+- [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins (1 day ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (3 days ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (5 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: GitHub Stars plugin](https://github.com/fatihak/InkyPi/pull/369) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (today)
-- [feat: improve labels for Add to playlist refresh](https://github.com/fatihak/InkyPi/pull/363) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (1 day ago)
-- [add .idea to .gitignore (PyCharm/Intellij Settings)](https://github.com/fatihak/InkyPi/pull/360) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (1 day ago)
+- [feat: GitHub Stars plugin](https://github.com/fatihak/InkyPi/pull/369) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (1 day ago)
+- [feat: improve labels for Add to playlist refresh](https://github.com/fatihak/InkyPi/pull/363) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (2 days ago)
+- [add .idea to .gitignore (PyCharm/Intellij Settings)](https://github.com/fatihak/InkyPi/pull/360) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (2 days ago)
 - [[DEVBOX] Update Devbox files](https://github.com/tomasnorre/crawler/pull/1210) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
 - [[CI] Improve CodeCeption ci](https://github.com/tomasnorre/crawler/pull/1209) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.7.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.7.0), 3 days ago) - Rector for TYPO3
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([12.0.10](https://github.com/tomasnorre/crawler/releases/tag/12.0.10), 4 days ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
+- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.7.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.7.0), 4 days ago) - Rector for TYPO3
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([12.0.10](https://github.com/tomasnorre/crawler/releases/tag/12.0.10), 5 days ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
 - [ddev/ddev](https://github.com/ddev/ddev) ([v1.24.8](https://github.com/ddev/ddev/releases/tag/v1.24.8), 1 month ago) - Docker-based local PHP&#43;Node.js web development environments
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
@@ -47,9 +47,9 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 week ago)
 - [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins (1 week ago)
-- [TYPO3/testing-framework](https://github.com/TYPO3/testing-framework) - TYPO3 testing framework for core and extensions (2 weeks ago)
-- [TYPO3/tailor](https://github.com/TYPO3/tailor) - CLI Tool for maintaining public TYPO3 Extensions (2 weeks ago)
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (2 weeks ago)
+- [TYPO3/testing-framework](https://github.com/TYPO3/testing-framework) - TYPO3 testing framework for core and extensions (3 weeks ago)
+- [TYPO3/tailor](https://github.com/TYPO3/tailor) - CLI Tool for maintaining public TYPO3 Extensions (3 weeks ago)
+- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (3 weeks ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/tomasnorre) (thank you!)
 
