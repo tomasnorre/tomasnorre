@@ -17,22 +17,22 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins (1 day ago)
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (6 days ago)
+- [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins (2 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 week ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [ci: update test to test with both latest and lowest dependencies](https://github.com/webignition/symfony-console-typed-input/pull/55) on [webignition/symfony-console-typed-input](https://github.com/webignition/symfony-console-typed-input) (today)
-- [feat: add GitHub Sponsors and Repository Stars view](https://github.com/fatihak/InkyPi/pull/377) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (today)
-- [feat: add GitHub Sponsor plugin](https://github.com/fatihak/InkyPi/pull/375) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (1 day ago)
-- [feat: add .editorconfig](https://github.com/fatihak/InkyPi/pull/374) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (1 day ago)
-- [feat: bundle JS and CSS instead of using CDN](https://github.com/fatihak/InkyPi/pull/373) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (1 day ago)
+- [ci: update test to test with both latest and lowest dependencies](https://github.com/webignition/symfony-console-typed-input/pull/55) on [webignition/symfony-console-typed-input](https://github.com/webignition/symfony-console-typed-input) (1 day ago)
+- [feat: add GitHub Sponsors and Repository Stars view](https://github.com/fatihak/InkyPi/pull/377) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (1 day ago)
+- [feat: add GitHub Sponsor plugin](https://github.com/fatihak/InkyPi/pull/375) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (2 days ago)
+- [feat: add .editorconfig](https://github.com/fatihak/InkyPi/pull/374) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (2 days ago)
+- [feat: bundle JS and CSS instead of using CDN](https://github.com/fatihak/InkyPi/pull/373) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.7.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.7.0), 5 days ago) - Rector for TYPO3
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([12.0.10](https://github.com/tomasnorre/crawler/releases/tag/12.0.10), 6 days ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
+- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.7.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.7.0), 6 days ago) - Rector for TYPO3
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([12.0.10](https://github.com/tomasnorre/crawler/releases/tag/12.0.10), 1 week ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
 - [ddev/ddev](https://github.com/ddev/ddev) ([v1.24.8](https://github.com/ddev/ddev/releases/tag/v1.24.8), 1 month ago) - Docker-based local PHP&#43;Node.js web development environments
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
