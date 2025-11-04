@@ -31,9 +31,9 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔭 Latest releases I've contributed to
 
+- [ddev/ddev](https://github.com/ddev/ddev) ([v1.24.9](https://github.com/ddev/ddev/releases/tag/v1.24.9), today) - Docker-based local PHP&#43;Node.js web development environments
 - [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.7.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.7.0), 6 days ago) - Rector for TYPO3
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([12.0.10](https://github.com/tomasnorre/crawler/releases/tag/12.0.10), 1 week ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
-- [ddev/ddev](https://github.com/ddev/ddev) ([v1.24.8](https://github.com/ddev/ddev/releases/tag/v1.24.8), 1 month ago) - Docker-based local PHP&#43;Node.js web development environments
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
