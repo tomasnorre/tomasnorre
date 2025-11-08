@@ -17,28 +17,28 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (3 days ago)
-- [webignition/symfony-console-typed-input](https://github.com/webignition/symfony-console-typed-input) -  (3 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (3 days ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (4 days ago)
+- [webignition/symfony-console-typed-input](https://github.com/webignition/symfony-console-typed-input) -  (4 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [ci: update test to test with both latest and lowest dependencies](https://github.com/webignition/symfony-console-typed-input/pull/55) on [webignition/symfony-console-typed-input](https://github.com/webignition/symfony-console-typed-input) (4 days ago)
-- [feat: add GitHub Sponsors and Repository Stars view](https://github.com/fatihak/InkyPi/pull/377) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (4 days ago)
-- [feat: add GitHub Sponsor plugin](https://github.com/fatihak/InkyPi/pull/375) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (5 days ago)
-- [feat: add .editorconfig](https://github.com/fatihak/InkyPi/pull/374) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (5 days ago)
-- [feat: bundle JS and CSS instead of using CDN](https://github.com/fatihak/InkyPi/pull/373) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (5 days ago)
+- [ci: update test to test with both latest and lowest dependencies](https://github.com/webignition/symfony-console-typed-input/pull/55) on [webignition/symfony-console-typed-input](https://github.com/webignition/symfony-console-typed-input) (5 days ago)
+- [feat: add GitHub Sponsors and Repository Stars view](https://github.com/fatihak/InkyPi/pull/377) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (5 days ago)
+- [feat: add GitHub Sponsor plugin](https://github.com/fatihak/InkyPi/pull/375) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (6 days ago)
+- [feat: add .editorconfig](https://github.com/fatihak/InkyPi/pull/374) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (6 days ago)
+- [feat: bundle JS and CSS instead of using CDN](https://github.com/fatihak/InkyPi/pull/373) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ddev/ddev](https://github.com/ddev/ddev) ([v1.24.10](https://github.com/ddev/ddev/releases/tag/v1.24.10), 3 days ago) - Docker-based local PHP&#43;Node.js web development environments
-- [webignition/symfony-console-typed-input](https://github.com/webignition/symfony-console-typed-input) ([2,0](https://github.com/webignition/symfony-console-typed-input/releases/tag/2%2C0), 3 days ago) - 
+- [ddev/ddev](https://github.com/ddev/ddev) ([v1.24.10](https://github.com/ddev/ddev/releases/tag/v1.24.10), 4 days ago) - Docker-based local PHP&#43;Node.js web development environments
+- [webignition/symfony-console-typed-input](https://github.com/webignition/symfony-console-typed-input) ([2,0](https://github.com/webignition/symfony-console-typed-input/releases/tag/2%2C0), 4 days ago) - 
 - [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.7.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.7.0), 1 week ago) - Rector for TYPO3
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
 - [Who am I?](https://blog.tomasnorre.dk/blog/who-am-i) (2 weeks ago)
-- [GitHub Profile README](https://blog.tomasnorre.dk/blog/github-profile-readme) (3 weeks ago)
+- [GitHub Profile README](https://blog.tomasnorre.dk/blog/github-profile-readme) (4 weeks ago)
 - [Resize harddisk in Proxmox VM](https://blog.tomasnorre.dk/blog/resize-harddisk-in-proxmox-vm) (2 months ago)
 - [Switch to alpinejs for mobile menu toggle](https://blog.tomasnorre.dk/blog/swtich-to-alpinejs-for-mobile-menu-toggle) (3 months ago)
 - [TYPO3 Crawler - 10 Years of contributions](https://blog.tomasnorre.dk/blog/typo3-crawler-10years) (3 months ago)
