@@ -17,28 +17,28 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (4 days ago)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (5 days ago)
-- [webignition/symfony-console-typed-input](https://github.com/webignition/symfony-console-typed-input) -  (5 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (5 days ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (6 days ago)
+- [webignition/symfony-console-typed-input](https://github.com/webignition/symfony-console-typed-input) -  (6 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [ci: update test to test with both latest and lowest dependencies](https://github.com/webignition/symfony-console-typed-input/pull/55) on [webignition/symfony-console-typed-input](https://github.com/webignition/symfony-console-typed-input) (6 days ago)
-- [feat: add GitHub Sponsors and Repository Stars view](https://github.com/fatihak/InkyPi/pull/377) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (6 days ago)
+- [ci: update test to test with both latest and lowest dependencies](https://github.com/webignition/symfony-console-typed-input/pull/55) on [webignition/symfony-console-typed-input](https://github.com/webignition/symfony-console-typed-input) (1 week ago)
+- [feat: add GitHub Sponsors and Repository Stars view](https://github.com/fatihak/InkyPi/pull/377) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (1 week ago)
 - [feat: add GitHub Sponsor plugin](https://github.com/fatihak/InkyPi/pull/375) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (1 week ago)
 - [feat: add .editorconfig](https://github.com/fatihak/InkyPi/pull/374) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (1 week ago)
 - [feat: bundle JS and CSS instead of using CDN](https://github.com/fatihak/InkyPi/pull/373) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ddev/ddev](https://github.com/ddev/ddev) ([v1.24.10](https://github.com/ddev/ddev/releases/tag/v1.24.10), 5 days ago) - Docker-based local PHP&#43;Node.js web development environments
-- [webignition/symfony-console-typed-input](https://github.com/webignition/symfony-console-typed-input) ([2,0](https://github.com/webignition/symfony-console-typed-input/releases/tag/2%2C0), 5 days ago) - 
+- [ddev/ddev](https://github.com/ddev/ddev) ([v1.24.10](https://github.com/ddev/ddev/releases/tag/v1.24.10), 6 days ago) - Docker-based local PHP&#43;Node.js web development environments
+- [webignition/symfony-console-typed-input](https://github.com/webignition/symfony-console-typed-input) ([2,0](https://github.com/webignition/symfony-console-typed-input/releases/tag/2%2C0), 6 days ago) - 
 - [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.7.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.7.0), 1 week ago) - Rector for TYPO3
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
 - [Who am I?](https://blog.tomasnorre.dk/blog/who-am-i) (2 weeks ago)
-- [GitHub Profile README](https://blog.tomasnorre.dk/blog/github-profile-readme) (4 weeks ago)
+- [GitHub Profile README](https://blog.tomasnorre.dk/blog/github-profile-readme) (1 month ago)
 - [Resize harddisk in Proxmox VM](https://blog.tomasnorre.dk/blog/resize-harddisk-in-proxmox-vm) (2 months ago)
 - [Switch to alpinejs for mobile menu toggle](https://blog.tomasnorre.dk/blog/swtich-to-alpinejs-for-mobile-menu-toggle) (3 months ago)
 - [TYPO3 Crawler - 10 Years of contributions](https://blog.tomasnorre.dk/blog/typo3-crawler-10years) (3 months ago)
@@ -46,7 +46,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 #### ⭐ Recent stars
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (2 weeks ago)
-- [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins (2 weeks ago)
+- [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins (3 weeks ago)
 - [TYPO3/testing-framework](https://github.com/TYPO3/testing-framework) - TYPO3 testing framework for core and extensions (4 weeks ago)
 - [TYPO3/tailor](https://github.com/TYPO3/tailor) - CLI Tool for maintaining public TYPO3 Extensions (4 weeks ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (4 weeks ago)
