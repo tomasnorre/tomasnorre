@@ -17,9 +17,9 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (today)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (6 days ago)
-- [webignition/symfony-console-typed-input](https://github.com/webignition/symfony-console-typed-input) -  (6 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 week ago)
+- [webignition/symfony-console-typed-input](https://github.com/webignition/symfony-console-typed-input) -  (1 week ago)
 
 #### 🔨 Latest Pull Requests I published
 
@@ -31,8 +31,8 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔭 Latest releases I've contributed to
 
-- [ddev/ddev](https://github.com/ddev/ddev) ([v1.24.10](https://github.com/ddev/ddev/releases/tag/v1.24.10), 6 days ago) - Docker-based local PHP&#43;Node.js web development environments
-- [webignition/symfony-console-typed-input](https://github.com/webignition/symfony-console-typed-input) ([2,0](https://github.com/webignition/symfony-console-typed-input/releases/tag/2%2C0), 6 days ago) - 
+- [ddev/ddev](https://github.com/ddev/ddev) ([v1.24.10](https://github.com/ddev/ddev/releases/tag/v1.24.10), 1 week ago) - Docker-based local PHP&#43;Node.js web development environments
+- [webignition/symfony-console-typed-input](https://github.com/webignition/symfony-console-typed-input) ([2,0](https://github.com/webignition/symfony-console-typed-input/releases/tag/2%2C0), 1 week ago) - 
 - [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.7.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.7.0), 1 week ago) - Rector for TYPO3
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
@@ -41,15 +41,15 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 - [GitHub Profile README](https://blog.tomasnorre.dk/blog/github-profile-readme) (1 month ago)
 - [Resize harddisk in Proxmox VM](https://blog.tomasnorre.dk/blog/resize-harddisk-in-proxmox-vm) (2 months ago)
 - [Switch to alpinejs for mobile menu toggle](https://blog.tomasnorre.dk/blog/swtich-to-alpinejs-for-mobile-menu-toggle) (3 months ago)
-- [TYPO3 Crawler - 10 Years of contributions](https://blog.tomasnorre.dk/blog/typo3-crawler-10years) (3 months ago)
+- [TYPO3 Crawler - 10 Years of contributions](https://blog.tomasnorre.dk/blog/typo3-crawler-10years) (4 months ago)
 
 #### ⭐ Recent stars
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (2 weeks ago)
 - [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins (3 weeks ago)
-- [TYPO3/testing-framework](https://github.com/TYPO3/testing-framework) - TYPO3 testing framework for core and extensions (4 weeks ago)
-- [TYPO3/tailor](https://github.com/TYPO3/tailor) - CLI Tool for maintaining public TYPO3 Extensions (4 weeks ago)
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (4 weeks ago)
+- [TYPO3/testing-framework](https://github.com/TYPO3/testing-framework) - TYPO3 testing framework for core and extensions (1 month ago)
+- [TYPO3/tailor](https://github.com/TYPO3/tailor) - CLI Tool for maintaining public TYPO3 Extensions (1 month ago)
+- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (1 month ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/tomasnorre) (thank you!)
 
