@@ -23,11 +23,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔨 Latest Pull Requests I published
 
+- [[FEATURE] Add MigrateGetPublicResourceWebPathRector](https://github.com/sabbelasichon/typo3-rector/pull/4742) on [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) (today)
 - [ci: update test to test with both latest and lowest dependencies](https://github.com/webignition/symfony-console-typed-input/pull/55) on [webignition/symfony-console-typed-input](https://github.com/webignition/symfony-console-typed-input) (1 week ago)
 - [feat: add GitHub Sponsors and Repository Stars view](https://github.com/fatihak/InkyPi/pull/377) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (1 week ago)
 - [feat: add GitHub Sponsor plugin](https://github.com/fatihak/InkyPi/pull/375) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (1 week ago)
 - [feat: add .editorconfig](https://github.com/fatihak/InkyPi/pull/374) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (1 week ago)
-- [feat: bundle JS and CSS instead of using CDN](https://github.com/fatihak/InkyPi/pull/373) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
