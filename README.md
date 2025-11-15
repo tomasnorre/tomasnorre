@@ -17,13 +17,13 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
+- [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins (today)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 week ago)
-- [webignition/symfony-console-typed-input](https://github.com/webignition/symfony-console-typed-input) -  (1 week ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [[FEATURE] Add MigrateGetPublicResourceWebPathRector](https://github.com/sabbelasichon/typo3-rector/pull/4742) on [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) (2 days ago)
+- [[FEATURE] Add MigrateGetPublicResourceWebPathRector](https://github.com/sabbelasichon/typo3-rector/pull/4742) on [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) (3 days ago)
 - [ci: update test to test with both latest and lowest dependencies](https://github.com/webignition/symfony-console-typed-input/pull/55) on [webignition/symfony-console-typed-input](https://github.com/webignition/symfony-console-typed-input) (1 week ago)
 - [feat: add GitHub Sponsors and Repository Stars view](https://github.com/fatihak/InkyPi/pull/377) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (1 week ago)
 - [feat: add GitHub Sponsor plugin](https://github.com/fatihak/InkyPi/pull/375) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (1 week ago)
@@ -31,7 +31,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔭 Latest releases I've contributed to
 
-- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.8.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.8.0), 3 days ago) - Rector for TYPO3
+- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.8.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.8.0), 4 days ago) - Rector for TYPO3
 - [ddev/ddev](https://github.com/ddev/ddev) ([v1.24.10](https://github.com/ddev/ddev/releases/tag/v1.24.10), 1 week ago) - Docker-based local PHP&#43;Node.js web development environments
 - [webignition/symfony-console-typed-input](https://github.com/webignition/symfony-console-typed-input) ([2,0](https://github.com/webignition/symfony-console-typed-input/releases/tag/2%2C0), 1 week ago) - 
 
