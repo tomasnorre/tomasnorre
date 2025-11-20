@@ -17,13 +17,13 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
-- [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins (4 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
+- [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins (5 days ago)
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (2 weeks ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update TYPO3 v12 repository links in README](https://github.com/TYPO3-Initiatives/content-block-registration-api/pull/93) on [TYPO3-Initiatives/content-block-registration-api](https://github.com/TYPO3-Initiatives/content-block-registration-api) (1 day ago)
+- [Update TYPO3 v12 repository links in README](https://github.com/TYPO3-Initiatives/content-block-registration-api/pull/93) on [TYPO3-Initiatives/content-block-registration-api](https://github.com/TYPO3-Initiatives/content-block-registration-api) (2 days ago)
 - [[FEATURE] Add MigrateGetPublicResourceWebPathRector](https://github.com/sabbelasichon/typo3-rector/pull/4742) on [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) (1 week ago)
 - [ci: update test to test with both latest and lowest dependencies](https://github.com/webignition/symfony-console-typed-input/pull/55) on [webignition/symfony-console-typed-input](https://github.com/webignition/symfony-console-typed-input) (2 weeks ago)
 - [feat: add GitHub Sponsors and Repository Stars view](https://github.com/fatihak/InkyPi/pull/377) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (2 weeks ago)
@@ -39,7 +39,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 - [Who am I?](https://blog.tomasnorre.dk/blog/who-am-i) (3 weeks ago)
 - [GitHub Profile README](https://blog.tomasnorre.dk/blog/github-profile-readme) (1 month ago)
-- [Resize harddisk in Proxmox VM](https://blog.tomasnorre.dk/blog/resize-harddisk-in-proxmox-vm) (2 months ago)
+- [Resize harddisk in Proxmox VM](https://blog.tomasnorre.dk/blog/resize-harddisk-in-proxmox-vm) (3 months ago)
 - [Switch to alpinejs for mobile menu toggle](https://blog.tomasnorre.dk/blog/swtich-to-alpinejs-for-mobile-menu-toggle) (4 months ago)
 - [TYPO3 Crawler - 10 Years of contributions](https://blog.tomasnorre.dk/blog/typo3-crawler-10years) (4 months ago)
 
