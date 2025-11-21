@@ -31,9 +31,9 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔭 Latest releases I've contributed to
 
+- [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.3](https://github.com/tighten/jigsaw/releases/tag/v1.8.3), today) - Simple static sites with Laravel’s Blade.
 - [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.8.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.8.0), 1 week ago) - Rector for TYPO3
 - [ddev/ddev](https://github.com/ddev/ddev) ([v1.24.10](https://github.com/ddev/ddev/releases/tag/v1.24.10), 2 weeks ago) - Docker-based local PHP&#43;Node.js web development environments
-- [webignition/symfony-console-typed-input](https://github.com/webignition/symfony-console-typed-input) ([2,0](https://github.com/webignition/symfony-console-typed-input/releases/tag/2%2C0), 2 weeks ago) - 
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
