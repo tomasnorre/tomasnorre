@@ -37,11 +37,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
+- [Hetzner (affiliated)](https://blog.tomasnorre.dk/blog/hetzner) (today)
 - [Black Friday Donations](https://blog.tomasnorre.dk/blog/black-friday) (3 days ago)
 - [Who am I?](https://blog.tomasnorre.dk/blog/who-am-i) (1 month ago)
 - [GitHub Profile README](https://blog.tomasnorre.dk/blog/github-profile-readme) (1 month ago)
 - [Resize harddisk in Proxmox VM](https://blog.tomasnorre.dk/blog/resize-harddisk-in-proxmox-vm) (3 months ago)
-- [Switch to alpinejs for mobile menu toggle](https://blog.tomasnorre.dk/blog/swtich-to-alpinejs-for-mobile-menu-toggle) (4 months ago)
 
 #### ⭐ Recent stars
 
