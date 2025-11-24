@@ -17,27 +17,27 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (today)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (3 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (4 days ago)
 - [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins (1 week ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [[TASK] Add PHP 8.5 tests in CI](https://github.com/tomasnorre/crawler/pull/1214) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 days ago)
-- [Update TYPO3 v12 repository links in README](https://github.com/TYPO3-Initiatives/content-block-registration-api/pull/93) on [TYPO3-Initiatives/content-block-registration-api](https://github.com/TYPO3-Initiatives/content-block-registration-api) (5 days ago)
+- [[TASK] Add PHP 8.5 tests in CI](https://github.com/tomasnorre/crawler/pull/1214) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
+- [Update TYPO3 v12 repository links in README](https://github.com/TYPO3-Initiatives/content-block-registration-api/pull/93) on [TYPO3-Initiatives/content-block-registration-api](https://github.com/TYPO3-Initiatives/content-block-registration-api) (6 days ago)
 - [[FEATURE] Add MigrateGetPublicResourceWebPathRector](https://github.com/sabbelasichon/typo3-rector/pull/4742) on [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) (1 week ago)
-- [ci: update test to test with both latest and lowest dependencies](https://github.com/webignition/symfony-console-typed-input/pull/55) on [webignition/symfony-console-typed-input](https://github.com/webignition/symfony-console-typed-input) (2 weeks ago)
-- [feat: add GitHub Sponsors and Repository Stars view](https://github.com/fatihak/InkyPi/pull/377) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (2 weeks ago)
+- [ci: update test to test with both latest and lowest dependencies](https://github.com/webignition/symfony-console-typed-input/pull/55) on [webignition/symfony-console-typed-input](https://github.com/webignition/symfony-console-typed-input) (3 weeks ago)
+- [feat: add GitHub Sponsors and Repository Stars view](https://github.com/fatihak/InkyPi/pull/377) on [fatihak/InkyPi](https://github.com/fatihak/InkyPi) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.3](https://github.com/tighten/jigsaw/releases/tag/v1.8.3), 2 days ago) - Simple static sites with Laravel’s Blade.
+- [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.3](https://github.com/tighten/jigsaw/releases/tag/v1.8.3), 3 days ago) - Simple static sites with Laravel’s Blade.
 - [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.8.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.8.0), 1 week ago) - Rector for TYPO3
 - [ddev/ddev](https://github.com/ddev/ddev) ([v1.24.10](https://github.com/ddev/ddev/releases/tag/v1.24.10), 2 weeks ago) - Docker-based local PHP&#43;Node.js web development environments
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
-- [Black Friday Donations](https://blog.tomasnorre.dk/blog/black-friday) (2 days ago)
+- [Black Friday Donations](https://blog.tomasnorre.dk/blog/black-friday) (3 days ago)
 - [Who am I?](https://blog.tomasnorre.dk/blog/who-am-i) (1 month ago)
 - [GitHub Profile README](https://blog.tomasnorre.dk/blog/github-profile-readme) (1 month ago)
 - [Resize harddisk in Proxmox VM](https://blog.tomasnorre.dk/blog/resize-harddisk-in-proxmox-vm) (3 months ago)
