@@ -37,11 +37,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
+- [Debian - Update Bookworm to Trixie](https://blog.tomasnorre.dk/blog/debian-update-bookworm-to-trixie) (today)
 - [Hetzner (affiliated)](https://blog.tomasnorre.dk/blog/hetzner) (1 day ago)
 - [Black Friday Donations](https://blog.tomasnorre.dk/blog/black-friday) (4 days ago)
 - [Who am I?](https://blog.tomasnorre.dk/blog/who-am-i) (1 month ago)
 - [GitHub Profile README](https://blog.tomasnorre.dk/blog/github-profile-readme) (1 month ago)
-- [Resize harddisk in Proxmox VM](https://blog.tomasnorre.dk/blog/resize-harddisk-in-proxmox-vm) (3 months ago)
 
 #### ⭐ Recent stars
 
