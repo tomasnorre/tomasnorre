@@ -23,11 +23,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔨 Latest Pull Requests I published
 
+- [!!! [TASK] Remove PHP 8.1 support](https://github.com/tomasnorre/crawler/pull/1219) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
 - [[TASK] Add TYPO3 14 Support](https://github.com/tomasnorre/crawler/pull/1217) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
 - [[TASK] Add PHP 8.5 tests in CI](https://github.com/tomasnorre/crawler/pull/1214) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (6 days ago)
 - [Update TYPO3 v12 repository links in README](https://github.com/TYPO3-Initiatives/content-block-registration-api/pull/93) on [TYPO3-Initiatives/content-block-registration-api](https://github.com/TYPO3-Initiatives/content-block-registration-api) (1 week ago)
 - [[FEATURE] Add MigrateGetPublicResourceWebPathRector](https://github.com/sabbelasichon/typo3-rector/pull/4742) on [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) (2 weeks ago)
-- [ci: update test to test with both latest and lowest dependencies](https://github.com/webignition/symfony-console-typed-input/pull/55) on [webignition/symfony-console-typed-input](https://github.com/webignition/symfony-console-typed-input) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
