@@ -23,11 +23,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔨 Latest Pull Requests I published
 
+- [[TASK] Remove CodeCeption and its dependencies](https://github.com/tomasnorre/crawler/pull/1223) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
 - [!!! [TASK] Remove TYPO3 12 LTS Support](https://github.com/tomasnorre/crawler/pull/1221) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
 - [!!! [TASK] Remove PHP 8.1 support](https://github.com/tomasnorre/crawler/pull/1219) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
 - [[TASK] Add TYPO3 14 Support](https://github.com/tomasnorre/crawler/pull/1217) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
 - [[TASK] Add PHP 8.5 tests in CI](https://github.com/tomasnorre/crawler/pull/1214) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (6 days ago)
-- [Update TYPO3 v12 repository links in README](https://github.com/TYPO3-Initiatives/content-block-registration-api/pull/93) on [TYPO3-Initiatives/content-block-registration-api](https://github.com/TYPO3-Initiatives/content-block-registration-api) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
