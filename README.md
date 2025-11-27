@@ -23,11 +23,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔨 Latest Pull Requests I published
 
+- [[TASK] Remove Chrome and Selenium Containers from devbox](https://github.com/tomasnorre/crawler/pull/1234) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
 - [[TASK] Add PHP 8.5 support](https://github.com/tomasnorre/crawler/pull/1233) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
 - [[CI] Improve DB Speed for CI jobs](https://github.com/tomasnorre/crawler/pull/1232) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
 - [[CI] Move Playwright Acceptance tests to new folder](https://github.com/tomasnorre/crawler/pull/1231) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
 - [!!! [TASK] Remove PageVeto Hook in PageService](https://github.com/tomasnorre/crawler/pull/1229) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
-- [[TASK] Update PHPUnit to ^11.5](https://github.com/tomasnorre/crawler/pull/1227) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
 
 #### 🔭 Latest releases I've contributed to
 
