@@ -23,11 +23,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔨 Latest Pull Requests I published
 
+- [[CI] Move Playwright Acceptance tests to new folder](https://github.com/tomasnorre/crawler/pull/1231) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
 - [!!! [TASK] Remove PageVeto Hook in PageService](https://github.com/tomasnorre/crawler/pull/1229) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
 - [[TASK] Update PHPUnit to ^11.5](https://github.com/tomasnorre/crawler/pull/1227) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
 - [[CI] Bring back Psalm](https://github.com/tomasnorre/crawler/pull/1226) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
 - [New Crowdin updates](https://github.com/tomasnorre/crawler/pull/1225) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [[TASK] Remove CodeCeption and its dependencies](https://github.com/tomasnorre/crawler/pull/1223) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
