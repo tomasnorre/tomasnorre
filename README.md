@@ -17,27 +17,27 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (today)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (4 days ago)
-- [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins (6 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (5 days ago)
+- [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins (1 week ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [[TASK] Add TYPO3 14 Support](https://github.com/tomasnorre/crawler/pull/1237) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
-- [[TASK] Update devbox to run TYPO3 13 as default](https://github.com/tomasnorre/crawler/pull/1235) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
-- [[TASK] Remove Chrome and Selenium Containers from devbox](https://github.com/tomasnorre/crawler/pull/1234) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
-- [[TASK] Add PHP 8.5 support](https://github.com/tomasnorre/crawler/pull/1233) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
-- [[CI] Improve DB Speed for CI jobs](https://github.com/tomasnorre/crawler/pull/1232) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
+- [[TASK] Add TYPO3 14 Support](https://github.com/tomasnorre/crawler/pull/1237) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (5 days ago)
+- [[TASK] Update devbox to run TYPO3 13 as default](https://github.com/tomasnorre/crawler/pull/1235) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (5 days ago)
+- [[TASK] Remove Chrome and Selenium Containers from devbox](https://github.com/tomasnorre/crawler/pull/1234) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (5 days ago)
+- [[TASK] Add PHP 8.5 support](https://github.com/tomasnorre/crawler/pull/1233) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (5 days ago)
+- [[CI] Improve DB Speed for CI jobs](https://github.com/tomasnorre/crawler/pull/1232) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.3](https://github.com/tighten/jigsaw/releases/tag/v1.8.3), 1 week ago) - Simple static sites with Laravel’s Blade.
-- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.8.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.8.0), 2 weeks ago) - Rector for TYPO3
-- [ddev/ddev](https://github.com/ddev/ddev) ([v1.24.10](https://github.com/ddev/ddev/releases/tag/v1.24.10), 3 weeks ago) - Docker-based local PHP&#43;Node.js web development environments
+- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.8.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.8.0), 3 weeks ago) - Rector for TYPO3
+- [ddev/ddev](https://github.com/ddev/ddev) ([v1.24.10](https://github.com/ddev/ddev/releases/tag/v1.24.10), 4 weeks ago) - Docker-based local PHP&#43;Node.js web development environments
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
-- [Debian - Update Bookworm to Trixie](https://blog.tomasnorre.dk/blog/debian-update-bookworm-to-trixie) (6 days ago)
+- [Debian - Update Bookworm to Trixie](https://blog.tomasnorre.dk/blog/debian-update-bookworm-to-trixie) (1 week ago)
 - [Hetzner (affiliated)](https://blog.tomasnorre.dk/blog/hetzner) (1 week ago)
 - [Black Friday Donations](https://blog.tomasnorre.dk/blog/black-friday) (1 week ago)
 - [Who am I?](https://blog.tomasnorre.dk/blog/who-am-i) (1 month ago)
