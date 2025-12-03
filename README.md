@@ -23,11 +23,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔨 Latest Pull Requests I published
 
+- [[CI] Cleanup SKIP rectors](https://github.com/tomasnorre/crawler/pull/1240) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
 - [[TASK] Add TYPO3 14 Support](https://github.com/tomasnorre/crawler/pull/1237) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (6 days ago)
 - [[TASK] Update devbox to run TYPO3 13 as default](https://github.com/tomasnorre/crawler/pull/1235) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (6 days ago)
 - [[TASK] Remove Chrome and Selenium Containers from devbox](https://github.com/tomasnorre/crawler/pull/1234) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (6 days ago)
 - [[TASK] Add PHP 8.5 support](https://github.com/tomasnorre/crawler/pull/1233) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (6 days ago)
-- [[CI] Improve DB Speed for CI jobs](https://github.com/tomasnorre/crawler/pull/1232) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
