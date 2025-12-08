@@ -17,7 +17,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (3 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
 - [tomasnorre/crawler-devbox-sitepackage](https://github.com/tomasnorre/crawler-devbox-sitepackage) - This a sitepackage used for the TYPO3 Crawler Devbox (4 days ago)
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (5 days ago)
 
