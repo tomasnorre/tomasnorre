@@ -17,8 +17,8 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (today)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (6 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 week ago)
 - [tomasnorre/crawler-devbox-sitepackage](https://github.com/tomasnorre/crawler-devbox-sitepackage) - This a sitepackage used for the TYPO3 Crawler Devbox (2 weeks ago)
 
 #### 🔨 Latest Pull Requests I published
@@ -45,7 +45,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### ⭐ Recent stars
 
-- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (4 days ago)
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (5 days ago)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 month ago)
 - [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins (2 months ago)
 - [TYPO3/testing-framework](https://github.com/TYPO3/testing-framework) - TYPO3 testing framework for core and extensions (2 months ago)
