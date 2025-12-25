@@ -17,7 +17,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (today)
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 week ago)
 - [tomasnorre/crawler-devbox-sitepackage](https://github.com/tomasnorre/crawler-devbox-sitepackage) - This a sitepackage used for the TYPO3 Crawler Devbox (3 weeks ago)
 
@@ -37,11 +37,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
+- [TYPO3 Crawler - 20 Years in the TYPO3 Ecosystem](https://blog.tomasnorre.dk/blog/typo3-crawler-20years) (3 days ago)
 - [Ubuntu on 2013 MacBook Pro](https://blog.tomasnorre.dk/blog/ubuntu-on-2013-macbook-pro) (2 weeks ago)
 - [Debian - Update Bookworm to Trixie](https://blog.tomasnorre.dk/blog/debian-update-bookworm-to-trixie) (1 month ago)
 - [Hetzner (affiliated)](https://blog.tomasnorre.dk/blog/hetzner) (1 month ago)
 - [Black Friday Donations](https://blog.tomasnorre.dk/blog/black-friday) (1 month ago)
-- [Who am I?](https://blog.tomasnorre.dk/blog/who-am-i) (2 months ago)
 
 #### ⭐ Recent stars
 
