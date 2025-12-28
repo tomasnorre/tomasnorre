@@ -17,7 +17,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (today)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (2 weeks ago)
 - [tomasnorre/crawler-devbox-sitepackage](https://github.com/tomasnorre/crawler-devbox-sitepackage) - This a sitepackage used for the TYPO3 Crawler Devbox (3 weeks ago)
 
@@ -31,13 +31,13 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔭 Latest releases I've contributed to
 
-- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.10.1](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.10.1), today) - Rector for TYPO3
+- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.10.1](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.10.1), 1 day ago) - Rector for TYPO3
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.3](https://github.com/tighten/jigsaw/releases/tag/v1.8.3), 1 month ago) - Simple static sites with Laravel’s Blade.
 - [ddev/ddev](https://github.com/ddev/ddev) ([v1.24.10](https://github.com/ddev/ddev/releases/tag/v1.24.10), 1 month ago) - Docker-based local PHP&#43;Node.js web development environments
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
-- [TYPO3 Crawler - 20 Years in the TYPO3 Ecosystem](https://blog.tomasnorre.dk/blog/typo3-crawler-20years) (5 days ago)
+- [TYPO3 Crawler - 20 Years in the TYPO3 Ecosystem](https://blog.tomasnorre.dk/blog/typo3-crawler-20years) (6 days ago)
 - [Ubuntu on 2013 MacBook Pro](https://blog.tomasnorre.dk/blog/ubuntu-on-2013-macbook-pro) (2 weeks ago)
 - [Debian - Update Bookworm to Trixie](https://blog.tomasnorre.dk/blog/debian-update-bookworm-to-trixie) (1 month ago)
 - [Hetzner (affiliated)](https://blog.tomasnorre.dk/blog/hetzner) (1 month ago)
