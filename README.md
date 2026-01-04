@@ -17,13 +17,13 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (today)
-- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (5 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
+- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (6 days ago)
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (3 weeks ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: add Symfony to ecosystem](https://github.com/nunomaduro/whyphp.dev/pull/5) on [nunomaduro/whyphp.dev](https://github.com/nunomaduro/whyphp.dev) (4 days ago)
+- [feat: add Symfony to ecosystem](https://github.com/nunomaduro/whyphp.dev/pull/5) on [nunomaduro/whyphp.dev](https://github.com/nunomaduro/whyphp.dev) (5 days ago)
 - [!!! [TASK] Remove class JsonCompatibilityConverter](https://github.com/tomasnorre/crawler/pull/1241) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 month ago)
 - [[CI] Cleanup SKIP rectors](https://github.com/tomasnorre/crawler/pull/1240) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 month ago)
 - [[TASK] Add TYPO3 14 Support](https://github.com/tomasnorre/crawler/pull/1237) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 month ago)
@@ -37,7 +37,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
-- [Multiple Docker images, One Dockerfile](https://blog.tomasnorre.dk/blog/multiple-docker-images) (5 days ago)
+- [Multiple Docker images, One Dockerfile](https://blog.tomasnorre.dk/blog/multiple-docker-images) (6 days ago)
 - [TYPO3 Crawler - 20 Years in the TYPO3 Ecosystem](https://blog.tomasnorre.dk/blog/typo3-crawler-20years) (1 week ago)
 - [Ubuntu on 2013 MacBook Pro](https://blog.tomasnorre.dk/blog/ubuntu-on-2013-macbook-pro) (3 weeks ago)
 - [Debian - Update Bookworm to Trixie](https://blog.tomasnorre.dk/blog/debian-update-bookworm-to-trixie) (1 month ago)
@@ -45,7 +45,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### ⭐ Recent stars
 
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (4 days ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (5 days ago)
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (2 weeks ago)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (2 months ago)
 - [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins (2 months ago)
