@@ -3,7 +3,7 @@ name: Update README
 on:
   push:
   schedule:
-    - cron: "* */2 * * *"
+    - cron: "* */6 * * *"
 
 jobs:
   markscribe:
