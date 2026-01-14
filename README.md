@@ -31,17 +31,17 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔭 Latest releases I've contributed to
 
-- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.10.2](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.10.2), 1 week ago) - Rector for TYPO3
+- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.11.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.11.0), today) - Rector for TYPO3
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.3](https://github.com/tighten/jigsaw/releases/tag/v1.8.3), 1 month ago) - Simple static sites with Laravel’s Blade.
 - [ddev/ddev](https://github.com/ddev/ddev) ([v1.24.10](https://github.com/ddev/ddev/releases/tag/v1.24.10), 2 months ago) - Docker-based local PHP&#43;Node.js web development environments
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
+- [Sparkle Intel Arc A380 ELF on Linux](https://blog.tomasnorre.dk/blog/sparkle-intel-arc-a380-on-linux) (today)
 - [OpenVPN Specific Version](https://blog.tomasnorre.dk/blog/openvpn-specific-version) (1 day ago)
 - [Multiple Docker images, One Dockerfile](https://blog.tomasnorre.dk/blog/multiple-docker-images) (2 weeks ago)
 - [TYPO3 Crawler - 20 Years in the TYPO3 Ecosystem](https://blog.tomasnorre.dk/blog/typo3-crawler-20years) (3 weeks ago)
 - [Ubuntu on 2013 MacBook Pro](https://blog.tomasnorre.dk/blog/ubuntu-on-2013-macbook-pro) (1 month ago)
-- [Debian - Update Bookworm to Trixie](https://blog.tomasnorre.dk/blog/debian-update-bookworm-to-trixie) (1 month ago)
 
 #### ⭐ Recent stars
 
