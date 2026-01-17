@@ -17,7 +17,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (today)
 - [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (3 days ago)
 - [nunomaduro/whyphp.dev](https://github.com/nunomaduro/whyphp.dev) -  (1 week ago)
 
@@ -37,11 +37,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
+- [Bluetooth sound quality on Linux](https://blog.tomasnorre.dk/blog/bluetooth-sound-quality-linux) (today)
 - [Sparkle Intel Arc A380 ELF on Linux](https://blog.tomasnorre.dk/blog/sparkle-intel-arc-a380-on-linux) (3 days ago)
 - [OpenVPN Specific Version](https://blog.tomasnorre.dk/blog/openvpn-specific-version) (4 days ago)
 - [Multiple Docker images, One Dockerfile](https://blog.tomasnorre.dk/blog/multiple-docker-images) (2 weeks ago)
 - [TYPO3 Crawler - 20 Years in the TYPO3 Ecosystem](https://blog.tomasnorre.dk/blog/typo3-crawler-20years) (3 weeks ago)
-- [Ubuntu on 2013 MacBook Pro](https://blog.tomasnorre.dk/blog/ubuntu-on-2013-macbook-pro) (1 month ago)
 
 #### ⭐ Recent stars
 
