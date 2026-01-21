@@ -17,9 +17,9 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (today)
-- [tomasnorre/crawler-devbox-sitepackage](https://github.com/tomasnorre/crawler-devbox-sitepackage) - This a sitepackage used for the TYPO3 Crawler Devbox (1 day ago)
-- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (6 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
+- [tomasnorre/crawler-devbox-sitepackage](https://github.com/tomasnorre/crawler-devbox-sitepackage) - This a sitepackage used for the TYPO3 Crawler Devbox (2 days ago)
+- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (1 week ago)
 
 #### 🔨 Latest Pull Requests I published
 
@@ -31,15 +31,15 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔭 Latest releases I've contributed to
 
-- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.11.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.11.0), 6 days ago) - Rector for TYPO3
+- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.11.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.11.0), 1 week ago) - Rector for TYPO3
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.3](https://github.com/tighten/jigsaw/releases/tag/v1.8.3), 2 months ago) - Simple static sites with Laravel’s Blade.
 - [ddev/ddev](https://github.com/ddev/ddev) ([v1.24.10](https://github.com/ddev/ddev/releases/tag/v1.24.10), 2 months ago) - Docker-based local PHP&#43;Node.js web development environments
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
-- [Oh My Zsh](https://blog.tomasnorre.dk/blog/oh-my-zsh) (2 days ago)
-- [Bluetooth sound quality on Linux](https://blog.tomasnorre.dk/blog/bluetooth-sound-quality-linux) (3 days ago)
-- [Sparkle Intel Arc A380 ELF on Linux](https://blog.tomasnorre.dk/blog/sparkle-intel-arc-a380-on-linux) (6 days ago)
+- [Oh My Zsh](https://blog.tomasnorre.dk/blog/oh-my-zsh) (3 days ago)
+- [Bluetooth sound quality on Linux](https://blog.tomasnorre.dk/blog/bluetooth-sound-quality-linux) (4 days ago)
+- [Sparkle Intel Arc A380 ELF on Linux](https://blog.tomasnorre.dk/blog/sparkle-intel-arc-a380-on-linux) (1 week ago)
 - [OpenVPN Specific Version](https://blog.tomasnorre.dk/blog/openvpn-specific-version) (1 week ago)
 - [Multiple Docker images, One Dockerfile](https://blog.tomasnorre.dk/blog/multiple-docker-images) (3 weeks ago)
 
