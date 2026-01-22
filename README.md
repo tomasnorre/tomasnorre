@@ -17,17 +17,17 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (today)
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 day ago)
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
 - [tomasnorre/crawler-devbox-sitepackage](https://github.com/tomasnorre/crawler-devbox-sitepackage) - This a sitepackage used for the TYPO3 Crawler Devbox (3 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
+- [[TASK] Add missing playwright tests for TYPO3 14](https://github.com/tomasnorre/crawler/pull/1254) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
 - [feat: add PHPUnit to ecosystem](https://github.com/nunomaduro/whyphp.dev/pull/6) on [nunomaduro/whyphp.dev](https://github.com/nunomaduro/whyphp.dev) (2 weeks ago)
 - [feat: add Symfony to ecosystem](https://github.com/nunomaduro/whyphp.dev/pull/5) on [nunomaduro/whyphp.dev](https://github.com/nunomaduro/whyphp.dev) (3 weeks ago)
 - [!!! [TASK] Remove class JsonCompatibilityConverter](https://github.com/tomasnorre/crawler/pull/1241) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 month ago)
 - [[CI] Cleanup SKIP rectors](https://github.com/tomasnorre/crawler/pull/1240) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 month ago)
-- [[TASK] Add TYPO3 14 Support](https://github.com/tomasnorre/crawler/pull/1237) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -37,11 +37,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
+- [TYPO3 Crawler with TYPO3 14 Support](https://blog.tomasnorre.dk/blog/typo3-crawler-with-typo3-14-support) (today)
 - [Oh My Zsh](https://blog.tomasnorre.dk/blog/oh-my-zsh) (4 days ago)
 - [Bluetooth sound quality on Linux](https://blog.tomasnorre.dk/blog/bluetooth-sound-quality-linux) (5 days ago)
 - [Sparkle Intel Arc A380 ELF on Linux](https://blog.tomasnorre.dk/blog/sparkle-intel-arc-a380-on-linux) (1 week ago)
 - [OpenVPN Specific Version](https://blog.tomasnorre.dk/blog/openvpn-specific-version) (1 week ago)
-- [Multiple Docker images, One Dockerfile](https://blog.tomasnorre.dk/blog/multiple-docker-images) (3 weeks ago)
 
 #### ⭐ Recent stars
 
