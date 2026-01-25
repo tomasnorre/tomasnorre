@@ -17,15 +17,15 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (today)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 day ago)
-- [tomasnorre/crawler-devbox-sitepackage](https://github.com/tomasnorre/crawler-devbox-sitepackage) - This a sitepackage used for the TYPO3 Crawler Devbox (5 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (2 days ago)
+- [tomasnorre/crawler-devbox-sitepackage](https://github.com/tomasnorre/crawler-devbox-sitepackage) - This a sitepackage used for the TYPO3 Crawler Devbox (6 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [[CI] Only use self-hosted runners for V14 Acceptance Tests](https://github.com/tomasnorre/crawler/pull/1257) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [[TASK] Add missing playwright tests for TYPO3 14](https://github.com/tomasnorre/crawler/pull/1254) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
-- [feat: add PHPUnit to ecosystem](https://github.com/nunomaduro/whyphp.dev/pull/6) on [nunomaduro/whyphp.dev](https://github.com/nunomaduro/whyphp.dev) (2 weeks ago)
+- [[CI] Only use self-hosted runners for V14 Acceptance Tests](https://github.com/tomasnorre/crawler/pull/1257) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
+- [[TASK] Add missing playwright tests for TYPO3 14](https://github.com/tomasnorre/crawler/pull/1254) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 days ago)
+- [feat: add PHPUnit to ecosystem](https://github.com/nunomaduro/whyphp.dev/pull/6) on [nunomaduro/whyphp.dev](https://github.com/nunomaduro/whyphp.dev) (3 weeks ago)
 - [feat: add Symfony to ecosystem](https://github.com/nunomaduro/whyphp.dev/pull/5) on [nunomaduro/whyphp.dev](https://github.com/nunomaduro/whyphp.dev) (3 weeks ago)
 - [!!! [TASK] Remove class JsonCompatibilityConverter](https://github.com/tomasnorre/crawler/pull/1241) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 month ago)
 
@@ -37,16 +37,16 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
-- [How to set up a self-hosted GitHub Runner](https://blog.tomasnorre.dk/blog/self-hosted-github-runner) (today)
-- [TYPO3 Crawler with TYPO3 14 Support](https://blog.tomasnorre.dk/blog/typo3-crawler-with-typo3-14-support) (2 days ago)
-- [Oh My Zsh](https://blog.tomasnorre.dk/blog/oh-my-zsh) (6 days ago)
+- [How to set up a self-hosted GitHub Runner](https://blog.tomasnorre.dk/blog/self-hosted-github-runner) (1 day ago)
+- [TYPO3 Crawler with TYPO3 14 Support](https://blog.tomasnorre.dk/blog/typo3-crawler-with-typo3-14-support) (3 days ago)
+- [Oh My Zsh](https://blog.tomasnorre.dk/blog/oh-my-zsh) (1 week ago)
 - [Bluetooth sound quality on Linux](https://blog.tomasnorre.dk/blog/bluetooth-sound-quality-linux) (1 week ago)
 - [Sparkle Intel Arc A380 ELF on Linux](https://blog.tomasnorre.dk/blog/sparkle-intel-arc-a380-on-linux) (1 week ago)
 
 #### ⭐ Recent stars
 
-- [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements. (2 weeks ago)
-- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh (2 weeks ago)
+- [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements. (3 weeks ago)
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh (3 weeks ago)
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (3 weeks ago)
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (1 month ago)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (3 months ago)
