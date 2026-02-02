@@ -17,8 +17,8 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
-- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (4 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
+- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (5 days ago)
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 week ago)
 
 #### 🔨 Latest Pull Requests I published
@@ -33,11 +33,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 - [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.11.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.11.0), 2 weeks ago) - Rector for TYPO3
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.3](https://github.com/tighten/jigsaw/releases/tag/v1.8.3), 2 months ago) - Simple static sites with Laravel’s Blade.
-- [ddev/ddev](https://github.com/ddev/ddev) ([v1.24.10](https://github.com/ddev/ddev/releases/tag/v1.24.10), 2 months ago) - Docker-based local PHP&#43;Node.js web development environments
+- [ddev/ddev](https://github.com/ddev/ddev) ([v1.24.10](https://github.com/ddev/ddev/releases/tag/v1.24.10), 3 months ago) - Docker-based local PHP&#43;Node.js web development environments
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
-- [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles) (6 days ago)
+- [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles) (1 week ago)
 - [How to set up a self-hosted GitHub Runner](https://blog.tomasnorre.dk/blog/self-hosted-github-runner) (1 week ago)
 - [TYPO3 Crawler with TYPO3 14 Support](https://blog.tomasnorre.dk/blog/typo3-crawler-with-typo3-14-support) (1 week ago)
 - [Oh My Zsh](https://blog.tomasnorre.dk/blog/oh-my-zsh) (2 weeks ago)
@@ -45,7 +45,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### ⭐ Recent stars
 
-- [TomasVotruba/lines](https://github.com/TomasVotruba/lines) - CLI tool for quick size measure of PHP project, used PHP features and more. Zero dependencies. Runs anywhere (3 days ago)
+- [TomasVotruba/lines](https://github.com/TomasVotruba/lines) - CLI tool for quick size measure of PHP project, used PHP features and more. Zero dependencies. Runs anywhere (4 days ago)
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements. (4 weeks ago)
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh (4 weeks ago)
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 month ago)
