@@ -17,15 +17,15 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (today)
-- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (5 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
+- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (6 days ago)
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 week ago)
 
 #### 🔨 Latest Pull Requests I published
 
 - [[CI] Only use self-hosted runners for V14 Acceptance Tests](https://github.com/tomasnorre/crawler/pull/1257) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
 - [[TASK] Add missing playwright tests for TYPO3 14](https://github.com/tomasnorre/crawler/pull/1254) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
-- [feat: add PHPUnit to ecosystem](https://github.com/nunomaduro/whyphp.dev/pull/6) on [nunomaduro/whyphp.dev](https://github.com/nunomaduro/whyphp.dev) (4 weeks ago)
+- [feat: add PHPUnit to ecosystem](https://github.com/nunomaduro/whyphp.dev/pull/6) on [nunomaduro/whyphp.dev](https://github.com/nunomaduro/whyphp.dev) (1 month ago)
 - [feat: add Symfony to ecosystem](https://github.com/nunomaduro/whyphp.dev/pull/5) on [nunomaduro/whyphp.dev](https://github.com/nunomaduro/whyphp.dev) (1 month ago)
 - [!!! [TASK] Remove class JsonCompatibilityConverter](https://github.com/tomasnorre/crawler/pull/1241) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 months ago)
 
@@ -45,10 +45,10 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### ⭐ Recent stars
 
-- [shipmonk-rnd/coverage-guard](https://github.com/shipmonk-rnd/coverage-guard) - 🧪 Enforce PHP code coverage in your CI. Not by percentage, but target core methods! Allows you to start enforcing coverage for new code only!   Also contains tooling to merge and convert PHPUnit coverage files. (today)
-- [TomasVotruba/lines](https://github.com/TomasVotruba/lines) - CLI tool for quick size measure of PHP project, used PHP features and more. Zero dependencies. Runs anywhere (4 days ago)
-- [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements. (4 weeks ago)
-- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh (4 weeks ago)
+- [shipmonk-rnd/coverage-guard](https://github.com/shipmonk-rnd/coverage-guard) - 🧪 Enforce PHP code coverage in your CI. Not by percentage, but target core methods! Allows you to start enforcing coverage for new code only!   Also contains tooling to merge and convert PHPUnit coverage files. (1 day ago)
+- [TomasVotruba/lines](https://github.com/TomasVotruba/lines) - CLI tool for quick size measure of PHP project, used PHP features and more. Zero dependencies. Runs anywhere (5 days ago)
+- [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements. (1 month ago)
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh (1 month ago)
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 month ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/tomasnorre) (thank you!)
