@@ -23,11 +23,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: add dark mode](https://github.com/tomasnorre/dk-tomasnorre-blog/pull/142) on [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) (today)
 - [Feat/daisy UI darkmode](https://github.com/tomasnorre/dk-tomasnorre-blog/pull/141) on [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) (2 days ago)
 - [[CI] Only use self-hosted runners for V14 Acceptance Tests](https://github.com/tomasnorre/crawler/pull/1257) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 weeks ago)
 - [[TASK] Add missing playwright tests for TYPO3 14](https://github.com/tomasnorre/crawler/pull/1254) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 weeks ago)
 - [feat: add PHPUnit to ecosystem](https://github.com/nunomaduro/whyphp.dev/pull/6) on [nunomaduro/whyphp.dev](https://github.com/nunomaduro/whyphp.dev) (1 month ago)
-- [feat: add Symfony to ecosystem](https://github.com/nunomaduro/whyphp.dev/pull/5) on [nunomaduro/whyphp.dev](https://github.com/nunomaduro/whyphp.dev) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
