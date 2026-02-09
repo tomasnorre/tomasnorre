@@ -17,17 +17,17 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (today)
 - [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (6 days ago)
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (2 weeks ago)
 
 #### 🔨 Latest Pull Requests I published
 
+- [Fix command for installing InkyPi plugin](https://github.com/fatihak/InkyPi-Plugin-Template/pull/1) on [fatihak/InkyPi-Plugin-Template](https://github.com/fatihak/InkyPi-Plugin-Template) (today)
 - [feat: add dark mode](https://github.com/tomasnorre/dk-tomasnorre-blog/pull/142) on [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) (3 days ago)
 - [Feat/daisy UI darkmode](https://github.com/tomasnorre/dk-tomasnorre-blog/pull/141) on [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) (5 days ago)
 - [[CI] Only use self-hosted runners for V14 Acceptance Tests](https://github.com/tomasnorre/crawler/pull/1257) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 weeks ago)
 - [[TASK] Add missing playwright tests for TYPO3 14](https://github.com/tomasnorre/crawler/pull/1254) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 weeks ago)
-- [feat: add PHPUnit to ecosystem](https://github.com/nunomaduro/whyphp.dev/pull/6) on [nunomaduro/whyphp.dev](https://github.com/nunomaduro/whyphp.dev) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
