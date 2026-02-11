@@ -23,11 +23,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: remove .scrutinizer.yml as not used anymore](https://github.com/AOEpeople/TYPO3-Update-Refindex/pull/19) on [AOEpeople/TYPO3-Update-Refindex](https://github.com/AOEpeople/TYPO3-Update-Refindex) (today)
 - [Fix command for installing InkyPi plugin](https://github.com/fatihak/InkyPi-Plugin-Template/pull/1) on [fatihak/InkyPi-Plugin-Template](https://github.com/fatihak/InkyPi-Plugin-Template) (2 days ago)
 - [feat: add dark mode](https://github.com/tomasnorre/dk-tomasnorre-blog/pull/142) on [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) (5 days ago)
 - [Feat/daisy UI darkmode](https://github.com/tomasnorre/dk-tomasnorre-blog/pull/141) on [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) (1 week ago)
 - [[CI] Only use self-hosted runners for V14 Acceptance Tests](https://github.com/tomasnorre/crawler/pull/1257) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 weeks ago)
-- [[TASK] Add missing playwright tests for TYPO3 14](https://github.com/tomasnorre/crawler/pull/1254) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
