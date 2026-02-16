@@ -17,15 +17,15 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (today)
-- [AOEpeople/TYPO3-Update-Refindex](https://github.com/AOEpeople/TYPO3-Update-Refindex) - TYPO3-Extension to update the TYPO3-refindex for specified tables via a scheduler-task (4 days ago)
-- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (5 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
+- [AOEpeople/TYPO3-Update-Refindex](https://github.com/AOEpeople/TYPO3-Update-Refindex) - TYPO3-Extension to update the TYPO3-refindex for specified tables via a scheduler-task (5 days ago)
+- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (6 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [[TASK] Cleanup](https://github.com/AOEpeople/TYPO3-Cache-Management/pull/20) on [AOEpeople/TYPO3-Cache-Management](https://github.com/AOEpeople/TYPO3-Cache-Management) (3 days ago)
-- [chore: remove .scrutinizer.yml as not used anymore](https://github.com/AOEpeople/TYPO3-Update-Refindex/pull/19) on [AOEpeople/TYPO3-Update-Refindex](https://github.com/AOEpeople/TYPO3-Update-Refindex) (4 days ago)
-- [Fix command for installing InkyPi plugin](https://github.com/fatihak/InkyPi-Plugin-Template/pull/1) on [fatihak/InkyPi-Plugin-Template](https://github.com/fatihak/InkyPi-Plugin-Template) (6 days ago)
+- [[TASK] Cleanup](https://github.com/AOEpeople/TYPO3-Cache-Management/pull/20) on [AOEpeople/TYPO3-Cache-Management](https://github.com/AOEpeople/TYPO3-Cache-Management) (4 days ago)
+- [chore: remove .scrutinizer.yml as not used anymore](https://github.com/AOEpeople/TYPO3-Update-Refindex/pull/19) on [AOEpeople/TYPO3-Update-Refindex](https://github.com/AOEpeople/TYPO3-Update-Refindex) (5 days ago)
+- [Fix command for installing InkyPi plugin](https://github.com/fatihak/InkyPi-Plugin-Template/pull/1) on [fatihak/InkyPi-Plugin-Template](https://github.com/fatihak/InkyPi-Plugin-Template) (1 week ago)
 - [feat: add dark mode](https://github.com/tomasnorre/dk-tomasnorre-blog/pull/142) on [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) (1 week ago)
 - [Feat/daisy UI darkmode](https://github.com/tomasnorre/dk-tomasnorre-blog/pull/141) on [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) (1 week ago)
 
@@ -37,16 +37,16 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
-- [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles) (2 weeks ago)
+- [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles) (3 weeks ago)
 - [How to set up a self-hosted GitHub Runner](https://blog.tomasnorre.dk/blog/self-hosted-github-runner) (3 weeks ago)
 - [TYPO3 Crawler with TYPO3 14 Support](https://blog.tomasnorre.dk/blog/typo3-crawler-with-typo3-14-support) (3 weeks ago)
 - [Oh My Zsh](https://blog.tomasnorre.dk/blog/oh-my-zsh) (4 weeks ago)
-- [Bluetooth sound quality on Linux](https://blog.tomasnorre.dk/blog/bluetooth-sound-quality-linux) (4 weeks ago)
+- [Bluetooth sound quality on Linux](https://blog.tomasnorre.dk/blog/bluetooth-sound-quality-linux) (1 month ago)
 
 #### ⭐ Recent stars
 
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based. (1 week ago)
-- [shipmonk-rnd/coverage-guard](https://github.com/shipmonk-rnd/coverage-guard) - 🧪 Enforce PHP code coverage in your CI. Not by percentage, but target core methods! Allows you to start enforcing coverage for new code only!   Also contains tooling to merge and convert PHPUnit coverage files. (1 week ago)
+- [shipmonk-rnd/coverage-guard](https://github.com/shipmonk-rnd/coverage-guard) - 🧪 Enforce PHP code coverage in your CI. Not by percentage, but target core methods! Allows you to start enforcing coverage for new code only!   Also contains tooling to merge and convert PHPUnit coverage files. (2 weeks ago)
 - [TomasVotruba/lines](https://github.com/TomasVotruba/lines) - CLI tool for quick size measure of PHP project, used PHP features and more. Zero dependencies. Runs anywhere (2 weeks ago)
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements. (1 month ago)
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh (1 month ago)
