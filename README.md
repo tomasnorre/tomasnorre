@@ -17,21 +17,21 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
-- [AOEpeople/TYPO3-Update-Refindex](https://github.com/AOEpeople/TYPO3-Update-Refindex) - TYPO3-Extension to update the TYPO3-refindex for specified tables via a scheduler-task (5 days ago)
-- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (6 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
+- [AOEpeople/TYPO3-Update-Refindex](https://github.com/AOEpeople/TYPO3-Update-Refindex) - TYPO3-Extension to update the TYPO3-refindex for specified tables via a scheduler-task (6 days ago)
+- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (1 week ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [[TASK] Cleanup](https://github.com/AOEpeople/TYPO3-Cache-Management/pull/20) on [AOEpeople/TYPO3-Cache-Management](https://github.com/AOEpeople/TYPO3-Cache-Management) (4 days ago)
-- [chore: remove .scrutinizer.yml as not used anymore](https://github.com/AOEpeople/TYPO3-Update-Refindex/pull/19) on [AOEpeople/TYPO3-Update-Refindex](https://github.com/AOEpeople/TYPO3-Update-Refindex) (5 days ago)
+- [[TASK] Cleanup](https://github.com/AOEpeople/TYPO3-Cache-Management/pull/20) on [AOEpeople/TYPO3-Cache-Management](https://github.com/AOEpeople/TYPO3-Cache-Management) (5 days ago)
+- [chore: remove .scrutinizer.yml as not used anymore](https://github.com/AOEpeople/TYPO3-Update-Refindex/pull/19) on [AOEpeople/TYPO3-Update-Refindex](https://github.com/AOEpeople/TYPO3-Update-Refindex) (6 days ago)
 - [Fix command for installing InkyPi plugin](https://github.com/fatihak/InkyPi-Plugin-Template/pull/1) on [fatihak/InkyPi-Plugin-Template](https://github.com/fatihak/InkyPi-Plugin-Template) (1 week ago)
 - [feat: add dark mode](https://github.com/tomasnorre/dk-tomasnorre-blog/pull/142) on [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) (1 week ago)
 - [Feat/daisy UI darkmode](https://github.com/tomasnorre/dk-tomasnorre-blog/pull/141) on [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.0](https://github.com/ddev/ddev/releases/tag/v1.25.0), 1 week ago) - Docker-based local PHP&#43;Node.js web development environments
+- [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.0](https://github.com/ddev/ddev/releases/tag/v1.25.0), 2 weeks ago) - Docker-based local PHP&#43;Node.js web development environments
 - [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.11.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.11.0), 1 month ago) - Rector for TYPO3
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.3](https://github.com/tighten/jigsaw/releases/tag/v1.8.3), 2 months ago) - Simple static sites with Laravel’s Blade.
 
@@ -40,7 +40,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 - [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles) (3 weeks ago)
 - [How to set up a self-hosted GitHub Runner](https://blog.tomasnorre.dk/blog/self-hosted-github-runner) (3 weeks ago)
 - [TYPO3 Crawler with TYPO3 14 Support](https://blog.tomasnorre.dk/blog/typo3-crawler-with-typo3-14-support) (3 weeks ago)
-- [Oh My Zsh](https://blog.tomasnorre.dk/blog/oh-my-zsh) (4 weeks ago)
+- [Oh My Zsh](https://blog.tomasnorre.dk/blog/oh-my-zsh) (1 month ago)
 - [Bluetooth sound quality on Linux](https://blog.tomasnorre.dk/blog/bluetooth-sound-quality-linux) (1 month ago)
 
 #### ⭐ Recent stars
