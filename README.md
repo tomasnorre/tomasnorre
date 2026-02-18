@@ -17,17 +17,17 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
-- [AOEpeople/TYPO3-Cache-Management](https://github.com/AOEpeople/TYPO3-Cache-Management) - Provides management of the page caching for high traffic websites. (5 days ago)
-- [AOEpeople/TYPO3-Update-Refindex](https://github.com/AOEpeople/TYPO3-Update-Refindex) - TYPO3-Extension to update the TYPO3-refindex for specified tables via a scheduler-task (6 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (3 days ago)
+- [AOEpeople/TYPO3-Cache-Management](https://github.com/AOEpeople/TYPO3-Cache-Management) - Provides management of the page caching for high traffic websites. (6 days ago)
+- [AOEpeople/TYPO3-Update-Refindex](https://github.com/AOEpeople/TYPO3-Update-Refindex) - TYPO3-Extension to update the TYPO3-refindex for specified tables via a scheduler-task (1 week ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [[TASK] Cleanup](https://github.com/AOEpeople/TYPO3-Cache-Management/pull/20) on [AOEpeople/TYPO3-Cache-Management](https://github.com/AOEpeople/TYPO3-Cache-Management) (5 days ago)
-- [chore: remove .scrutinizer.yml as not used anymore](https://github.com/AOEpeople/TYPO3-Update-Refindex/pull/19) on [AOEpeople/TYPO3-Update-Refindex](https://github.com/AOEpeople/TYPO3-Update-Refindex) (6 days ago)
+- [[TASK] Cleanup](https://github.com/AOEpeople/TYPO3-Cache-Management/pull/20) on [AOEpeople/TYPO3-Cache-Management](https://github.com/AOEpeople/TYPO3-Cache-Management) (6 days ago)
+- [chore: remove .scrutinizer.yml as not used anymore](https://github.com/AOEpeople/TYPO3-Update-Refindex/pull/19) on [AOEpeople/TYPO3-Update-Refindex](https://github.com/AOEpeople/TYPO3-Update-Refindex) (1 week ago)
 - [Fix command for installing InkyPi plugin](https://github.com/fatihak/InkyPi-Plugin-Template/pull/1) on [fatihak/InkyPi-Plugin-Template](https://github.com/fatihak/InkyPi-Plugin-Template) (1 week ago)
 - [feat: add dark mode](https://github.com/tomasnorre/dk-tomasnorre-blog/pull/142) on [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) (1 week ago)
-- [Feat/daisy UI darkmode](https://github.com/tomasnorre/dk-tomasnorre-blog/pull/141) on [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) (1 week ago)
+- [Feat/daisy UI darkmode](https://github.com/tomasnorre/dk-tomasnorre-blog/pull/141) on [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
