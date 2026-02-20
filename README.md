@@ -45,11 +45,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### ⭐ Recent stars
 
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based. (2 weeks ago)
-- [shipmonk-rnd/coverage-guard](https://github.com/shipmonk-rnd/coverage-guard) - 🧪 Enforce PHP code coverage in your CI. Not by percentage, but target core methods! Allows you to start enforcing coverage for new code only!   Also contains tooling to merge and convert PHPUnit coverage files. (2 weeks ago)
-- [TomasVotruba/lines](https://github.com/TomasVotruba/lines) - CLI tool for quick size measure of PHP project, used PHP features and more. Zero dependencies. Runs anywhere (3 weeks ago)
-- [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements. (1 month ago)
-- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh (1 month ago)
+- [nette/schema](https://github.com/nette/schema) - 📐 Validating data structures against a given Schema. (today)
+- [CarbonPHP/carbon](https://github.com/CarbonPHP/carbon) - A simple PHP API extension for DateTime. (today)
+- [myclabs/DeepCopy](https://github.com/myclabs/DeepCopy) - Create deep copies (clones) of your objects (today)
+- [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). (today)
+- [thephpleague/uri-interfaces](https://github.com/thephpleague/uri-interfaces) - [READ-ONLY] League URI common  (today)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/tomasnorre) (thank you!)
 
