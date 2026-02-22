@@ -31,7 +31,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔭 Latest releases I've contributed to
 
-- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.12.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.12.0), 3 days ago) - Rector for TYPO3
+- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.12.1](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.12.1), today) - Rector for TYPO3
 - [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.0](https://github.com/ddev/ddev/releases/tag/v1.25.0), 2 weeks ago) - Docker-based local PHP&#43;Node.js web development environments
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.3](https://github.com/tighten/jigsaw/releases/tag/v1.8.3), 3 months ago) - Simple static sites with Laravel’s Blade.
 
