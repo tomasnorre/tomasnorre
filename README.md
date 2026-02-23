@@ -17,7 +17,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
 - [AOEpeople/TYPO3-Cache-Management](https://github.com/AOEpeople/TYPO3-Cache-Management) - Provides management of the page caching for high traffic websites. (1 week ago)
 - [AOEpeople/TYPO3-Update-Refindex](https://github.com/AOEpeople/TYPO3-Update-Refindex) - TYPO3-Extension to update the TYPO3-refindex for specified tables via a scheduler-task (1 week ago)
 
@@ -25,31 +25,31 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 - [[TASK] Cleanup](https://github.com/AOEpeople/TYPO3-Cache-Management/pull/20) on [AOEpeople/TYPO3-Cache-Management](https://github.com/AOEpeople/TYPO3-Cache-Management) (1 week ago)
 - [chore: remove .scrutinizer.yml as not used anymore](https://github.com/AOEpeople/TYPO3-Update-Refindex/pull/19) on [AOEpeople/TYPO3-Update-Refindex](https://github.com/AOEpeople/TYPO3-Update-Refindex) (1 week ago)
-- [Fix command for installing InkyPi plugin](https://github.com/fatihak/InkyPi-Plugin-Template/pull/1) on [fatihak/InkyPi-Plugin-Template](https://github.com/fatihak/InkyPi-Plugin-Template) (1 week ago)
+- [Fix command for installing InkyPi plugin](https://github.com/fatihak/InkyPi-Plugin-Template/pull/1) on [fatihak/InkyPi-Plugin-Template](https://github.com/fatihak/InkyPi-Plugin-Template) (2 weeks ago)
 - [feat: add dark mode](https://github.com/tomasnorre/dk-tomasnorre-blog/pull/142) on [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) (2 weeks ago)
 - [Feat/daisy UI darkmode](https://github.com/tomasnorre/dk-tomasnorre-blog/pull/141) on [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.12.1](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.12.1), today) - Rector for TYPO3
+- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.12.1](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.12.1), 1 day ago) - Rector for TYPO3
 - [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.0](https://github.com/ddev/ddev/releases/tag/v1.25.0), 2 weeks ago) - Docker-based local PHP&#43;Node.js web development environments
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.3](https://github.com/tighten/jigsaw/releases/tag/v1.8.3), 3 months ago) - Simple static sites with Laravel’s Blade.
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
-- [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles) (3 weeks ago)
-- [How to set up a self-hosted GitHub Runner](https://blog.tomasnorre.dk/blog/self-hosted-github-runner) (4 weeks ago)
+- [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles) (4 weeks ago)
+- [How to set up a self-hosted GitHub Runner](https://blog.tomasnorre.dk/blog/self-hosted-github-runner) (1 month ago)
 - [TYPO3 Crawler with TYPO3 14 Support](https://blog.tomasnorre.dk/blog/typo3-crawler-with-typo3-14-support) (1 month ago)
 - [Oh My Zsh](https://blog.tomasnorre.dk/blog/oh-my-zsh) (1 month ago)
 - [Bluetooth sound quality on Linux](https://blog.tomasnorre.dk/blog/bluetooth-sound-quality-linux) (1 month ago)
 
 #### ⭐ Recent stars
 
-- [nette/schema](https://github.com/nette/schema) - 📐 Validating data structures against a given Schema. (2 days ago)
-- [CarbonPHP/carbon](https://github.com/CarbonPHP/carbon) - A simple PHP API extension for DateTime. (2 days ago)
-- [myclabs/DeepCopy](https://github.com/myclabs/DeepCopy) - Create deep copies (clones) of your objects (2 days ago)
-- [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). (2 days ago)
-- [thephpleague/uri-interfaces](https://github.com/thephpleague/uri-interfaces) - [READ-ONLY] League URI common  (2 days ago)
+- [nette/schema](https://github.com/nette/schema) - 📐 Validating data structures against a given Schema. (3 days ago)
+- [CarbonPHP/carbon](https://github.com/CarbonPHP/carbon) - A simple PHP API extension for DateTime. (3 days ago)
+- [myclabs/DeepCopy](https://github.com/myclabs/DeepCopy) - Create deep copies (clones) of your objects (3 days ago)
+- [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). (3 days ago)
+- [thephpleague/uri-interfaces](https://github.com/thephpleague/uri-interfaces) - [READ-ONLY] League URI common  (3 days ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/tomasnorre) (thank you!)
 
