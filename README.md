@@ -17,7 +17,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (4 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (5 days ago)
 - [AOEpeople/TYPO3-Cache-Management](https://github.com/AOEpeople/TYPO3-Cache-Management) - Provides management of the page caching for high traffic websites. (2 weeks ago)
 - [AOEpeople/TYPO3-Update-Refindex](https://github.com/AOEpeople/TYPO3-Update-Refindex) - TYPO3-Extension to update the TYPO3-refindex for specified tables via a scheduler-task (2 weeks ago)
 
@@ -45,11 +45,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### ⭐ Recent stars
 
-- [voku/portable-ascii](https://github.com/voku/portable-ascii) - 🔡 Portable ASCII library - performance optimized (ascii) string functions for PHP. (4 days ago)
-- [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically. (4 days ago)
-- [tighten/jigsaw](https://github.com/tighten/jigsaw) - Simple static sites with Laravel’s Blade. (4 days ago)
-- [symfony/translation-contracts](https://github.com/symfony/translation-contracts) - A set of translation abstractions extracted out of the Symfony components (4 days ago)
-- [symfony/translation](https://github.com/symfony/translation) - Provides tools to internationalize your application (4 days ago)
+- [voku/portable-ascii](https://github.com/voku/portable-ascii) - 🔡 Portable ASCII library - performance optimized (ascii) string functions for PHP. (5 days ago)
+- [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically. (5 days ago)
+- [tighten/jigsaw](https://github.com/tighten/jigsaw) - Simple static sites with Laravel’s Blade. (5 days ago)
+- [symfony/translation-contracts](https://github.com/symfony/translation-contracts) - A set of translation abstractions extracted out of the Symfony components (5 days ago)
+- [symfony/translation](https://github.com/symfony/translation) - Provides tools to internationalize your application (5 days ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/tomasnorre) (thank you!)
 
