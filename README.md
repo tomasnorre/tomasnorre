@@ -17,9 +17,9 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
+- [AOEpeople/TYPO3-varnish](https://github.com/AOEpeople/TYPO3-varnish) - This is a TYPO3-Extension that integrates the popular Varnish HTTP Cache into TYPO3. (1 day ago)
 - [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (6 days ago)
 - [AOEpeople/TYPO3-Cache-Management](https://github.com/AOEpeople/TYPO3-Cache-Management) - Provides management of the page caching for high traffic websites. (2 weeks ago)
-- [AOEpeople/TYPO3-Update-Refindex](https://github.com/AOEpeople/TYPO3-Update-Refindex) - TYPO3-Extension to update the TYPO3-refindex for specified tables via a scheduler-task (3 weeks ago)
 
 #### 🔨 Latest Pull Requests I published
 
