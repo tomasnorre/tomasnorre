@@ -41,7 +41,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 - [How to set up a self-hosted GitHub Runner](https://blog.tomasnorre.dk/blog/self-hosted-github-runner) (1 month ago)
 - [TYPO3 Crawler with TYPO3 14 Support](https://blog.tomasnorre.dk/blog/typo3-crawler-with-typo3-14-support) (1 month ago)
 - [Oh My Zsh](https://blog.tomasnorre.dk/blog/oh-my-zsh) (1 month ago)
-- [Bluetooth sound quality on Linux](https://blog.tomasnorre.dk/blog/bluetooth-sound-quality-linux) (1 month ago)
+- [Bluetooth sound quality on Linux](https://blog.tomasnorre.dk/blog/bluetooth-sound-quality-linux) (2 months ago)
 
 #### ⭐ Recent stars
 
