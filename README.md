@@ -17,7 +17,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (3 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (4 days ago)
 - [AOEpeople/TYPO3-varnish](https://github.com/AOEpeople/TYPO3-varnish) - This is a TYPO3-Extension that integrates the popular Varnish HTTP Cache into TYPO3. (2 weeks ago)
 - [AOEpeople/TYPO3-Cache-Management](https://github.com/AOEpeople/TYPO3-Cache-Management) - Provides management of the page caching for high traffic websites. (1 month ago)
 
@@ -31,15 +31,15 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔭 Latest releases I've contributed to
 
-- [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.5](https://github.com/tighten/jigsaw/releases/tag/v1.8.5), 4 days ago) - Simple static sites with Laravel’s Blade.
+- [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.5](https://github.com/tighten/jigsaw/releases/tag/v1.8.5), 5 days ago) - Simple static sites with Laravel’s Blade.
 - [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.13.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.13.0), 1 week ago) - Rector for TYPO3
-- [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.1](https://github.com/ddev/ddev/releases/tag/v1.25.1), 3 weeks ago) - Docker-based local PHP&#43;Node.js web development environments
+- [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.1](https://github.com/ddev/ddev/releases/tag/v1.25.1), 4 weeks ago) - Docker-based local PHP&#43;Node.js web development environments
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
 - [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles) (1 month ago)
 - [How to set up a self-hosted GitHub Runner](https://blog.tomasnorre.dk/blog/self-hosted-github-runner) (1 month ago)
-- [TYPO3 Crawler with TYPO3 14 Support](https://blog.tomasnorre.dk/blog/typo3-crawler-with-typo3-14-support) (1 month ago)
+- [TYPO3 Crawler with TYPO3 14 Support](https://blog.tomasnorre.dk/blog/typo3-crawler-with-typo3-14-support) (2 months ago)
 - [Oh My Zsh](https://blog.tomasnorre.dk/blog/oh-my-zsh) (2 months ago)
 - [Bluetooth sound quality on Linux](https://blog.tomasnorre.dk/blog/bluetooth-sound-quality-linux) (2 months ago)
 
