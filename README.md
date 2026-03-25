@@ -18,27 +18,27 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 #### 👷 Check out what I'm currently working on
 
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 day ago)
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (5 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (6 days ago)
 - [AOEpeople/TYPO3-varnish](https://github.com/AOEpeople/TYPO3-varnish) - This is a TYPO3-Extension that integrates the popular Varnish HTTP Cache into TYPO3. (3 weeks ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Cleanup and Documentation](https://github.com/AOEpeople/TYPO3-varnish/pull/14) on [AOEpeople/TYPO3-varnish](https://github.com/AOEpeople/TYPO3-varnish) (3 weeks ago)
-- [[TASK] Cleanup](https://github.com/AOEpeople/TYPO3-Cache-Management/pull/20) on [AOEpeople/TYPO3-Cache-Management](https://github.com/AOEpeople/TYPO3-Cache-Management) (1 month ago)
-- [chore: remove .scrutinizer.yml as not used anymore](https://github.com/AOEpeople/TYPO3-Update-Refindex/pull/19) on [AOEpeople/TYPO3-Update-Refindex](https://github.com/AOEpeople/TYPO3-Update-Refindex) (1 month ago)
-- [Fix command for installing InkyPi plugin](https://github.com/fatihak/InkyPi-Plugin-Template/pull/1) on [fatihak/InkyPi-Plugin-Template](https://github.com/fatihak/InkyPi-Plugin-Template) (1 month ago)
-- [feat: add dark mode](https://github.com/tomasnorre/dk-tomasnorre-blog/pull/142) on [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) (1 month ago)
+- [[BUGFIX] Switch to GroupResolver for beGroups](https://github.com/tomasnorre/crawler/pull/1271) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [[BUGFIX] Switch to GroupResolver for beGroups](https://github.com/tomasnorre/crawler/pull/1270) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [[CI] Add Scheduled 02:07 for Acceptance Tests](https://github.com/tomasnorre/crawler/pull/1269) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [[TASK] Remove Dependecy for typo3-cms/seo and only enable logic when present](https://github.com/tomasnorre/crawler/pull/1268) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [New Crowdin updates](https://github.com/tomasnorre/crawler/pull/1267) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.5](https://github.com/tighten/jigsaw/releases/tag/v1.8.5), 6 days ago) - Simple static sites with Laravel’s Blade.
+- [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.5](https://github.com/tighten/jigsaw/releases/tag/v1.8.5), 1 week ago) - Simple static sites with Laravel’s Blade.
 - [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.13.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.13.0), 2 weeks ago) - Rector for TYPO3
-- [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.1](https://github.com/ddev/ddev/releases/tag/v1.25.1), 4 weeks ago) - Docker-based local PHP&#43;Node.js web development environments
+- [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.1](https://github.com/ddev/ddev/releases/tag/v1.25.1), 1 month ago) - Docker-based local PHP&#43;Node.js web development environments
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
 - [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles) (1 month ago)
-- [How to set up a self-hosted GitHub Runner](https://blog.tomasnorre.dk/blog/self-hosted-github-runner) (1 month ago)
+- [How to set up a self-hosted GitHub Runner](https://blog.tomasnorre.dk/blog/self-hosted-github-runner) (2 months ago)
 - [TYPO3 Crawler with TYPO3 14 Support](https://blog.tomasnorre.dk/blog/typo3-crawler-with-typo3-14-support) (2 months ago)
 - [Oh My Zsh](https://blog.tomasnorre.dk/blog/oh-my-zsh) (2 months ago)
 - [Bluetooth sound quality on Linux](https://blog.tomasnorre.dk/blog/bluetooth-sound-quality-linux) (2 months ago)
