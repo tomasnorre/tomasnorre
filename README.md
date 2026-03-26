@@ -17,17 +17,17 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 day ago)
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (6 days ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (2 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 week ago)
 - [AOEpeople/TYPO3-varnish](https://github.com/AOEpeople/TYPO3-varnish) - This is a TYPO3-Extension that integrates the popular Varnish HTTP Cache into TYPO3. (3 weeks ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [[BUGFIX] Switch to GroupResolver for beGroups](https://github.com/tomasnorre/crawler/pull/1271) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [[BUGFIX] Switch to GroupResolver for beGroups](https://github.com/tomasnorre/crawler/pull/1270) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [[CI] Add Scheduled 02:07 for Acceptance Tests](https://github.com/tomasnorre/crawler/pull/1269) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [[TASK] Remove Dependecy for typo3-cms/seo and only enable logic when present](https://github.com/tomasnorre/crawler/pull/1268) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [New Crowdin updates](https://github.com/tomasnorre/crawler/pull/1267) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [[BUGFIX] Switch to GroupResolver for beGroups](https://github.com/tomasnorre/crawler/pull/1271) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
+- [[BUGFIX] Switch to GroupResolver for beGroups](https://github.com/tomasnorre/crawler/pull/1270) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
+- [[CI] Add Scheduled 02:07 for Acceptance Tests](https://github.com/tomasnorre/crawler/pull/1269) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
+- [[TASK] Remove Dependecy for typo3-cms/seo and only enable logic when present](https://github.com/tomasnorre/crawler/pull/1268) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
+- [New Crowdin updates](https://github.com/tomasnorre/crawler/pull/1267) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -45,11 +45,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### ⭐ Recent stars
 
-- [voku/portable-ascii](https://github.com/voku/portable-ascii) - 🔡 Portable ASCII library - performance optimized (ascii) string functions for PHP. (3 weeks ago)
-- [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically. (3 weeks ago)
-- [tighten/jigsaw](https://github.com/tighten/jigsaw) - Simple static sites with Laravel’s Blade. (3 weeks ago)
-- [symfony/translation-contracts](https://github.com/symfony/translation-contracts) - A set of translation abstractions extracted out of the Symfony components (3 weeks ago)
-- [symfony/translation](https://github.com/symfony/translation) - Provides tools to internationalize your application (3 weeks ago)
+- [voku/portable-ascii](https://github.com/voku/portable-ascii) - 🔡 Portable ASCII library - performance optimized (ascii) string functions for PHP. (4 weeks ago)
+- [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically. (4 weeks ago)
+- [tighten/jigsaw](https://github.com/tighten/jigsaw) - Simple static sites with Laravel’s Blade. (4 weeks ago)
+- [symfony/translation-contracts](https://github.com/symfony/translation-contracts) - A set of translation abstractions extracted out of the Symfony components (4 weeks ago)
+- [symfony/translation](https://github.com/symfony/translation) - Provides tools to internationalize your application (4 weeks ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/tomasnorre) (thank you!)
 
