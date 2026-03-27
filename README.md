@@ -17,17 +17,17 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (2 days ago)
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 week ago)
-- [AOEpeople/TYPO3-varnish](https://github.com/AOEpeople/TYPO3-varnish) - This is a TYPO3-Extension that integrates the popular Varnish HTTP Cache into TYPO3. (3 weeks ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
+- [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) - restler (PHP REST-Framework) for TYPO3 (1 day ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (3 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [[BUGFIX] Switch to GroupResolver for beGroups](https://github.com/tomasnorre/crawler/pull/1271) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
-- [[BUGFIX] Switch to GroupResolver for beGroups](https://github.com/tomasnorre/crawler/pull/1270) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
-- [[CI] Add Scheduled 02:07 for Acceptance Tests](https://github.com/tomasnorre/crawler/pull/1269) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
-- [[TASK] Remove Dependecy for typo3-cms/seo and only enable logic when present](https://github.com/tomasnorre/crawler/pull/1268) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
-- [New Crowdin updates](https://github.com/tomasnorre/crawler/pull/1267) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
+- [Cleanup](https://github.com/AOEpeople/TYPO3_Restler/pull/89) on [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) (1 day ago)
+- [[BUGFIX] Switch to GroupResolver for beGroups](https://github.com/tomasnorre/crawler/pull/1271) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 days ago)
+- [[BUGFIX] Switch to GroupResolver for beGroups](https://github.com/tomasnorre/crawler/pull/1270) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 days ago)
+- [[CI] Add Scheduled 02:07 for Acceptance Tests](https://github.com/tomasnorre/crawler/pull/1269) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 days ago)
+- [[TASK] Remove Dependecy for typo3-cms/seo and only enable logic when present](https://github.com/tomasnorre/crawler/pull/1268) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -37,7 +37,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
-- [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles) (1 month ago)
+- [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles) (2 months ago)
 - [How to set up a self-hosted GitHub Runner](https://blog.tomasnorre.dk/blog/self-hosted-github-runner) (2 months ago)
 - [TYPO3 Crawler with TYPO3 14 Support](https://blog.tomasnorre.dk/blog/typo3-crawler-with-typo3-14-support) (2 months ago)
 - [Oh My Zsh](https://blog.tomasnorre.dk/blog/oh-my-zsh) (2 months ago)
