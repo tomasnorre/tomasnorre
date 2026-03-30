@@ -17,21 +17,21 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
-- [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) - restler (PHP REST-Framework) for TYPO3 (3 days ago)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (5 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
+- [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) - restler (PHP REST-Framework) for TYPO3 (4 days ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (6 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Cleanup](https://github.com/AOEpeople/TYPO3_Restler/pull/89) on [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) (3 days ago)
-- [[BUGFIX] Switch to GroupResolver for beGroups](https://github.com/tomasnorre/crawler/pull/1271) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (5 days ago)
-- [[BUGFIX] Switch to GroupResolver for beGroups](https://github.com/tomasnorre/crawler/pull/1270) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (5 days ago)
-- [[CI] Add Scheduled 02:07 for Acceptance Tests](https://github.com/tomasnorre/crawler/pull/1269) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (5 days ago)
-- [[TASK] Remove Dependecy for typo3-cms/seo and only enable logic when present](https://github.com/tomasnorre/crawler/pull/1268) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (5 days ago)
+- [Cleanup](https://github.com/AOEpeople/TYPO3_Restler/pull/89) on [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) (4 days ago)
+- [[BUGFIX] Switch to GroupResolver for beGroups](https://github.com/tomasnorre/crawler/pull/1271) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (6 days ago)
+- [[BUGFIX] Switch to GroupResolver for beGroups](https://github.com/tomasnorre/crawler/pull/1270) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (6 days ago)
+- [[CI] Add Scheduled 02:07 for Acceptance Tests](https://github.com/tomasnorre/crawler/pull/1269) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (6 days ago)
+- [[TASK] Remove Dependecy for typo3-cms/seo and only enable logic when present](https://github.com/tomasnorre/crawler/pull/1268) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) ([v4.0.0](https://github.com/TYPO3BestPractices/tea/releases/tag/v4.0.0), 1 day ago) - Example extension for unit testing and best practices.
+- [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) ([v4.0.0](https://github.com/TYPO3BestPractices/tea/releases/tag/v4.0.0), 2 days ago) - Example extension for unit testing and best practices.
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.5](https://github.com/tighten/jigsaw/releases/tag/v1.8.5), 1 week ago) - Simple static sites with Laravel’s Blade.
 - [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.13.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.13.0), 2 weeks ago) - Rector for TYPO3
 
