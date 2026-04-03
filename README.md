@@ -17,22 +17,22 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
-- [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) - restler (PHP REST-Framework) for TYPO3 (2 days ago)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (3 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (today)
+- [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) - restler (PHP REST-Framework) for TYPO3 (3 days ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (4 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [bugfix: use str_ends_with instead of [-1] index](https://github.com/AOEpeople/TYPO3_Restler/pull/93) on [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) (2 days ago)
-- [chore: update documentation link in README.md](https://github.com/AOEpeople/TYPO3_Restler/pull/92) on [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) (2 days ago)
-- [chore: add guidex.xml to Documentation](https://github.com/AOEpeople/TYPO3_Restler/pull/91) on [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) (2 days ago)
-- [chore: Update GitHub action-checkout to v6](https://github.com/AOEpeople/TYPO3_Restler/pull/90) on [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) (2 days ago)
+- [bugfix: use str_ends_with instead of [-1] index](https://github.com/AOEpeople/TYPO3_Restler/pull/93) on [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) (3 days ago)
+- [chore: update documentation link in README.md](https://github.com/AOEpeople/TYPO3_Restler/pull/92) on [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) (3 days ago)
+- [chore: add guidex.xml to Documentation](https://github.com/AOEpeople/TYPO3_Restler/pull/91) on [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) (3 days ago)
+- [chore: Update GitHub action-checkout to v6](https://github.com/AOEpeople/TYPO3_Restler/pull/90) on [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) (3 days ago)
 - [Cleanup](https://github.com/AOEpeople/TYPO3_Restler/pull/89) on [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) ([12.2.3](https://github.com/AOEpeople/TYPO3_Restler/releases/tag/12.2.3), 2 days ago) - restler (PHP REST-Framework) for TYPO3
-- [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) ([v4.0.0](https://github.com/TYPO3BestPractices/tea/releases/tag/v4.0.0), 5 days ago) - Example extension for unit testing and best practices.
+- [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) ([12.2.3](https://github.com/AOEpeople/TYPO3_Restler/releases/tag/12.2.3), 3 days ago) - restler (PHP REST-Framework) for TYPO3
+- [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) ([v4.0.0](https://github.com/TYPO3BestPractices/tea/releases/tag/v4.0.0), 6 days ago) - Example extension for unit testing and best practices.
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.5](https://github.com/tighten/jigsaw/releases/tag/v1.8.5), 2 weeks ago) - Simple static sites with Laravel’s Blade.
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
