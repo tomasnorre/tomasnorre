@@ -31,17 +31,17 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔭 Latest releases I've contributed to
 
-- [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.6](https://github.com/tighten/jigsaw/releases/tag/v1.8.6), 4 days ago) - Simple static sites with Laravel’s Blade.
+- [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.6](https://github.com/tighten/jigsaw/releases/tag/v1.8.6), 5 days ago) - Simple static sites with Laravel’s Blade.
 - [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) ([12.2.3](https://github.com/AOEpeople/TYPO3_Restler/releases/tag/12.2.3), 1 week ago) - restler (PHP REST-Framework) for TYPO3
 - [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) ([v4.0.0](https://github.com/TYPO3BestPractices/tea/releases/tag/v4.0.0), 1 week ago) - Example extension for unit testing and best practices.
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
+- [Post Ideas](https://blog.tomasnorre.dk/blog/post-ideas) (today)
 - [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles) (2 months ago)
 - [How to set up a self-hosted GitHub Runner](https://blog.tomasnorre.dk/blog/self-hosted-github-runner) (2 months ago)
 - [TYPO3 Crawler with TYPO3 14 Support](https://blog.tomasnorre.dk/blog/typo3-crawler-with-typo3-14-support) (2 months ago)
 - [Oh My Zsh](https://blog.tomasnorre.dk/blog/oh-my-zsh) (2 months ago)
-- [Bluetooth sound quality on Linux](https://blog.tomasnorre.dk/blog/bluetooth-sound-quality-linux) (2 months ago)
 
 #### ⭐ Recent stars
 
