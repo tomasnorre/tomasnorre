@@ -17,7 +17,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
 - [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) - restler (PHP REST-Framework) for TYPO3 (1 week ago)
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 week ago)
 
@@ -31,13 +31,13 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔭 Latest releases I've contributed to
 
-- [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.6](https://github.com/tighten/jigsaw/releases/tag/v1.8.6), 6 days ago) - Simple static sites with Laravel’s Blade.
+- [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.6](https://github.com/tighten/jigsaw/releases/tag/v1.8.6), 1 week ago) - Simple static sites with Laravel’s Blade.
 - [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) ([12.2.3](https://github.com/AOEpeople/TYPO3_Restler/releases/tag/12.2.3), 1 week ago) - restler (PHP REST-Framework) for TYPO3
 - [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) ([v4.0.0](https://github.com/TYPO3BestPractices/tea/releases/tag/v4.0.0), 1 week ago) - Example extension for unit testing and best practices.
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
-- [Post Ideas](https://blog.tomasnorre.dk/blog/post-ideas) (1 day ago)
+- [Post Ideas](https://blog.tomasnorre.dk/blog/post-ideas) (2 days ago)
 - [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles) (2 months ago)
 - [How to set up a self-hosted GitHub Runner](https://blog.tomasnorre.dk/blog/self-hosted-github-runner) (2 months ago)
 - [TYPO3 Crawler with TYPO3 14 Support](https://blog.tomasnorre.dk/blog/typo3-crawler-with-typo3-14-support) (2 months ago)
