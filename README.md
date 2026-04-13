@@ -17,9 +17,9 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (today)
 - [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) - restler (PHP REST-Framework) for TYPO3 (1 week ago)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 week ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (2 weeks ago)
 
 #### 🔨 Latest Pull Requests I published
 
@@ -31,17 +31,17 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔭 Latest releases I've contributed to
 
-- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.14.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.14.0), 1 day ago) - Rector for TYPO3
+- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.14.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.14.0), 2 days ago) - Rector for TYPO3
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.6](https://github.com/tighten/jigsaw/releases/tag/v1.8.6), 1 week ago) - Simple static sites with Laravel’s Blade.
 - [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) ([12.2.3](https://github.com/AOEpeople/TYPO3_Restler/releases/tag/12.2.3), 1 week ago) - restler (PHP REST-Framework) for TYPO3
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
-- [Post Ideas](https://blog.tomasnorre.dk/blog/post-ideas) (4 days ago)
-- [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles) (2 months ago)
-- [How to set up a self-hosted GitHub Runner](https://blog.tomasnorre.dk/blog/self-hosted-github-runner) (2 months ago)
-- [TYPO3 Crawler with TYPO3 14 Support](https://blog.tomasnorre.dk/blog/typo3-crawler-with-typo3-14-support) (2 months ago)
-- [Oh My Zsh](https://blog.tomasnorre.dk/blog/oh-my-zsh) (2 months ago)
+- [Self-hosted Docker Registry](https://blog.tomasnorre.dk/blog/self-hosted-docker-registry/) (today)
+- [Post Ideas](https://blog.tomasnorre.dk/blog/post-ideas/) (5 days ago)
+- [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles/) (2 months ago)
+- [How to set up a self-hosted GitHub Runner](https://blog.tomasnorre.dk/blog/self-hosted-github-runner/) (2 months ago)
+- [TYPO3 Crawler with TYPO3 14 Support](https://blog.tomasnorre.dk/blog/typo3-crawler-with-typo3-14-support/) (2 months ago)
 
 #### ⭐ Recent stars
 
