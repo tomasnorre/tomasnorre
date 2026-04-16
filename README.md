@@ -27,17 +27,17 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 - [chore: update documentation link in README.md](https://github.com/AOEpeople/TYPO3_Restler/pull/92) on [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) (2 weeks ago)
 - [chore: add guidex.xml to Documentation](https://github.com/AOEpeople/TYPO3_Restler/pull/91) on [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) (2 weeks ago)
 - [chore: Update GitHub action-checkout to v6](https://github.com/AOEpeople/TYPO3_Restler/pull/90) on [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) (2 weeks ago)
-- [Cleanup](https://github.com/AOEpeople/TYPO3_Restler/pull/89) on [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) (2 weeks ago)
+- [Cleanup](https://github.com/AOEpeople/TYPO3_Restler/pull/89) on [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.14.1](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.14.1), 2 days ago) - Rector for TYPO3
+- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.14.1](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.14.1), 3 days ago) - Rector for TYPO3
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.6](https://github.com/tighten/jigsaw/releases/tag/v1.8.6), 1 week ago) - Simple static sites with Laravel’s Blade.
 - [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) ([12.2.3](https://github.com/AOEpeople/TYPO3_Restler/releases/tag/12.2.3), 2 weeks ago) - restler (PHP REST-Framework) for TYPO3
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
-- [Self-hosted Docker Registry](https://blog.tomasnorre.dk/blog/self-hosted-docker-registry/) (2 days ago)
+- [Self-hosted Docker Registry](https://blog.tomasnorre.dk/blog/self-hosted-docker-registry/) (3 days ago)
 - [Post Ideas](https://blog.tomasnorre.dk/blog/post-ideas/) (1 week ago)
 - [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles/) (2 months ago)
 - [How to set up a self-hosted GitHub Runner](https://blog.tomasnorre.dk/blog/self-hosted-github-runner/) (2 months ago)
