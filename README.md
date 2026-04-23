@@ -17,23 +17,23 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (today)
 - [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
 - [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) - restler (PHP REST-Framework) for TYPO3 (3 weeks ago)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (3 weeks ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [bugfix: use str_ends_with instead of [-1] index](https://github.com/AOEpeople/TYPO3_Restler/pull/93) on [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) (3 weeks ago)
-- [chore: update documentation link in README.md](https://github.com/AOEpeople/TYPO3_Restler/pull/92) on [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) (3 weeks ago)
-- [chore: add guidex.xml to Documentation](https://github.com/AOEpeople/TYPO3_Restler/pull/91) on [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) (3 weeks ago)
-- [chore: Update GitHub action-checkout to v6](https://github.com/AOEpeople/TYPO3_Restler/pull/90) on [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) (3 weeks ago)
-- [Cleanup](https://github.com/AOEpeople/TYPO3_Restler/pull/89) on [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) (3 weeks ago)
+- [[TASK] Remove obsolete ?? operator](https://github.com/tomasnorre/crawler/pull/1278) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [[TASK] Fix BackwardsCompatibilityTests](https://github.com/tomasnorre/crawler/pull/1277) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [[TASK] Fix Acceptance Tests for 14 LTS](https://github.com/tomasnorre/crawler/pull/1276) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [[TASK] Switch to NormalizedParams in SubProcessExecutionStrategy](https://github.com/tomasnorre/crawler/pull/1275) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [chore: bump dependency to 14.3 LTS](https://github.com/tomasnorre/crawler/pull/1273) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.2](https://github.com/ddev/ddev/releases/tag/v1.25.2), 1 day ago) - Docker-based local PHP&#43;Node.js web development environments
 - [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.14.1](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.14.1), 1 week ago) - Rector for TYPO3
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.6](https://github.com/tighten/jigsaw/releases/tag/v1.8.6), 2 weeks ago) - Simple static sites with Laravel’s Blade.
-- [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) ([12.2.3](https://github.com/AOEpeople/TYPO3_Restler/releases/tag/12.2.3), 3 weeks ago) - restler (PHP REST-Framework) for TYPO3
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
