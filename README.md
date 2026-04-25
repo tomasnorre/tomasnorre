@@ -17,23 +17,23 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 day ago)
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (2 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
 - [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) - restler (PHP REST-Framework) for TYPO3 (3 weeks ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [[TASK] Remove obsolete ?? operator](https://github.com/tomasnorre/crawler/pull/1278) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
-- [[TASK] Fix BackwardsCompatibilityTests](https://github.com/tomasnorre/crawler/pull/1277) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
-- [[TASK] Fix Acceptance Tests for 14 LTS](https://github.com/tomasnorre/crawler/pull/1276) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
-- [[TASK] Switch to NormalizedParams in SubProcessExecutionStrategy](https://github.com/tomasnorre/crawler/pull/1275) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
-- [chore: bump dependency to 14.3 LTS](https://github.com/tomasnorre/crawler/pull/1273) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
+- [[TASK] Remove obsolete ?? operator](https://github.com/tomasnorre/crawler/pull/1278) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 days ago)
+- [[TASK] Fix BackwardsCompatibilityTests](https://github.com/tomasnorre/crawler/pull/1277) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 days ago)
+- [[TASK] Fix Acceptance Tests for 14 LTS](https://github.com/tomasnorre/crawler/pull/1276) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 days ago)
+- [[TASK] Switch to NormalizedParams in SubProcessExecutionStrategy](https://github.com/tomasnorre/crawler/pull/1275) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 days ago)
+- [chore: bump dependency to 14.3 LTS](https://github.com/tomasnorre/crawler/pull/1273) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.2](https://github.com/ddev/ddev/releases/tag/v1.25.2), 2 days ago) - Docker-based local PHP&#43;Node.js web development environments
+- [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.7](https://github.com/tighten/jigsaw/releases/tag/v1.8.7), 1 day ago) - Simple static sites with Laravel’s Blade.
+- [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.2](https://github.com/ddev/ddev/releases/tag/v1.25.2), 3 days ago) - Docker-based local PHP&#43;Node.js web development environments
 - [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.14.1](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.14.1), 1 week ago) - Rector for TYPO3
-- [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.6](https://github.com/tighten/jigsaw/releases/tag/v1.8.6), 3 weeks ago) - Simple static sites with Laravel’s Blade.
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
