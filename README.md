@@ -17,27 +17,27 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (3 days ago)
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (3 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (today)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (4 days ago)
 - [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) - restler (PHP REST-Framework) for TYPO3 (3 weeks ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [[TASK] Remove obsolete ?? operator](https://github.com/tomasnorre/crawler/pull/1278) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
-- [[TASK] Fix BackwardsCompatibilityTests](https://github.com/tomasnorre/crawler/pull/1277) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
-- [[TASK] Fix Acceptance Tests for 14 LTS](https://github.com/tomasnorre/crawler/pull/1276) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
-- [[TASK] Switch to NormalizedParams in SubProcessExecutionStrategy](https://github.com/tomasnorre/crawler/pull/1275) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
-- [chore: bump dependency to 14.3 LTS](https://github.com/tomasnorre/crawler/pull/1273) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
+- [[TASK] Remove obsolete ?? operator](https://github.com/tomasnorre/crawler/pull/1278) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (5 days ago)
+- [[TASK] Fix BackwardsCompatibilityTests](https://github.com/tomasnorre/crawler/pull/1277) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (5 days ago)
+- [[TASK] Fix Acceptance Tests for 14 LTS](https://github.com/tomasnorre/crawler/pull/1276) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (5 days ago)
+- [[TASK] Switch to NormalizedParams in SubProcessExecutionStrategy](https://github.com/tomasnorre/crawler/pull/1275) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (5 days ago)
+- [chore: bump dependency to 14.3 LTS](https://github.com/tomasnorre/crawler/pull/1273) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.7](https://github.com/tighten/jigsaw/releases/tag/v1.8.7), 2 days ago) - Simple static sites with Laravel’s Blade.
-- [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.2](https://github.com/ddev/ddev/releases/tag/v1.25.2), 4 days ago) - Docker-based local PHP&#43;Node.js web development environments
-- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.14.1](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.14.1), 1 week ago) - Rector for TYPO3
+- [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.7](https://github.com/tighten/jigsaw/releases/tag/v1.8.7), 3 days ago) - Simple static sites with Laravel’s Blade.
+- [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.2](https://github.com/ddev/ddev/releases/tag/v1.25.2), 5 days ago) - Docker-based local PHP&#43;Node.js web development environments
+- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.14.1](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.14.1), 2 weeks ago) - Rector for TYPO3
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
-- [Self-hosted Docker Registry](https://blog.tomasnorre.dk/blog/self-hosted-docker-registry/) (1 week ago)
+- [Self-hosted Docker Registry](https://blog.tomasnorre.dk/blog/self-hosted-docker-registry/) (2 weeks ago)
 - [Post Ideas](https://blog.tomasnorre.dk/blog/post-ideas/) (2 weeks ago)
 - [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles/) (3 months ago)
 - [How to set up a self-hosted GitHub Runner](https://blog.tomasnorre.dk/blog/self-hosted-github-runner/) (3 months ago)
@@ -45,11 +45,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### ⭐ Recent stars
 
-- [voku/portable-ascii](https://github.com/voku/portable-ascii) - 🔡 Portable ASCII library - performance optimized (ascii) string functions for PHP. (1 month ago)
-- [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically. (1 month ago)
-- [tighten/jigsaw](https://github.com/tighten/jigsaw) - Simple static sites with Laravel’s Blade. (1 month ago)
-- [symfony/translation-contracts](https://github.com/symfony/translation-contracts) - A set of translation abstractions extracted out of the Symfony components (1 month ago)
-- [symfony/translation](https://github.com/symfony/translation) - Provides tools to internationalize your application (1 month ago)
+- [voku/portable-ascii](https://github.com/voku/portable-ascii) - 🔡 Portable ASCII library - performance optimized (ascii) string functions for PHP. (2 months ago)
+- [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically. (2 months ago)
+- [tighten/jigsaw](https://github.com/tighten/jigsaw) - Simple static sites with Laravel’s Blade. (2 months ago)
+- [symfony/translation-contracts](https://github.com/symfony/translation-contracts) - A set of translation abstractions extracted out of the Symfony components (2 months ago)
+- [symfony/translation](https://github.com/symfony/translation) - Provides tools to internationalize your application (2 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/tomasnorre) (thank you!)
 
