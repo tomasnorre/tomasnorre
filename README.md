@@ -17,21 +17,21 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [oldrup/git-playground](https://github.com/oldrup/git-playground) - Just an experimental github repository, do not use. (1 day ago)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 day ago)
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (3 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (today)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (2 days ago)
+- [oldrup/git-playground](https://github.com/oldrup/git-playground) - Just an experimental github repository, do not use. (2 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [!!! [TASK] Remove pollable processing instructions](https://github.com/tomasnorre/crawler/pull/1279) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [Add IDEs to .gitignore and comment out themes](https://github.com/oldrup/git-playground/pull/4) on [oldrup/git-playground](https://github.com/oldrup/git-playground) (1 day ago)
-- [Update README.md](https://github.com/oldrup/git-playground/pull/1) on [oldrup/git-playground](https://github.com/oldrup/git-playground) (1 day ago)
+- [!!! [TASK] Remove pollable processing instructions](https://github.com/tomasnorre/crawler/pull/1279) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
+- [Add IDEs to .gitignore and comment out themes](https://github.com/oldrup/git-playground/pull/4) on [oldrup/git-playground](https://github.com/oldrup/git-playground) (2 days ago)
+- [Update README.md](https://github.com/oldrup/git-playground/pull/1) on [oldrup/git-playground](https://github.com/oldrup/git-playground) (2 days ago)
 - [[TASK] Remove obsolete ?? operator](https://github.com/tomasnorre/crawler/pull/1278) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
 - [[TASK] Fix BackwardsCompatibilityTests](https://github.com/tomasnorre/crawler/pull/1277) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.7](https://github.com/tighten/jigsaw/releases/tag/v1.8.7), 6 days ago) - Simple static sites with Laravel’s Blade.
+- [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.7](https://github.com/tighten/jigsaw/releases/tag/v1.8.7), 1 week ago) - Simple static sites with Laravel’s Blade.
 - [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.2](https://github.com/ddev/ddev/releases/tag/v1.25.2), 1 week ago) - Docker-based local PHP&#43;Node.js web development environments
 - [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.14.1](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.14.1), 2 weeks ago) - Rector for TYPO3
 
@@ -48,7 +48,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 - [voku/portable-ascii](https://github.com/voku/portable-ascii) - 🔡 Portable ASCII library - performance optimized (ascii) string functions for PHP. (2 months ago)
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically. (2 months ago)
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) - Simple static sites with Laravel’s Blade. (2 months ago)
-- [symfony/translation-contracts](https://github.com/symfony/translation-contracts) - A set of translation abstractions extracted out of the Symfony components (2 months ago)
+- [symfony/translation-contracts](https://github.com/symfony/translation-contracts) - Generic abstractions related to translation (2 months ago)
 - [symfony/translation](https://github.com/symfony/translation) - Provides tools to internationalize your application (2 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/tomasnorre) (thank you!)
