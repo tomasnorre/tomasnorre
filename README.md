@@ -17,27 +17,27 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (4 days ago)
-- [oldrup/git-playground](https://github.com/oldrup/git-playground) - Just an experimental github repository, do not use. (4 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (3 days ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (5 days ago)
+- [oldrup/git-playground](https://github.com/oldrup/git-playground) - Just an experimental github repository, do not use. (5 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add Related article article by tomasnorre](https://github.com/tighten/builtwithjigsaw/pull/229) on [tighten/builtwithjigsaw](https://github.com/tighten/builtwithjigsaw) (2 days ago)
-- [!!! [TASK] Remove pollable processing instructions](https://github.com/tomasnorre/crawler/pull/1279) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
-- [Add IDEs to .gitignore and comment out themes](https://github.com/oldrup/git-playground/pull/4) on [oldrup/git-playground](https://github.com/oldrup/git-playground) (4 days ago)
-- [Update README.md](https://github.com/oldrup/git-playground/pull/1) on [oldrup/git-playground](https://github.com/oldrup/git-playground) (4 days ago)
+- [Add Related article article by tomasnorre](https://github.com/tighten/builtwithjigsaw/pull/229) on [tighten/builtwithjigsaw](https://github.com/tighten/builtwithjigsaw) (3 days ago)
+- [!!! [TASK] Remove pollable processing instructions](https://github.com/tomasnorre/crawler/pull/1279) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (5 days ago)
+- [Add IDEs to .gitignore and comment out themes](https://github.com/oldrup/git-playground/pull/4) on [oldrup/git-playground](https://github.com/oldrup/git-playground) (5 days ago)
+- [Update README.md](https://github.com/oldrup/git-playground/pull/1) on [oldrup/git-playground](https://github.com/oldrup/git-playground) (5 days ago)
 - [[TASK] Remove obsolete ?? operator](https://github.com/tomasnorre/crawler/pull/1278) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.7](https://github.com/tighten/jigsaw/releases/tag/v1.8.7), 1 week ago) - Simple static sites with Laravel’s Blade.
 - [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.2](https://github.com/ddev/ddev/releases/tag/v1.25.2), 1 week ago) - Docker-based local PHP&#43;Node.js web development environments
-- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.14.1](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.14.1), 2 weeks ago) - Rector for TYPO3
+- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.14.1](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.14.1), 3 weeks ago) - Rector for TYPO3
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
-- [Self-hosted Docker Registry](https://blog.tomasnorre.dk/blog/self-hosted-docker-registry/) (2 weeks ago)
+- [Self-hosted Docker Registry](https://blog.tomasnorre.dk/blog/self-hosted-docker-registry/) (3 weeks ago)
 - [Post Ideas](https://blog.tomasnorre.dk/blog/post-ideas/) (3 weeks ago)
 - [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles/) (3 months ago)
 - [How to set up a self-hosted GitHub Runner](https://blog.tomasnorre.dk/blog/self-hosted-github-runner/) (3 months ago)
