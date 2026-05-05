@@ -17,17 +17,17 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (3 days ago)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (5 days ago)
-- [oldrup/git-playground](https://github.com/oldrup/git-playground) - Just an experimental github repository, do not use. (5 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (4 days ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (6 days ago)
+- [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) - restler (PHP REST-Framework) for TYPO3 (1 month ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add Related article article by tomasnorre](https://github.com/tighten/builtwithjigsaw/pull/229) on [tighten/builtwithjigsaw](https://github.com/tighten/builtwithjigsaw) (3 days ago)
-- [!!! [TASK] Remove pollable processing instructions](https://github.com/tomasnorre/crawler/pull/1279) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (5 days ago)
-- [Add IDEs to .gitignore and comment out themes](https://github.com/oldrup/git-playground/pull/4) on [oldrup/git-playground](https://github.com/oldrup/git-playground) (5 days ago)
-- [Update README.md](https://github.com/oldrup/git-playground/pull/1) on [oldrup/git-playground](https://github.com/oldrup/git-playground) (5 days ago)
+- [Add Related article article by tomasnorre](https://github.com/tighten/builtwithjigsaw/pull/229) on [tighten/builtwithjigsaw](https://github.com/tighten/builtwithjigsaw) (4 days ago)
+- [!!! [TASK] Remove pollable processing instructions](https://github.com/tomasnorre/crawler/pull/1279) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (6 days ago)
 - [[TASK] Remove obsolete ?? operator](https://github.com/tomasnorre/crawler/pull/1278) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
+- [[TASK] Fix BackwardsCompatibilityTests](https://github.com/tomasnorre/crawler/pull/1277) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
+- [[TASK] Fix Acceptance Tests for 14 LTS](https://github.com/tomasnorre/crawler/pull/1276) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
