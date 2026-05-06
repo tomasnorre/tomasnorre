@@ -17,28 +17,28 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (4 days ago)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (6 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (5 days ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 week ago)
 - [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) - restler (PHP REST-Framework) for TYPO3 (1 month ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add Related article article by tomasnorre](https://github.com/tighten/builtwithjigsaw/pull/229) on [tighten/builtwithjigsaw](https://github.com/tighten/builtwithjigsaw) (4 days ago)
-- [!!! [TASK] Remove pollable processing instructions](https://github.com/tomasnorre/crawler/pull/1279) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (6 days ago)
-- [[TASK] Remove obsolete ?? operator](https://github.com/tomasnorre/crawler/pull/1278) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
-- [[TASK] Fix BackwardsCompatibilityTests](https://github.com/tomasnorre/crawler/pull/1277) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
-- [[TASK] Fix Acceptance Tests for 14 LTS](https://github.com/tomasnorre/crawler/pull/1276) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
+- [Add Related article article by tomasnorre](https://github.com/tighten/builtwithjigsaw/pull/229) on [tighten/builtwithjigsaw](https://github.com/tighten/builtwithjigsaw) (5 days ago)
+- [!!! [TASK] Remove pollable processing instructions](https://github.com/tomasnorre/crawler/pull/1279) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
+- [[TASK] Remove obsolete ?? operator](https://github.com/tomasnorre/crawler/pull/1278) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 weeks ago)
+- [[TASK] Fix BackwardsCompatibilityTests](https://github.com/tomasnorre/crawler/pull/1277) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 weeks ago)
+- [[TASK] Fix Acceptance Tests for 14 LTS](https://github.com/tomasnorre/crawler/pull/1276) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.7](https://github.com/tighten/jigsaw/releases/tag/v1.8.7), 1 week ago) - Simple static sites with Laravel’s Blade.
-- [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.2](https://github.com/ddev/ddev/releases/tag/v1.25.2), 1 week ago) - Docker-based local PHP&#43;Node.js web development environments
+- [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.2](https://github.com/ddev/ddev/releases/tag/v1.25.2), 2 weeks ago) - Docker-based local PHP&#43;Node.js web development environments
 - [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.14.1](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.14.1), 3 weeks ago) - Rector for TYPO3
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
 - [Self-hosted Docker Registry](https://blog.tomasnorre.dk/blog/self-hosted-docker-registry/) (3 weeks ago)
-- [Post Ideas](https://blog.tomasnorre.dk/blog/post-ideas/) (3 weeks ago)
+- [Post Ideas](https://blog.tomasnorre.dk/blog/post-ideas/) (4 weeks ago)
 - [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles/) (3 months ago)
 - [How to set up a self-hosted GitHub Runner](https://blog.tomasnorre.dk/blog/self-hosted-github-runner/) (3 months ago)
 - [TYPO3 Crawler with TYPO3 14 Support](https://blog.tomasnorre.dk/blog/typo3-crawler-with-typo3-14-support/) (3 months ago)
