@@ -17,22 +17,22 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (today)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (2 weeks ago)
 - [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) - restler (PHP REST-Framework) for TYPO3 (1 month ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add Version Removed Directive](https://github.com/phpDocumentor/guides/pull/1343) on [phpDocumentor/guides](https://github.com/phpDocumentor/guides) (1 day ago)
-- [[SECURITY] Switch from serialized data to json - Please update ASAP](https://github.com/tomasnorre/crawler/pull/1284) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
-- [[TASK] Allow enshrined/svg-sanitize to be installed thus security issue](https://github.com/tomasnorre/crawler/pull/1283) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
-- [[SECURITY] Switch from serialized data to json - Please update ASAP](https://github.com/tomasnorre/crawler/pull/1281) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 days ago)
-- [[SECURITY] Switch from serialized data to json - Please update ASAP](https://github.com/tomasnorre/crawler/pull/1280) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 days ago)
+- [Add Version Removed Directive](https://github.com/phpDocumentor/guides/pull/1343) on [phpDocumentor/guides](https://github.com/phpDocumentor/guides) (2 days ago)
+- [[SECURITY] Switch from serialized data to json - Please update ASAP](https://github.com/tomasnorre/crawler/pull/1284) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 days ago)
+- [[TASK] Allow enshrined/svg-sanitize to be installed thus security issue](https://github.com/tomasnorre/crawler/pull/1283) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 days ago)
+- [[SECURITY] Switch from serialized data to json - Please update ASAP](https://github.com/tomasnorre/crawler/pull/1281) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
+- [[SECURITY] Switch from serialized data to json - Please update ASAP](https://github.com/tomasnorre/crawler/pull/1280) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([12.0.11](https://github.com/tomasnorre/crawler/releases/tag/12.0.11), 3 days ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
-- [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.7](https://github.com/tighten/jigsaw/releases/tag/v1.8.7), 2 weeks ago) - Simple static sites with Laravel’s Blade.
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([12.0.11](https://github.com/tomasnorre/crawler/releases/tag/12.0.11), 4 days ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
+- [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.7](https://github.com/tighten/jigsaw/releases/tag/v1.8.7), 3 weeks ago) - Simple static sites with Laravel’s Blade.
 - [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.2](https://github.com/ddev/ddev/releases/tag/v1.25.2), 3 weeks ago) - Docker-based local PHP&#43;Node.js web development environments
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
