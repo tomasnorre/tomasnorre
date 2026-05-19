@@ -17,17 +17,17 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (today)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (2 weeks ago)
-- [AOEpeople/TYPO3_Restler](https://github.com/AOEpeople/TYPO3_Restler) - restler (PHP REST-Framework) for TYPO3 (1 month ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 day ago)
+- [tighten/builtwithjigsaw](https://github.com/tighten/builtwithjigsaw) - A list of sites built with Jigsaw (2 weeks ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add Version Removed Directive](https://github.com/phpDocumentor/guides/pull/1343) on [phpDocumentor/guides](https://github.com/phpDocumentor/guides) (5 days ago)
-- [[SECURITY] Switch from serialized data to json - Please update ASAP](https://github.com/tomasnorre/crawler/pull/1284) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (6 days ago)
-- [[TASK] Allow enshrined/svg-sanitize to be installed thus security issue](https://github.com/tomasnorre/crawler/pull/1283) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (6 days ago)
+- [[TASK] Switch Psalm to composer](https://github.com/tomasnorre/crawler/pull/1285) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
+- [Add Version Removed Directive](https://github.com/phpDocumentor/guides/pull/1343) on [phpDocumentor/guides](https://github.com/phpDocumentor/guides) (6 days ago)
+- [[SECURITY] Switch from serialized data to json - Please update ASAP](https://github.com/tomasnorre/crawler/pull/1284) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
+- [[TASK] Allow enshrined/svg-sanitize to be installed thus security issue](https://github.com/tomasnorre/crawler/pull/1283) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
 - [[SECURITY] Switch from serialized data to json - Please update ASAP](https://github.com/tomasnorre/crawler/pull/1281) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
-- [[SECURITY] Switch from serialized data to json - Please update ASAP](https://github.com/tomasnorre/crawler/pull/1280) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
