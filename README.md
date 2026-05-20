@@ -17,23 +17,23 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 day ago)
-- [tighten/builtwithjigsaw](https://github.com/tighten/builtwithjigsaw) - A list of sites built with Jigsaw (2 weeks ago)
+- [radleylewis/zsh](https://github.com/radleylewis/zsh) - Powerful but tastefully minimal zsh configurations. (1 day ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (2 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [[TASK] Switch Psalm to composer](https://github.com/tomasnorre/crawler/pull/1285) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
-- [Add Version Removed Directive](https://github.com/phpDocumentor/guides/pull/1343) on [phpDocumentor/guides](https://github.com/phpDocumentor/guides) (6 days ago)
+- [Update installation command in README](https://github.com/radleylewis/zsh/pull/4) on [radleylewis/zsh](https://github.com/radleylewis/zsh) (1 day ago)
+- [Update installation command in README](https://github.com/tomasnorre/zsh-config/pull/1) on [tomasnorre/zsh-config](https://github.com/tomasnorre/zsh-config) (1 day ago)
+- [[TASK] Switch Psalm to composer](https://github.com/tomasnorre/crawler/pull/1285) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [Add Version Removed Directive](https://github.com/phpDocumentor/guides/pull/1343) on [phpDocumentor/guides](https://github.com/phpDocumentor/guides) (1 week ago)
 - [[SECURITY] Switch from serialized data to json - Please update ASAP](https://github.com/tomasnorre/crawler/pull/1284) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
-- [[TASK] Allow enshrined/svg-sanitize to be installed thus security issue](https://github.com/tomasnorre/crawler/pull/1283) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
-- [[SECURITY] Switch from serialized data to json - Please update ASAP](https://github.com/tomasnorre/crawler/pull/1281) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([12.0.11](https://github.com/tomasnorre/crawler/releases/tag/12.0.11), 1 week ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.7](https://github.com/tighten/jigsaw/releases/tag/v1.8.7), 3 weeks ago) - Simple static sites with Laravel’s Blade.
-- [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.2](https://github.com/ddev/ddev/releases/tag/v1.25.2), 3 weeks ago) - Docker-based local PHP&#43;Node.js web development environments
+- [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.2](https://github.com/ddev/ddev/releases/tag/v1.25.2), 4 weeks ago) - Docker-based local PHP&#43;Node.js web development environments
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
@@ -45,11 +45,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### ⭐ Recent stars
 
+- [radleylewis/zsh](https://github.com/radleylewis/zsh) - Powerful but tastefully minimal zsh configurations. (1 day ago)
 - [voku/portable-ascii](https://github.com/voku/portable-ascii) - 🔡 Portable ASCII library - performance optimized (ascii) string functions for PHP. (2 months ago)
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically. (2 months ago)
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) - Simple static sites with Laravel’s Blade. (2 months ago)
 - [symfony/translation-contracts](https://github.com/symfony/translation-contracts) - Generic abstractions related to translation (2 months ago)
-- [symfony/translation](https://github.com/symfony/translation) - Provides tools to internationalize your application (2 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/tomasnorre) (thank you!)
 
