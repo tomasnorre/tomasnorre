@@ -17,15 +17,15 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [radleylewis/zsh](https://github.com/radleylewis/zsh) - Powerful but tastefully minimal zsh configurations. (1 day ago)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (2 days ago)
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 day ago)
+- [radleylewis/zsh](https://github.com/radleylewis/zsh) - Powerful but tastefully minimal zsh configurations. (2 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update installation command in README](https://github.com/radleylewis/zsh/pull/4) on [radleylewis/zsh](https://github.com/radleylewis/zsh) (1 day ago)
-- [Update installation command in README](https://github.com/tomasnorre/zsh-config/pull/1) on [tomasnorre/zsh-config](https://github.com/tomasnorre/zsh-config) (1 day ago)
-- [[TASK] Switch Psalm to composer](https://github.com/tomasnorre/crawler/pull/1285) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [Update installation command in README](https://github.com/radleylewis/zsh/pull/4) on [radleylewis/zsh](https://github.com/radleylewis/zsh) (2 days ago)
+- [Update installation command in README](https://github.com/tomasnorre/zsh-config/pull/1) on [tomasnorre/zsh-config](https://github.com/tomasnorre/zsh-config) (2 days ago)
+- [[TASK] Switch Psalm to composer](https://github.com/tomasnorre/crawler/pull/1285) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
 - [Add Version Removed Directive](https://github.com/phpDocumentor/guides/pull/1343) on [phpDocumentor/guides](https://github.com/phpDocumentor/guides) (1 week ago)
 - [[SECURITY] Switch from serialized data to json - Please update ASAP](https://github.com/tomasnorre/crawler/pull/1284) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
 
@@ -45,7 +45,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### ⭐ Recent stars
 
-- [radleylewis/zsh](https://github.com/radleylewis/zsh) - Powerful but tastefully minimal zsh configurations. (1 day ago)
+- [radleylewis/zsh](https://github.com/radleylewis/zsh) - Powerful but tastefully minimal zsh configurations. (2 days ago)
 - [voku/portable-ascii](https://github.com/voku/portable-ascii) - 🔡 Portable ASCII library - performance optimized (ascii) string functions for PHP. (2 months ago)
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically. (2 months ago)
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) - Simple static sites with Laravel’s Blade. (2 months ago)
