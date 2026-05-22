@@ -17,23 +17,23 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 day ago)
-- [radleylewis/zsh](https://github.com/radleylewis/zsh) - Powerful but tastefully minimal zsh configurations. (2 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (2 days ago)
+- [radleylewis/zsh](https://github.com/radleylewis/zsh) - Powerful but tastefully minimal zsh configurations. (3 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update installation command in README](https://github.com/radleylewis/zsh/pull/4) on [radleylewis/zsh](https://github.com/radleylewis/zsh) (2 days ago)
-- [Update installation command in README](https://github.com/tomasnorre/zsh-config/pull/1) on [tomasnorre/zsh-config](https://github.com/tomasnorre/zsh-config) (2 days ago)
-- [[TASK] Switch Psalm to composer](https://github.com/tomasnorre/crawler/pull/1285) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
-- [Add Version Removed Directive](https://github.com/phpDocumentor/guides/pull/1343) on [phpDocumentor/guides](https://github.com/phpDocumentor/guides) (1 week ago)
-- [[SECURITY] Switch from serialized data to json - Please update ASAP](https://github.com/tomasnorre/crawler/pull/1284) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
+- [Update file paths in Quickstart documentation](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/pull/814) on [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted) (today)
+- [Update TYPO3 setup command to include sitename](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/pull/813) on [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted) (today)
+- [Update installation command in README](https://github.com/radleylewis/zsh/pull/4) on [radleylewis/zsh](https://github.com/radleylewis/zsh) (3 days ago)
+- [Update installation command in README](https://github.com/tomasnorre/zsh-config/pull/1) on [tomasnorre/zsh-config](https://github.com/tomasnorre/zsh-config) (3 days ago)
+- [[TASK] Switch Psalm to composer](https://github.com/tomasnorre/crawler/pull/1285) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.8](https://github.com/tighten/jigsaw/releases/tag/v1.8.8), 1 day ago) - Simple static sites with Laravel’s Blade.
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([12.0.11](https://github.com/tomasnorre/crawler/releases/tag/12.0.11), 1 week ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
-- [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.7](https://github.com/tighten/jigsaw/releases/tag/v1.8.7), 3 weeks ago) - Simple static sites with Laravel’s Blade.
-- [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.2](https://github.com/ddev/ddev/releases/tag/v1.25.2), 4 weeks ago) - Docker-based local PHP&#43;Node.js web development environments
+- [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.2](https://github.com/ddev/ddev/releases/tag/v1.25.2), 1 month ago) - Docker-based local PHP&#43;Node.js web development environments
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
@@ -41,11 +41,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 - [Post Ideas](https://blog.tomasnorre.dk/blog/post-ideas/) (1 month ago)
 - [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles/) (3 months ago)
 - [How to set up a self-hosted GitHub Runner](https://blog.tomasnorre.dk/blog/self-hosted-github-runner/) (3 months ago)
-- [TYPO3 Crawler with TYPO3 14 Support](https://blog.tomasnorre.dk/blog/typo3-crawler-with-typo3-14-support/) (3 months ago)
+- [TYPO3 Crawler with TYPO3 14 Support](https://blog.tomasnorre.dk/blog/typo3-crawler-with-typo3-14-support/) (4 months ago)
 
 #### ⭐ Recent stars
 
-- [radleylewis/zsh](https://github.com/radleylewis/zsh) - Powerful but tastefully minimal zsh configurations. (2 days ago)
+- [radleylewis/zsh](https://github.com/radleylewis/zsh) - Powerful but tastefully minimal zsh configurations. (3 days ago)
 - [voku/portable-ascii](https://github.com/voku/portable-ascii) - 🔡 Portable ASCII library - performance optimized (ascii) string functions for PHP. (2 months ago)
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically. (2 months ago)
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) - Simple static sites with Laravel’s Blade. (2 months ago)
