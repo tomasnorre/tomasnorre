@@ -17,21 +17,21 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (6 days ago)
-- [radleylewis/zsh](https://github.com/radleylewis/zsh) - Powerful but tastefully minimal zsh configurations. (1 week ago)
+- [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted) - The official tutorial to discover the main features and concepts of TYPO3. It is based on the Introduction Package. (1 day ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 week ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix template paths in Quickstart documentation](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/pull/815) on [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted) (today)
-- [Update file paths in Quickstart documentation](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/pull/814) on [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted) (4 days ago)
-- [Update TYPO3 setup command to include sitename](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/pull/813) on [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted) (4 days ago)
+- [Fix template paths in Quickstart documentation](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/pull/815) on [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted) (1 day ago)
+- [Update file paths in Quickstart documentation](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/pull/814) on [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted) (5 days ago)
+- [Update TYPO3 setup command to include sitename](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/pull/813) on [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted) (5 days ago)
 - [Update installation command in README](https://github.com/radleylewis/zsh/pull/4) on [radleylewis/zsh](https://github.com/radleylewis/zsh) (1 week ago)
 - [Update installation command in README](https://github.com/tomasnorre/zsh-config/pull/1) on [tomasnorre/zsh-config](https://github.com/tomasnorre/zsh-config) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.8](https://github.com/tighten/jigsaw/releases/tag/v1.8.8), 5 days ago) - Simple static sites with Laravel’s Blade.
+- [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.8](https://github.com/tighten/jigsaw/releases/tag/v1.8.8), 6 days ago) - Simple static sites with Laravel’s Blade.
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([12.0.11](https://github.com/tomasnorre/crawler/releases/tag/12.0.11), 2 weeks ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
 - [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.2](https://github.com/ddev/ddev/releases/tag/v1.25.2), 1 month ago) - Docker-based local PHP&#43;Node.js web development environments
 
@@ -46,10 +46,10 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 #### ⭐ Recent stars
 
 - [radleylewis/zsh](https://github.com/radleylewis/zsh) - Powerful but tastefully minimal zsh configurations. (1 week ago)
-- [voku/portable-ascii](https://github.com/voku/portable-ascii) - 🔡 Portable ASCII library - performance optimized (ascii) string functions for PHP. (2 months ago)
-- [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically. (2 months ago)
-- [tighten/jigsaw](https://github.com/tighten/jigsaw) - Simple static sites with Laravel’s Blade. (2 months ago)
-- [symfony/translation-contracts](https://github.com/symfony/translation-contracts) - Generic abstractions related to translation (2 months ago)
+- [voku/portable-ascii](https://github.com/voku/portable-ascii) - 🔡 Portable ASCII library - performance optimized (ascii) string functions for PHP. (3 months ago)
+- [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically. (3 months ago)
+- [tighten/jigsaw](https://github.com/tighten/jigsaw) - Simple static sites with Laravel’s Blade. (3 months ago)
+- [symfony/translation-contracts](https://github.com/symfony/translation-contracts) - Generic abstractions related to translation (3 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/tomasnorre) (thank you!)
 
