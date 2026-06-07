@@ -17,13 +17,13 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (1 day ago)
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
-- [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted) - The official tutorial to discover the main features and concepts of TYPO3. It is based on the Introduction Package. (4 days ago)
+- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (2 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (3 days ago)
+- [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted) - The official tutorial to discover the main features and concepts of TYPO3. It is based on the Introduction Package. (5 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update demo link and fix URL structure in README](https://github.com/kohlercode/ce_timeline/pull/13) on [kohlercode/ce_timeline](https://github.com/kohlercode/ce_timeline) (3 days ago)
+- [Update demo link and fix URL structure in README](https://github.com/kohlercode/ce_timeline/pull/13) on [kohlercode/ce_timeline](https://github.com/kohlercode/ce_timeline) (4 days ago)
 - [Fix template paths in Quickstart documentation](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/pull/815) on [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted) (1 week ago)
 - [Update file paths in Quickstart documentation](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/pull/814) on [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted) (2 weeks ago)
 - [Update TYPO3 setup command to include sitename](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/pull/813) on [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted) (2 weeks ago)
@@ -38,7 +38,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
 - [Self-hosted Docker Registry](https://blog.tomasnorre.dk/blog/self-hosted-docker-registry/) (1 month ago)
-- [Post Ideas](https://blog.tomasnorre.dk/blog/post-ideas/) (1 month ago)
+- [Post Ideas](https://blog.tomasnorre.dk/blog/post-ideas/) (2 months ago)
 - [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles/) (4 months ago)
 - [How to set up a self-hosted GitHub Runner](https://blog.tomasnorre.dk/blog/self-hosted-github-runner/) (4 months ago)
 - [TYPO3 Crawler with TYPO3 14 Support](https://blog.tomasnorre.dk/blog/typo3-crawler-with-typo3-14-support/) (4 months ago)
