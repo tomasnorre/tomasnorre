@@ -18,15 +18,15 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 #### 👷 Check out what I'm currently working on
 
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 day ago)
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
-- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (6 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (3 days ago)
+- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (1 week ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [[BUGFIX] Keep QueryParams on Refresh in Log Module](https://github.com/tomasnorre/crawler/pull/1292) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [[BUGFIX] Keep QueryParams on Refresh in Log Module](https://github.com/tomasnorre/crawler/pull/1291) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [[BUGFIX] Add missing class for checkboxes for LogModule](https://github.com/tomasnorre/crawler/pull/1290) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [[BUGFIX] Add missing class for checkboxes for LogModule](https://github.com/tomasnorre/crawler/pull/1289) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [[BUGFIX] Keep QueryParams on Refresh in Log Module](https://github.com/tomasnorre/crawler/pull/1292) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
+- [[BUGFIX] Keep QueryParams on Refresh in Log Module](https://github.com/tomasnorre/crawler/pull/1291) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
+- [[BUGFIX] Add missing class for checkboxes for LogModule](https://github.com/tomasnorre/crawler/pull/1290) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
+- [[BUGFIX] Add missing class for checkboxes for LogModule](https://github.com/tomasnorre/crawler/pull/1289) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
 - [Update demo link and fix URL structure in README](https://github.com/kohlercode/ce_timeline/pull/13) on [kohlercode/ce_timeline](https://github.com/kohlercode/ce_timeline) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -37,7 +37,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
-- [Self-hosted Docker Registry](https://blog.tomasnorre.dk/blog/self-hosted-docker-registry/) (1 month ago)
+- [Self-hosted Docker Registry](https://blog.tomasnorre.dk/blog/self-hosted-docker-registry/) (2 months ago)
 - [Post Ideas](https://blog.tomasnorre.dk/blog/post-ideas/) (2 months ago)
 - [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles/) (4 months ago)
 - [How to set up a self-hosted GitHub Runner](https://blog.tomasnorre.dk/blog/self-hosted-github-runner/) (4 months ago)
