@@ -17,8 +17,8 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (3 days ago)
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (4 days ago)
+- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (4 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (5 days ago)
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 week ago)
 
 #### 🔨 Latest Pull Requests I published
@@ -31,7 +31,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔭 Latest releases I've contributed to
 
-- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.14.2](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.14.2), 5 days ago) - Rector for TYPO3
+- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.14.2](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.14.2), 6 days ago) - Rector for TYPO3
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) ([v1.8.8](https://github.com/tighten/jigsaw/releases/tag/v1.8.8), 1 month ago) - Simple static sites with Laravel’s Blade.
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([12.0.11](https://github.com/tomasnorre/crawler/releases/tag/12.0.11), 1 month ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
 
@@ -40,16 +40,16 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 - [Self-hosted Docker Registry](https://blog.tomasnorre.dk/blog/self-hosted-docker-registry/) (2 months ago)
 - [Post Ideas](https://blog.tomasnorre.dk/blog/post-ideas/) (2 months ago)
 - [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles/) (4 months ago)
-- [How to set up a self-hosted GitHub Runner](https://blog.tomasnorre.dk/blog/self-hosted-github-runner/) (4 months ago)
+- [How to set up a self-hosted GitHub Runner](https://blog.tomasnorre.dk/blog/self-hosted-github-runner/) (5 months ago)
 - [TYPO3 Crawler with TYPO3 14 Support](https://blog.tomasnorre.dk/blog/typo3-crawler-with-typo3-14-support/) (5 months ago)
 
 #### ⭐ Recent stars
 
+- [s2b/visual-regression-tester](https://github.com/s2b/visual-regression-tester) - Collects and compares screenshots of websites (1 day ago)
 - [radleylewis/zsh](https://github.com/radleylewis/zsh) - Powerful but tastefully minimal zsh configurations. (1 month ago)
 - [voku/portable-ascii](https://github.com/voku/portable-ascii) - 🔡 Portable ASCII library - performance optimized (ascii) string functions for PHP. (3 months ago)
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically. (3 months ago)
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) - Simple static sites with Laravel’s Blade. (3 months ago)
-- [symfony/translation-contracts](https://github.com/symfony/translation-contracts) - Generic abstractions related to translation (3 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/tomasnorre) (thank you!)
 
