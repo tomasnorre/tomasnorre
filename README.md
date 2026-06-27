@@ -45,7 +45,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### ⭐ Recent stars
 
-- [s2b/visual-regression-tester](https://github.com/s2b/visual-regression-tester) - Collects and compares screenshots of websites (4 days ago)
+- [s2b/visual-regression-tester](https://github.com/s2b/visual-regression-tester) - Collects and compares screenshots of websites (5 days ago)
 - [radleylewis/zsh](https://github.com/radleylewis/zsh) - Powerful but tastefully minimal zsh configurations. (1 month ago)
 - [voku/portable-ascii](https://github.com/voku/portable-ascii) - 🔡 Portable ASCII library - performance optimized (ascii) string functions for PHP. (4 months ago)
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically. (4 months ago)
