@@ -23,17 +23,17 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔨 Latest Pull Requests I published
 
-- [[BUGFIX] Keep QueryParams on Refresh in Log Module](https://github.com/tomasnorre/crawler/pull/1292) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 weeks ago)
-- [[BUGFIX] Keep QueryParams on Refresh in Log Module](https://github.com/tomasnorre/crawler/pull/1291) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 weeks ago)
-- [[BUGFIX] Add missing class for checkboxes for LogModule](https://github.com/tomasnorre/crawler/pull/1290) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 weeks ago)
-- [[BUGFIX] Add missing class for checkboxes for LogModule](https://github.com/tomasnorre/crawler/pull/1289) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 weeks ago)
+- [[BUGFIX] Keep QueryParams on Refresh in Log Module](https://github.com/tomasnorre/crawler/pull/1292) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 weeks ago)
+- [[BUGFIX] Keep QueryParams on Refresh in Log Module](https://github.com/tomasnorre/crawler/pull/1291) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 weeks ago)
+- [[BUGFIX] Add missing class for checkboxes for LogModule](https://github.com/tomasnorre/crawler/pull/1290) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 weeks ago)
+- [[BUGFIX] Add missing class for checkboxes for LogModule](https://github.com/tomasnorre/crawler/pull/1289) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 weeks ago)
 - [Update demo link and fix URL structure in README](https://github.com/kohlercode/ce_timeline/pull/13) on [kohlercode/ce_timeline](https://github.com/kohlercode/ce_timeline) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.3](https://github.com/ddev/ddev/releases/tag/v1.25.3), 1 day ago) - Docker-based local PHP&#43;Node.js web development environments
-- [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) ([v4.1.0](https://github.com/TYPO3BestPractices/tea/releases/tag/v4.1.0), 1 day ago) - Example extension for unit testing and best practices.
-- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.14.3](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.14.3), 6 days ago) - Rector for TYPO3
+- [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.3](https://github.com/ddev/ddev/releases/tag/v1.25.3), 2 days ago) - Docker-based local PHP&#43;Node.js web development environments
+- [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) ([v4.1.0](https://github.com/TYPO3BestPractices/tea/releases/tag/v4.1.0), 2 days ago) - Example extension for unit testing and best practices.
+- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.14.3](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.14.3), 1 week ago) - Rector for TYPO3
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
