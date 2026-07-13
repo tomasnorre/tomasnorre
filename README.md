@@ -17,8 +17,8 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (today)
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (3 weeks ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (today)
+- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (1 day ago)
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (4 weeks ago)
 
 #### 🔨 Latest Pull Requests I published
@@ -31,8 +31,8 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔭 Latest releases I've contributed to
 
-- [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.3](https://github.com/ddev/ddev/releases/tag/v1.25.3), 6 days ago) - Docker-based local PHP&#43;Node.js web development environments
-- [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) ([v4.1.0](https://github.com/TYPO3BestPractices/tea/releases/tag/v4.1.0), 6 days ago) - Example extension for unit testing and best practices.
+- [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.3](https://github.com/ddev/ddev/releases/tag/v1.25.3), 1 week ago) - Docker-based local PHP&#43;Node.js web development environments
+- [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) ([v4.1.0](https://github.com/TYPO3BestPractices/tea/releases/tag/v4.1.0), 1 week ago) - Example extension for unit testing and best practices.
 - [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.14.3](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.14.3), 1 week ago) - Rector for TYPO3
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
@@ -46,7 +46,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 #### ⭐ Recent stars
 
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User (2 weeks ago)
-- [s2b/visual-regression-tester](https://github.com/s2b/visual-regression-tester) - Collects and compares screenshots of websites (2 weeks ago)
+- [s2b/visual-regression-tester](https://github.com/s2b/visual-regression-tester) - Collects and compares screenshots of websites (3 weeks ago)
 - [radleylewis/zsh](https://github.com/radleylewis/zsh) - Powerful but tastefully minimal zsh configurations. (1 month ago)
 - [voku/portable-ascii](https://github.com/voku/portable-ascii) - 🔡 Portable ASCII library - performance optimized (ascii) string functions for PHP. (4 months ago)
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically. (4 months ago)
