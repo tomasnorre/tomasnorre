@@ -17,9 +17,9 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 day ago)
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
-- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (2 days ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (2 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
+- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (3 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
@@ -33,7 +33,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 - [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.3](https://github.com/ddev/ddev/releases/tag/v1.25.3), 1 week ago) - Docker-based local PHP&#43;Node.js web development environments
 - [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) ([v4.1.0](https://github.com/TYPO3BestPractices/tea/releases/tag/v4.1.0), 1 week ago) - Example extension for unit testing and best practices.
-- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.14.3](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.14.3), 1 week ago) - Rector for TYPO3
+- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.14.3](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.14.3), 2 weeks ago) - Rector for TYPO3
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
