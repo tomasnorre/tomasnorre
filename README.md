@@ -23,15 +23,15 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔨 Latest Pull Requests I published
 
-- [[BUGFIX] Keep QueryParams on Refresh in Log Module](https://github.com/tomasnorre/crawler/pull/1292) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 month ago)
-- [[BUGFIX] Keep QueryParams on Refresh in Log Module](https://github.com/tomasnorre/crawler/pull/1291) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 month ago)
-- [[BUGFIX] Add missing class for checkboxes for LogModule](https://github.com/tomasnorre/crawler/pull/1290) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 month ago)
-- [[BUGFIX] Add missing class for checkboxes for LogModule](https://github.com/tomasnorre/crawler/pull/1289) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 month ago)
+- [[BUGFIX] Keep QueryParams on Refresh in Log Module](https://github.com/tomasnorre/crawler/pull/1292) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 months ago)
+- [[BUGFIX] Keep QueryParams on Refresh in Log Module](https://github.com/tomasnorre/crawler/pull/1291) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 months ago)
+- [[BUGFIX] Add missing class for checkboxes for LogModule](https://github.com/tomasnorre/crawler/pull/1290) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 months ago)
+- [[BUGFIX] Add missing class for checkboxes for LogModule](https://github.com/tomasnorre/crawler/pull/1289) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 months ago)
 - [Update demo link and fix URL structure in README](https://github.com/kohlercode/ce_timeline/pull/13) on [kohlercode/ce_timeline](https://github.com/kohlercode/ce_timeline) (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.14.4](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.14.4), 5 days ago) - Rector for TYPO3
+- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.14.4](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.14.4), 6 days ago) - Rector for TYPO3
 - [7th-green/gha-playwright](https://github.com/7th-green/gha-playwright) ([v1.0.8](https://github.com/7th-green/gha-playwright/releases/tag/v1.0.8), 1 week ago) - 
 - [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.3](https://github.com/ddev/ddev/releases/tag/v1.25.3), 1 month ago) - Docker-based local PHP&#43;Node.js web development environments
 
