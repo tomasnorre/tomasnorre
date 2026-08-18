@@ -17,7 +17,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
 - [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (2 weeks ago)
 - [7th-green/gha-playwright](https://github.com/7th-green/gha-playwright) -  (2 weeks ago)
 
@@ -31,7 +31,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔭 Latest releases I've contributed to
 
-- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.15.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.15.0), 4 days ago) - Rector for TYPO3
+- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.15.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.15.0), 5 days ago) - Rector for TYPO3
 - [7th-green/gha-playwright](https://github.com/7th-green/gha-playwright) ([v1.0.8](https://github.com/7th-green/gha-playwright/releases/tag/v1.0.8), 2 weeks ago) - 
 - [ddev/ddev](https://github.com/ddev/ddev) ([v1.25.3](https://github.com/ddev/ddev/releases/tag/v1.25.3), 1 month ago) - Docker-based local PHP&#43;Node.js web development environments
 
