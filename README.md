@@ -17,7 +17,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (5 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (6 days ago)
 - [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (3 weeks ago)
 - [7th-green/gha-playwright](https://github.com/7th-green/gha-playwright) -  (3 weeks ago)
 
@@ -48,8 +48,8 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User (1 month ago)
 - [s2b/visual-regression-tester](https://github.com/s2b/visual-regression-tester) - Collects and compares screenshots of websites (2 months ago)
 - [radleylewis/zsh](https://github.com/radleylewis/zsh) - Powerful but tastefully minimal zsh configurations. (3 months ago)
-- [voku/portable-ascii](https://github.com/voku/portable-ascii) - 🔡 Portable ASCII library - performance optimized (ascii) string functions for PHP. (5 months ago)
-- [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically. (5 months ago)
+- [voku/portable-ascii](https://github.com/voku/portable-ascii) - 🔡 Portable ASCII library - performance optimized (ascii) string functions for PHP. (6 months ago)
+- [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically. (6 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/tomasnorre) (thank you!)
 
