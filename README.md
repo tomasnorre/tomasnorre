@@ -17,9 +17,9 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
-- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (4 weeks ago)
-- [7th-green/gha-playwright](https://github.com/7th-green/gha-playwright) -  (4 weeks ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (3 days ago)
+- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (1 month ago)
+- [7th-green/gha-playwright](https://github.com/7th-green/gha-playwright) -  (1 month ago)
 
 #### 🔨 Latest Pull Requests I published
 
@@ -32,7 +32,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 #### 🔭 Latest releases I've contributed to
 
 - [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.15.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.15.0), 2 weeks ago) - Rector for TYPO3
-- [7th-green/gha-playwright](https://github.com/7th-green/gha-playwright) ([v1.0.8](https://github.com/7th-green/gha-playwright/releases/tag/v1.0.8), 4 weeks ago) - 
+- [7th-green/gha-playwright](https://github.com/7th-green/gha-playwright) ([v1.0.8](https://github.com/7th-green/gha-playwright/releases/tag/v1.0.8), 1 month ago) - 
 - [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) ([v4.1.0](https://github.com/TYPO3BestPractices/tea/releases/tag/v4.1.0), 1 month ago) - Example extension for unit testing and best practices.
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
