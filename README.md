@@ -17,7 +17,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (6 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 week ago)
 - [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (1 month ago)
 - [7th-green/gha-playwright](https://github.com/7th-green/gha-playwright) -  (1 month ago)
 
@@ -27,11 +27,11 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 - [[BUGFIX] Keep QueryParams on Refresh in Log Module](https://github.com/tomasnorre/crawler/pull/1291) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 months ago)
 - [[BUGFIX] Add missing class for checkboxes for LogModule](https://github.com/tomasnorre/crawler/pull/1290) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 months ago)
 - [[BUGFIX] Add missing class for checkboxes for LogModule](https://github.com/tomasnorre/crawler/pull/1289) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 months ago)
-- [Update demo link and fix URL structure in README](https://github.com/kohlercode/ce_timeline/pull/13) on [kohlercode/ce_timeline](https://github.com/kohlercode/ce_timeline) (2 months ago)
+- [Update demo link and fix URL structure in README](https://github.com/kohlercode/ce_timeline/pull/13) on [kohlercode/ce_timeline](https://github.com/kohlercode/ce_timeline) (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.15.1](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.15.1), 1 day ago) - Rector for TYPO3
+- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.15.1](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.15.1), 2 days ago) - Rector for TYPO3
 - [7th-green/gha-playwright](https://github.com/7th-green/gha-playwright) ([v1.0.8](https://github.com/7th-green/gha-playwright/releases/tag/v1.0.8), 1 month ago) - 
 - [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) ([v4.1.0](https://github.com/TYPO3BestPractices/tea/releases/tag/v4.1.0), 1 month ago) - Example extension for unit testing and best practices.
 
@@ -45,7 +45,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### ⭐ Recent stars
 
-- [wandoliver/laramon](https://github.com/wandoliver/laramon) (1 day ago)
+- [wandoliver/laramon](https://github.com/wandoliver/laramon) (2 days ago)
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User (2 months ago)
 - [s2b/visual-regression-tester](https://github.com/s2b/visual-regression-tester) - Collects and compares screenshots of websites (2 months ago)
 - [radleylewis/zsh](https://github.com/radleylewis/zsh) - Powerful but tastefully minimal zsh configurations. (3 months ago)
