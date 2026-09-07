@@ -31,7 +31,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔭 Latest releases I've contributed to
 
-- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v2.15.3](https://github.com/sabbelasichon/typo3-rector/releases/tag/v2.15.3), 5 days ago) - Rector for TYPO3
+- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v2.15.3](https://github.com/sabbelasichon/typo3-rector/releases/tag/v2.15.3), 6 days ago) - Rector for TYPO3
 - [7th-green/gha-playwright](https://github.com/7th-green/gha-playwright) ([v1.0.8](https://github.com/7th-green/gha-playwright/releases/tag/v1.0.8), 1 month ago) - 
 - [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) ([v4.1.0](https://github.com/TYPO3BestPractices/tea/releases/tag/v4.1.0), 2 months ago) - Example extension for unit testing and best practices.
 
