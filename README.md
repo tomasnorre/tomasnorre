@@ -17,21 +17,21 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (today)
 - [phpDocumentor/guides](https://github.com/phpDocumentor/guides) - Guides library to parse documentation (1 week ago)
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 week ago)
 - [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (1 month ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [[BUGFIX] Keep QueryParams on Refresh in Log Module](https://github.com/tomasnorre/crawler/pull/1292) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 months ago)
-- [[BUGFIX] Keep QueryParams on Refresh in Log Module](https://github.com/tomasnorre/crawler/pull/1291) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 months ago)
-- [[BUGFIX] Add missing class for checkboxes for LogModule](https://github.com/tomasnorre/crawler/pull/1290) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 months ago)
-- [[BUGFIX] Add missing class for checkboxes for LogModule](https://github.com/tomasnorre/crawler/pull/1289) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 months ago)
+- [[BUGFIX] Keep QueryParams on Refresh in Log Module](https://github.com/tomasnorre/crawler/pull/1292) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 months ago)
+- [[BUGFIX] Keep QueryParams on Refresh in Log Module](https://github.com/tomasnorre/crawler/pull/1291) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 months ago)
+- [[BUGFIX] Add missing class for checkboxes for LogModule](https://github.com/tomasnorre/crawler/pull/1290) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 months ago)
+- [[BUGFIX] Add missing class for checkboxes for LogModule](https://github.com/tomasnorre/crawler/pull/1289) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 months ago)
 - [Update demo link and fix URL structure in README](https://github.com/kohlercode/ce_timeline/pull/13) on [kohlercode/ce_timeline](https://github.com/kohlercode/ce_timeline) (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v2.15.3](https://github.com/sabbelasichon/typo3-rector/releases/tag/v2.15.3), 6 days ago) - Rector for TYPO3
+- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v2.15.3](https://github.com/sabbelasichon/typo3-rector/releases/tag/v2.15.3), 1 week ago) - Rector for TYPO3
 - [7th-green/gha-playwright](https://github.com/7th-green/gha-playwright) ([v1.0.8](https://github.com/7th-green/gha-playwright/releases/tag/v1.0.8), 1 month ago) - 
 - [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) ([v4.1.0](https://github.com/TYPO3BestPractices/tea/releases/tag/v4.1.0), 2 months ago) - Example extension for unit testing and best practices.
 
