@@ -17,8 +17,8 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (6 days ago)
-- [phpDocumentor/guides](https://github.com/phpDocumentor/guides) - Guides library to parse documentation (2 weeks ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 week ago)
+- [phpDocumentor/guides](https://github.com/phpDocumentor/guides) - Guides library to parse documentation (3 weeks ago)
 - [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (1 month ago)
 
 #### 🔨 Latest Pull Requests I published
@@ -31,7 +31,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔭 Latest releases I've contributed to
 
-- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.16.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.16.0), 4 days ago) - Rector for TYPO3
+- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) ([v3.16.0](https://github.com/sabbelasichon/typo3-rector/releases/tag/v3.16.0), 1 week ago) - Rector for TYPO3
 - [7th-green/gha-playwright](https://github.com/7th-green/gha-playwright) ([v1.0.8](https://github.com/7th-green/gha-playwright/releases/tag/v1.0.8), 1 month ago) - 
 - [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) ([v4.1.0](https://github.com/TYPO3BestPractices/tea/releases/tag/v4.1.0), 2 months ago) - Example extension for unit testing and best practices.
 
@@ -40,16 +40,16 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 - [Self-hosted Docker Registry](https://blog.tomasnorre.dk/blog/self-hosted-docker-registry/) (5 months ago)
 - [Post Ideas](https://blog.tomasnorre.dk/blog/post-ideas/) (5 months ago)
 - [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles/) (7 months ago)
-- [How to set up a self-hosted GitHub Runner](https://blog.tomasnorre.dk/blog/self-hosted-github-runner/) (7 months ago)
-- [TYPO3 Crawler with TYPO3 14 Support](https://blog.tomasnorre.dk/blog/typo3-crawler-with-typo3-14-support/) (7 months ago)
+- [How to set up a self-hosted GitHub Runner](https://blog.tomasnorre.dk/blog/self-hosted-github-runner/) (8 months ago)
+- [TYPO3 Crawler with TYPO3 14 Support](https://blog.tomasnorre.dk/blog/typo3-crawler-with-typo3-14-support/) (8 months ago)
 
 #### ⭐ Recent stars
 
-- [dockersamples/laravel-docker-examples](https://github.com/dockersamples/laravel-docker-examples) - Set of docker compose examples for Laravel framework (5 days ago)
-- [wandoliver/laramon](https://github.com/wandoliver/laramon) - Self-hosted fleet monitoring for Laravel applications - inspired by Laravel Nightwatch. (2 weeks ago)
+- [dockersamples/laravel-docker-examples](https://github.com/dockersamples/laravel-docker-examples) - Set of docker compose examples for Laravel framework (1 week ago)
+- [wandoliver/laramon](https://github.com/wandoliver/laramon) - Self-hosted fleet monitoring for Laravel applications - inspired by Laravel Nightwatch. (3 weeks ago)
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User (2 months ago)
-- [s2b/visual-regression-tester](https://github.com/s2b/visual-regression-tester) - Collects and compares screenshots of websites (2 months ago)
-- [radleylewis/zsh](https://github.com/radleylewis/zsh) - Powerful but tastefully minimal zsh configurations. (3 months ago)
+- [s2b/visual-regression-tester](https://github.com/s2b/visual-regression-tester) - Collects and compares screenshots of websites (3 months ago)
+- [radleylewis/zsh](https://github.com/radleylewis/zsh) - Powerful but tastefully minimal zsh configurations. (4 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/tomasnorre) (thank you!)
 
