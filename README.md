@@ -31,8 +31,8 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 🔭 Latest releases I've contributed to
 
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([13.0.1](https://github.com/tomasnorre/crawler/releases/tag/13.0.1), today) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
 - [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) ([v2.3.0](https://github.com/tomasnorre/typo3-upload-ter/releases/tag/v2.3.0), today) - GitHub Action that helps you upload your Extensions to TER
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([13.0.0](https://github.com/tomasnorre/crawler/releases/tag/13.0.0), 1 week ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
 - [phpDocumentor/guides](https://github.com/phpDocumentor/guides) ([1.11.0](https://github.com/phpDocumentor/guides/releases/tag/1.11.0), 2 weeks ago) - Guides library to parse documentation
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
