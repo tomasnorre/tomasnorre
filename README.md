@@ -17,23 +17,23 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (today)
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (today)
-- [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) - GitHub Action that helps you upload your Extensions to TER (3 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
+- [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) - GitHub Action that helps you upload your Extensions to TER (4 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [[TASK] Update playwright version in tests](https://github.com/tomasnorre/crawler/pull/1316) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 days ago)
-- [[TASK] Pin dev-dependencies](https://github.com/tomasnorre/crawler/pull/1314) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 days ago)
-- [[TASK] Speedup CI Acceptance tests](https://github.com/tomasnorre/crawler/pull/1313) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 days ago)
-- [Create Dockerfile.php2shell for PHP upgrades](https://github.com/tomasnorre/crawler/pull/1312) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
-- [New Crowdin updates](https://github.com/tomasnorre/crawler/pull/1311) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (6 days ago)
+- [[TASK] Switch GitHub workflows to ubuntu-26.04](https://github.com/tomasnorre/crawler/pull/1318) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
+- [[TASK] Update playwright version in tests](https://github.com/tomasnorre/crawler/pull/1316) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
+- [[TASK] Pin dev-dependencies](https://github.com/tomasnorre/crawler/pull/1314) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
+- [[TASK] Speedup CI Acceptance tests](https://github.com/tomasnorre/crawler/pull/1313) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
+- [Create Dockerfile.php2shell for PHP upgrades](https://github.com/tomasnorre/crawler/pull/1312) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([13.0.1](https://github.com/tomasnorre/crawler/releases/tag/13.0.1), 3 days ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
-- [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) ([v2.3.0](https://github.com/tomasnorre/typo3-upload-ter/releases/tag/v2.3.0), 3 days ago) - GitHub Action that helps you upload your Extensions to TER
-- [phpDocumentor/guides](https://github.com/phpDocumentor/guides) ([1.11.0](https://github.com/phpDocumentor/guides/releases/tag/1.11.0), 2 weeks ago) - Guides library to parse documentation
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([13.0.1](https://github.com/tomasnorre/crawler/releases/tag/13.0.1), 4 days ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
+- [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) ([v2.3.0](https://github.com/tomasnorre/typo3-upload-ter/releases/tag/v2.3.0), 4 days ago) - GitHub Action that helps you upload your Extensions to TER
+- [phpDocumentor/guides](https://github.com/phpDocumentor/guides) ([1.11.0](https://github.com/phpDocumentor/guides/releases/tag/1.11.0), 3 weeks ago) - Guides library to parse documentation
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
@@ -45,7 +45,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### ⭐ Recent stars
 
-- [jordanhubbard/daemonarchy](https://github.com/jordanhubbard/daemonarchy) - The Omarchy desktop on FreeBSD: installer ISO and build tooling  (today)
+- [jordanhubbard/daemonarchy](https://github.com/jordanhubbard/daemonarchy) - The Omarchy desktop on FreeBSD: installer ISO and build tooling  (1 day ago)
 - [dockersamples/laravel-docker-examples](https://github.com/dockersamples/laravel-docker-examples) - Set of docker compose examples for Laravel framework (1 month ago)
 - [wandoliver/laramon](https://github.com/wandoliver/laramon) - Self-hosted fleet monitoring for Laravel applications - inspired by Laravel Nightwatch. (1 month ago)
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User (4 months ago)
