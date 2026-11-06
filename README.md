@@ -17,22 +17,22 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (3 days ago)
-- [tomasnorre/RackBuilder](https://github.com/tomasnorre/RackBuilder) - A simple tool for building the layout of your server rack (3 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (4 days ago)
+- [tomasnorre/RackBuilder](https://github.com/tomasnorre/RackBuilder) - A simple tool for building the layout of your server rack (4 days ago)
 - [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (1 week ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: add deployment](https://github.com/tomasnorre/RackBuilder/pull/1) on [tomasnorre/RackBuilder](https://github.com/tomasnorre/RackBuilder) (6 days ago)
+- [feat: add deployment](https://github.com/tomasnorre/RackBuilder/pull/1) on [tomasnorre/RackBuilder](https://github.com/tomasnorre/RackBuilder) (1 week ago)
 - [[TASK] Switch GitHub workflows to ubuntu-26.04](https://github.com/tomasnorre/crawler/pull/1318) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
-- [[TASK] Update playwright version in tests](https://github.com/tomasnorre/crawler/pull/1316) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
-- [[TASK] Pin dev-dependencies](https://github.com/tomasnorre/crawler/pull/1314) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
-- [[TASK] Speedup CI Acceptance tests](https://github.com/tomasnorre/crawler/pull/1313) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
+- [[TASK] Update playwright version in tests](https://github.com/tomasnorre/crawler/pull/1316) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 weeks ago)
+- [[TASK] Pin dev-dependencies](https://github.com/tomasnorre/crawler/pull/1314) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 weeks ago)
+- [[TASK] Speedup CI Acceptance tests](https://github.com/tomasnorre/crawler/pull/1313) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([13.0.1](https://github.com/tomasnorre/crawler/releases/tag/13.0.1), 1 week ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
-- [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) ([v2.3.0](https://github.com/tomasnorre/typo3-upload-ter/releases/tag/v2.3.0), 1 week ago) - GitHub Action that helps you upload your Extensions to TER
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([13.0.1](https://github.com/tomasnorre/crawler/releases/tag/13.0.1), 2 weeks ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
+- [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) ([v2.3.0](https://github.com/tomasnorre/typo3-upload-ter/releases/tag/v2.3.0), 2 weeks ago) - GitHub Action that helps you upload your Extensions to TER
 - [phpDocumentor/guides](https://github.com/phpDocumentor/guides) ([1.11.0](https://github.com/phpDocumentor/guides/releases/tag/1.11.0), 1 month ago) - Guides library to parse documentation
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
