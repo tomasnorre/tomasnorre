@@ -17,13 +17,13 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/renovate-poc](https://github.com/tomasnorre/renovate-poc) -  (2 days ago)
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
-- [tomasnorre/RackBuilder](https://github.com/tomasnorre/RackBuilder) - A simple tool for building the layout of your server rack (6 days ago)
+- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (1 day ago)
+- [tomasnorre/renovate-poc](https://github.com/tomasnorre/renovate-poc) -  (3 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (3 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [[TASK] Add PHP 8.6 support](https://github.com/tomasnorre/crawler/pull/1320) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
+- [[TASK] Add PHP 8.6 support](https://github.com/tomasnorre/crawler/pull/1320) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 days ago)
 - [feat: add deployment](https://github.com/tomasnorre/RackBuilder/pull/1) on [tomasnorre/RackBuilder](https://github.com/tomasnorre/RackBuilder) (1 week ago)
 - [[TASK] Switch GitHub workflows to ubuntu-26.04](https://github.com/tomasnorre/crawler/pull/1318) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 week ago)
 - [[TASK] Update playwright version in tests](https://github.com/tomasnorre/crawler/pull/1316) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 weeks ago)
@@ -37,15 +37,15 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
-- [Simple backups with Restic](https://blog.tomasnorre.dk/blog/backup-with-restic/) (2 days ago)
+- [Simple backups with Restic](https://blog.tomasnorre.dk/blog/backup-with-restic/) (3 days ago)
 - [How to install PHP on Ubuntu 26.04](https://blog.tomasnorre.dk/blog/how-to-install-php-on-ubuntu-2604/) (3 weeks ago)
-- [Self-hosted Docker Registry](https://blog.tomasnorre.dk/blog/self-hosted-docker-registry/) (6 months ago)
+- [Self-hosted Docker Registry](https://blog.tomasnorre.dk/blog/self-hosted-docker-registry/) (7 months ago)
 - [Post Ideas](https://blog.tomasnorre.dk/blog/post-ideas/) (7 months ago)
 - [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles/) (9 months ago)
 
 #### ⭐ Recent stars
 
-- [jordanhubbard/daemonarchy](https://github.com/jordanhubbard/daemonarchy) - A new desktop installer and curated and signed package ecosystem for FreeBSD; inspired by Omarchy, FreeBSD and the classic world of video games (1 week ago)
+- [jordanhubbard/daemonarchy](https://github.com/jordanhubbard/daemonarchy) - A new desktop installer and curated and signed package ecosystem for FreeBSD; inspired by Omarchy, FreeBSD and the classic world of video games (2 weeks ago)
 - [dockersamples/laravel-docker-examples](https://github.com/dockersamples/laravel-docker-examples) - Set of docker compose examples for Laravel framework (2 months ago)
 - [wandoliver/laramon](https://github.com/wandoliver/laramon) - Self-hosted fleet monitoring for Laravel applications - inspired by Laravel Nightwatch. (2 months ago)
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User (4 months ago)
