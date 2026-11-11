@@ -17,17 +17,17 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/renovate-poc-selfhosted](https://github.com/tomasnorre/renovate-poc-selfhosted) -  (1 day ago)
-- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (2 days ago)
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (4 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
+- [tomasnorre/renovate-poc-selfhosted](https://github.com/tomasnorre/renovate-poc-selfhosted) -  (2 days ago)
+- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (3 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update dependency alpinejs to v3.17.5](https://github.com/tomasnorre/renovate-poc-selfhosted/pull/5) on [tomasnorre/renovate-poc-selfhosted](https://github.com/tomasnorre/renovate-poc-selfhosted) (1 day ago)
-- [Update dependency ramsey/uuid to v4.9.4](https://github.com/tomasnorre/renovate-poc-selfhosted/pull/4) on [tomasnorre/renovate-poc-selfhosted](https://github.com/tomasnorre/renovate-poc-selfhosted) (1 day ago)
-- [Update dependency monolog/monolog to v3 - abandoned](https://github.com/tomasnorre/renovate-poc-selfhosted/pull/2) on [tomasnorre/renovate-poc-selfhosted](https://github.com/tomasnorre/renovate-poc-selfhosted) (1 day ago)
-- [Update dependency monolog/monolog to v2.11.1](https://github.com/tomasnorre/renovate-poc-selfhosted/pull/1) on [tomasnorre/renovate-poc-selfhosted](https://github.com/tomasnorre/renovate-poc-selfhosted) (1 day ago)
-- [[TASK] Add PHP 8.6 support](https://github.com/tomasnorre/crawler/pull/1320) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
+- [Update dependency alpinejs to v3.17.5](https://github.com/tomasnorre/renovate-poc-selfhosted/pull/5) on [tomasnorre/renovate-poc-selfhosted](https://github.com/tomasnorre/renovate-poc-selfhosted) (2 days ago)
+- [Update dependency ramsey/uuid to v4.9.4](https://github.com/tomasnorre/renovate-poc-selfhosted/pull/4) on [tomasnorre/renovate-poc-selfhosted](https://github.com/tomasnorre/renovate-poc-selfhosted) (2 days ago)
+- [Update dependency monolog/monolog to v3 - abandoned](https://github.com/tomasnorre/renovate-poc-selfhosted/pull/2) on [tomasnorre/renovate-poc-selfhosted](https://github.com/tomasnorre/renovate-poc-selfhosted) (2 days ago)
+- [Update dependency monolog/monolog to v2.11.1](https://github.com/tomasnorre/renovate-poc-selfhosted/pull/1) on [tomasnorre/renovate-poc-selfhosted](https://github.com/tomasnorre/renovate-poc-selfhosted) (2 days ago)
+- [[TASK] Add PHP 8.6 support](https://github.com/tomasnorre/crawler/pull/1320) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -37,8 +37,8 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
-- [Simple backups with Restic](https://blog.tomasnorre.dk/blog/backup-with-restic/) (4 days ago)
-- [How to install PHP on Ubuntu 26.04](https://blog.tomasnorre.dk/blog/how-to-install-php-on-ubuntu-2604/) (3 weeks ago)
+- [Simple backups with Restic](https://blog.tomasnorre.dk/blog/backup-with-restic/) (5 days ago)
+- [How to install PHP on Ubuntu 26.04](https://blog.tomasnorre.dk/blog/how-to-install-php-on-ubuntu-2604/) (4 weeks ago)
 - [Self-hosted Docker Registry](https://blog.tomasnorre.dk/blog/self-hosted-docker-registry/) (7 months ago)
 - [Post Ideas](https://blog.tomasnorre.dk/blog/post-ideas/) (7 months ago)
 - [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles/) (9 months ago)
