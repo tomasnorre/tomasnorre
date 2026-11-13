@@ -17,28 +17,28 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
-- [tomasnorre/renovate-poc-selfhosted](https://github.com/tomasnorre/renovate-poc-selfhosted) -  (3 days ago)
-- [tomasnorre/dotfiles](https://github.com/tomasnorre/dotfiles) - This is where my public dotfiles lives (4 days ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 day ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
+- [tomasnorre/renovate-poc-selfhosted](https://github.com/tomasnorre/renovate-poc-selfhosted) -  (4 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [[TASK] Update vimeo/psalm to 7.3.0](https://github.com/tomasnorre/crawler/pull/1321) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [Update dependency alpinejs to v3.17.5](https://github.com/tomasnorre/renovate-poc-selfhosted/pull/5) on [tomasnorre/renovate-poc-selfhosted](https://github.com/tomasnorre/renovate-poc-selfhosted) (3 days ago)
-- [Update dependency ramsey/uuid to v4.9.4](https://github.com/tomasnorre/renovate-poc-selfhosted/pull/4) on [tomasnorre/renovate-poc-selfhosted](https://github.com/tomasnorre/renovate-poc-selfhosted) (3 days ago)
-- [Update dependency monolog/monolog to v3 - abandoned](https://github.com/tomasnorre/renovate-poc-selfhosted/pull/2) on [tomasnorre/renovate-poc-selfhosted](https://github.com/tomasnorre/renovate-poc-selfhosted) (3 days ago)
-- [Update dependency monolog/monolog to v2.11.1](https://github.com/tomasnorre/renovate-poc-selfhosted/pull/1) on [tomasnorre/renovate-poc-selfhosted](https://github.com/tomasnorre/renovate-poc-selfhosted) (3 days ago)
+- [[!!!][FEATURE] Use TYPO3 message bus instead of custom queue processing](https://github.com/tomasnorre/crawler/pull/1322) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [[TASK] Update vimeo/psalm to 7.3.0](https://github.com/tomasnorre/crawler/pull/1321) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
+- [Update dependency alpinejs to v3.17.5](https://github.com/tomasnorre/renovate-poc-selfhosted/pull/5) on [tomasnorre/renovate-poc-selfhosted](https://github.com/tomasnorre/renovate-poc-selfhosted) (4 days ago)
+- [Update dependency ramsey/uuid to v4.9.4](https://github.com/tomasnorre/renovate-poc-selfhosted/pull/4) on [tomasnorre/renovate-poc-selfhosted](https://github.com/tomasnorre/renovate-poc-selfhosted) (4 days ago)
+- [Update dependency monolog/monolog to v3 - abandoned](https://github.com/tomasnorre/renovate-poc-selfhosted/pull/2) on [tomasnorre/renovate-poc-selfhosted](https://github.com/tomasnorre/renovate-poc-selfhosted) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([13.0.1](https://github.com/tomasnorre/crawler/releases/tag/13.0.1), 2 weeks ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
-- [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) ([v2.3.0](https://github.com/tomasnorre/typo3-upload-ter/releases/tag/v2.3.0), 2 weeks ago) - GitHub Action that helps you upload your Extensions to TER
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([13.0.1](https://github.com/tomasnorre/crawler/releases/tag/13.0.1), 3 weeks ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
+- [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) ([v2.3.0](https://github.com/tomasnorre/typo3-upload-ter/releases/tag/v2.3.0), 3 weeks ago) - GitHub Action that helps you upload your Extensions to TER
 - [phpDocumentor/guides](https://github.com/phpDocumentor/guides) ([1.11.0](https://github.com/phpDocumentor/guides/releases/tag/1.11.0), 1 month ago) - Guides library to parse documentation
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
-- [Simple backups with Restic](https://blog.tomasnorre.dk/blog/backup-with-restic/) (6 days ago)
-- [How to install PHP on Ubuntu 26.04](https://blog.tomasnorre.dk/blog/how-to-install-php-on-ubuntu-2604/) (4 weeks ago)
+- [Simple backups with Restic](https://blog.tomasnorre.dk/blog/backup-with-restic/) (1 week ago)
+- [How to install PHP on Ubuntu 26.04](https://blog.tomasnorre.dk/blog/how-to-install-php-on-ubuntu-2604/) (1 month ago)
 - [Self-hosted Docker Registry](https://blog.tomasnorre.dk/blog/self-hosted-docker-registry/) (7 months ago)
 - [Post Ideas](https://blog.tomasnorre.dk/blog/post-ideas/) (7 months ago)
 - [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles/) (9 months ago)
