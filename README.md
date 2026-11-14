@@ -17,22 +17,22 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
+- [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) - GitHub Action that helps you upload your Extensions to TER (1 day ago)
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 day ago)
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
-- [tomasnorre/renovate-poc-selfhosted](https://github.com/tomasnorre/renovate-poc-selfhosted) -  (4 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (3 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [[!!!][FEATURE] Use TYPO3 message bus instead of custom queue processing](https://github.com/tomasnorre/crawler/pull/1322) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [[TASK] Update vimeo/psalm to 7.3.0](https://github.com/tomasnorre/crawler/pull/1321) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
-- [Update dependency alpinejs to v3.17.5](https://github.com/tomasnorre/renovate-poc-selfhosted/pull/5) on [tomasnorre/renovate-poc-selfhosted](https://github.com/tomasnorre/renovate-poc-selfhosted) (4 days ago)
-- [Update dependency ramsey/uuid to v4.9.4](https://github.com/tomasnorre/renovate-poc-selfhosted/pull/4) on [tomasnorre/renovate-poc-selfhosted](https://github.com/tomasnorre/renovate-poc-selfhosted) (4 days ago)
-- [Update dependency monolog/monolog to v3 - abandoned](https://github.com/tomasnorre/renovate-poc-selfhosted/pull/2) on [tomasnorre/renovate-poc-selfhosted](https://github.com/tomasnorre/renovate-poc-selfhosted) (4 days ago)
+- [[TASK] Add CLAUDE.md with project guidelines](https://github.com/tomasnorre/crawler/pull/1329) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [[BUGFIX] Cache exclude page trees, split ConfigurationService to reduce complexity](https://github.com/tomasnorre/crawler/pull/1328) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [[BUGFIX] Export every log entry in the crawler log CSV, reduce BackendModuleLogService complexity](https://github.com/tomasnorre/crawler/pull/1326) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [[TASK] Reduce PHPStan baseline from 15 to 6 entries](https://github.com/tomasnorre/crawler/pull/1325) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [!!! [TASK] Get translations from the TYPO3 translation server](https://github.com/tomasnorre/crawler/pull/1324) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) ([v3.0.0](https://github.com/tomasnorre/typo3-upload-ter/releases/tag/v3.0.0), 1 day ago) - GitHub Action that helps you upload your Extensions to TER
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([13.0.1](https://github.com/tomasnorre/crawler/releases/tag/13.0.1), 3 weeks ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
-- [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) ([v2.3.0](https://github.com/tomasnorre/typo3-upload-ter/releases/tag/v2.3.0), 3 weeks ago) - GitHub Action that helps you upload your Extensions to TER
 - [phpDocumentor/guides](https://github.com/phpDocumentor/guides) ([1.11.0](https://github.com/phpDocumentor/guides/releases/tag/1.11.0), 1 month ago) - Guides library to parse documentation
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
