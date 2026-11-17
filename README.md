@@ -17,21 +17,21 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (2 days ago)
-- [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) - GitHub Action that helps you upload your Extensions to TER (3 days ago)
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (5 days ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 day ago)
+- [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) - GitHub Action that helps you upload your Extensions to TER (4 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (6 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [!!! [TASK] Move the extension metadata from ext_emconf.php to composer.json](https://github.com/tomasnorre/crawler/pull/1339) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
-- [!!! [TASK] Replace CrawlerController with PageTreeUrlCollector](https://github.com/tomasnorre/crawler/pull/1338) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
-- [!!! [FEATURE] Add QueueCallbackInterface for callbacks in the queue](https://github.com/tomasnorre/crawler/pull/1337) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
-- [[BUGFIX] Read the set id in the crawler log](https://github.com/tomasnorre/crawler/pull/1336) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
-- [!!! [TASK] Move the queue writing out of CrawlerController](https://github.com/tomasnorre/crawler/pull/1335) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
+- [[TASK] Raise Psalm to error level 5](https://github.com/tomasnorre/crawler/pull/1358) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [[TASK] Add saschaegerer/phpstan-typo3 for PHPStan](https://github.com/tomasnorre/crawler/pull/1357) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [[TASK] Read console input with fixed types in the crawler commands](https://github.com/tomasnorre/crawler/pull/1356) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [[TASK] Keep mutation scores from decreasing in CLAUDE.md](https://github.com/tomasnorre/crawler/pull/1355) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [[CI] Allow dependabot to update composer dev-dependencies](https://github.com/tomasnorre/crawler/pull/1354) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) ([v3.0.0](https://github.com/tomasnorre/typo3-upload-ter/releases/tag/v3.0.0), 3 days ago) - GitHub Action that helps you upload your Extensions to TER
+- [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) ([v3.0.0](https://github.com/tomasnorre/typo3-upload-ter/releases/tag/v3.0.0), 4 days ago) - GitHub Action that helps you upload your Extensions to TER
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([13.0.1](https://github.com/tomasnorre/crawler/releases/tag/13.0.1), 3 weeks ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
 - [phpDocumentor/guides](https://github.com/phpDocumentor/guides) ([1.11.0](https://github.com/phpDocumentor/guides/releases/tag/1.11.0), 1 month ago) - Guides library to parse documentation
 
