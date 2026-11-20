@@ -18,26 +18,26 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 #### 👷 Check out what I'm currently working on
 
 - [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (2 days ago)
-- [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) - GitHub Action that helps you upload your Extensions to TER (6 days ago)
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (3 days ago)
+- [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) - GitHub Action that helps you upload your Extensions to TER (1 week ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [[TASK] Evaluate Lightpanda as browser for the acceptance tests](https://github.com/tomasnorre/crawler/pull/1361) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [[TASK] Raise Psalm to error level 5](https://github.com/tomasnorre/crawler/pull/1358) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 days ago)
-- [[TASK] Add saschaegerer/phpstan-typo3 for PHPStan](https://github.com/tomasnorre/crawler/pull/1357) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 days ago)
-- [[TASK] Read console input with fixed types in the crawler commands](https://github.com/tomasnorre/crawler/pull/1356) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 days ago)
-- [[TASK] Keep mutation scores from decreasing in CLAUDE.md](https://github.com/tomasnorre/crawler/pull/1355) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (3 days ago)
+- [[TASK] Evaluate Lightpanda as browser for the acceptance tests](https://github.com/tomasnorre/crawler/pull/1361) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
+- [[TASK] Raise Psalm to error level 5](https://github.com/tomasnorre/crawler/pull/1358) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
+- [[TASK] Add saschaegerer/phpstan-typo3 for PHPStan](https://github.com/tomasnorre/crawler/pull/1357) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
+- [[TASK] Read console input with fixed types in the crawler commands](https://github.com/tomasnorre/crawler/pull/1356) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
+- [[TASK] Keep mutation scores from decreasing in CLAUDE.md](https://github.com/tomasnorre/crawler/pull/1355) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) ([v3.0.0](https://github.com/tomasnorre/typo3-upload-ter/releases/tag/v3.0.0), 6 days ago) - GitHub Action that helps you upload your Extensions to TER
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([13.0.1](https://github.com/tomasnorre/crawler/releases/tag/13.0.1), 3 weeks ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
+- [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) ([v3.0.0](https://github.com/tomasnorre/typo3-upload-ter/releases/tag/v3.0.0), 1 week ago) - GitHub Action that helps you upload your Extensions to TER
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([13.0.1](https://github.com/tomasnorre/crawler/releases/tag/13.0.1), 4 weeks ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
 - [phpDocumentor/guides](https://github.com/phpDocumentor/guides) ([1.11.0](https://github.com/phpDocumentor/guides/releases/tag/1.11.0), 1 month ago) - Guides library to parse documentation
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
-- [Simple backups with Restic](https://blog.tomasnorre.dk/blog/backup-with-restic/) (1 week ago)
+- [Simple backups with Restic](https://blog.tomasnorre.dk/blog/backup-with-restic/) (2 weeks ago)
 - [How to install PHP on Ubuntu 26.04](https://blog.tomasnorre.dk/blog/how-to-install-php-on-ubuntu-2604/) (1 month ago)
 - [Self-hosted Docker Registry](https://blog.tomasnorre.dk/blog/self-hosted-docker-registry/) (7 months ago)
 - [Post Ideas](https://blog.tomasnorre.dk/blog/post-ideas/) (7 months ago)
