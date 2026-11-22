@@ -18,21 +18,21 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 #### 👷 Check out what I'm currently working on
 
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 day ago)
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (3 days ago)
 - [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) - GitHub Action that helps you upload your Extensions to TER (1 week ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [[FEATURE] Add PHP 8.6 support](https://github.com/georgringer/news/pull/2872) on [georgringer/news](https://github.com/georgringer/news) (1 day ago)
-- [[FEATURE] Support PHP 8.6](https://github.com/tomasnorre/crawler/pull/1365) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [[TASK] Replace Prophecy with PHPUnit test doubles](https://github.com/tomasnorre/crawler/pull/1364) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [[BUGFIX] Upgrade PHP in the DDEV devbox to the latest patch version](https://github.com/tomasnorre/crawler/pull/1363) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [[!!!][FEATURE] Render direct requests as frontend sub-requests](https://github.com/tomasnorre/crawler/pull/1362) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [[DOCS] Keep CI and development workflow changes out of the CHANGELOG](https://github.com/tomasnorre/crawler/pull/1367) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [[TASK] Check the patch coverage of pull requests](https://github.com/tomasnorre/crawler/pull/1366) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [[TASK] Pin TYPO3 Rector to 3.17.0](https://github.com/georgringer/news/pull/2873) on [georgringer/news](https://github.com/georgringer/news) (1 day ago)
+- [[FEATURE] Add PHP 8.6 support](https://github.com/georgringer/news/pull/2872) on [georgringer/news](https://github.com/georgringer/news) (2 days ago)
+- [[FEATURE] Support PHP 8.6](https://github.com/tomasnorre/crawler/pull/1365) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) ([v3.0.0](https://github.com/tomasnorre/typo3-upload-ter/releases/tag/v3.0.0), 1 week ago) - GitHub Action that helps you upload your Extensions to TER
-- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([13.0.1](https://github.com/tomasnorre/crawler/releases/tag/13.0.1), 4 weeks ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
+- [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([13.0.1](https://github.com/tomasnorre/crawler/releases/tag/13.0.1), 1 month ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
 - [phpDocumentor/guides](https://github.com/phpDocumentor/guides) ([1.11.0](https://github.com/phpDocumentor/guides/releases/tag/1.11.0), 1 month ago) - Guides library to parse documentation
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
@@ -41,7 +41,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 - [How to install PHP on Ubuntu 26.04](https://blog.tomasnorre.dk/blog/how-to-install-php-on-ubuntu-2604/) (1 month ago)
 - [Self-hosted Docker Registry](https://blog.tomasnorre.dk/blog/self-hosted-docker-registry/) (7 months ago)
 - [Post Ideas](https://blog.tomasnorre.dk/blog/post-ideas/) (7 months ago)
-- [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles/) (9 months ago)
+- [Jigsaw - Related articles](https://blog.tomasnorre.dk/blog/jigsaw-related-articles/) (10 months ago)
 
 #### ⭐ Recent stars
 
