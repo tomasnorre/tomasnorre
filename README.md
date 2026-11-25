@@ -18,20 +18,20 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 #### 👷 Check out what I'm currently working on
 
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 day ago)
-- [georgringer/news](https://github.com/georgringer/news) - TYPO3 Extension news (3 days ago)
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (5 days ago)
+- [georgringer/news](https://github.com/georgringer/news) - TYPO3 Extension news (4 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (6 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update dependency vimeo/psalm to v7.17.0](https://github.com/tomasnorre/crawler/pull/1391) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [[TASK] Require psr/http-factory and symfony/polyfill-php83 directly](https://github.com/tomasnorre/crawler/pull/1390) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [[TASK] Remove nikic/php-parser dev dependency](https://github.com/tomasnorre/crawler/pull/1389) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [[TASK] Remove the testing framework bridge dev dependency](https://github.com/tomasnorre/crawler/pull/1388) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [[TASK] Remove unused symfony/yaml dev dependency](https://github.com/tomasnorre/crawler/pull/1387) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [Update dependency vimeo/psalm to v7.19.0](https://github.com/tomasnorre/crawler/pull/1413) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
+- [[TASK] Update runs-on to ubuntu-26-04](https://github.com/georgringer/news/pull/2876) on [georgringer/news](https://github.com/georgringer/news) (1 day ago)
+- [[TASK] Update GitHub Action to actions/checkout@v7](https://github.com/georgringer/news/pull/2875) on [georgringer/news](https://github.com/georgringer/news) (1 day ago)
+- [[TASK] Add addional version for DBMS tests](https://github.com/tomasnorre/crawler/pull/1412) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [[TASK] Test out runTests.sh for DBMS tests](https://github.com/tomasnorre/crawler/pull/1411) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) ([v4.0.0](https://github.com/tomasnorre/typo3-upload-ter/releases/tag/v4.0.0), 2 days ago) - GitHub Action that helps you upload your Extensions to TER
+- [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) ([v4.0.0](https://github.com/tomasnorre/typo3-upload-ter/releases/tag/v4.0.0), 3 days ago) - GitHub Action that helps you upload your Extensions to TER
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([13.0.1](https://github.com/tomasnorre/crawler/releases/tag/13.0.1), 1 month ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
 - [georgringer/news](https://github.com/georgringer/news) ([14.1.2](https://github.com/georgringer/news/releases/tag/14.1.2), 1 month ago) - TYPO3 Extension news
 
@@ -45,7 +45,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### ⭐ Recent stars
 
-- [jordanhubbard/daemonarchy](https://github.com/jordanhubbard/daemonarchy) - A new desktop installer and curated and signed package ecosystem for FreeBSD; inspired by Omarchy, FreeBSD and the classic world of video games (4 weeks ago)
+- [jordanhubbard/daemonarchy](https://github.com/jordanhubbard/daemonarchy) - A new desktop installer and curated and signed package ecosystem for FreeBSD; inspired by Omarchy, FreeBSD and the classic world of video games (1 month ago)
 - [dockersamples/laravel-docker-examples](https://github.com/dockersamples/laravel-docker-examples) - Set of docker compose examples for Laravel framework (2 months ago)
 - [wandoliver/laramon](https://github.com/wandoliver/laramon) - Self-hosted fleet monitoring for Laravel applications - inspired by Laravel Nightwatch. (2 months ago)
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User (5 months ago)
