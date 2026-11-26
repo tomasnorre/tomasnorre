@@ -17,21 +17,21 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
+- [georgringer/news](https://github.com/georgringer/news) - TYPO3 Extension news (1 day ago)
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 day ago)
-- [georgringer/news](https://github.com/georgringer/news) - TYPO3 Extension news (4 days ago)
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (6 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update dependency vimeo/psalm to v7.19.0](https://github.com/tomasnorre/crawler/pull/1413) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
-- [[TASK] Update runs-on to ubuntu-26-04](https://github.com/georgringer/news/pull/2876) on [georgringer/news](https://github.com/georgringer/news) (1 day ago)
-- [[TASK] Update GitHub Action to actions/checkout@v7](https://github.com/georgringer/news/pull/2875) on [georgringer/news](https://github.com/georgringer/news) (1 day ago)
-- [[TASK] Add addional version for DBMS tests](https://github.com/tomasnorre/crawler/pull/1412) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [[TASK] Test out runTests.sh for DBMS tests](https://github.com/tomasnorre/crawler/pull/1411) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [Update dependency vimeo/psalm to v7.21.1](https://github.com/tomasnorre/crawler/pull/1420) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
+- [[DEBUG] runs-on: 22.04](https://github.com/tomasnorre/crawler/pull/1417) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [Update dependency vimeo/psalm to v7.21.0](https://github.com/tomasnorre/crawler/pull/1416) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [Update dependency vimeo/psalm to v7.20.0](https://github.com/tomasnorre/crawler/pull/1415) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [Update dependency rector/rector to v2.9.2](https://github.com/tomasnorre/crawler/pull/1414) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) ([v4.0.0](https://github.com/tomasnorre/typo3-upload-ter/releases/tag/v4.0.0), 3 days ago) - GitHub Action that helps you upload your Extensions to TER
+- [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) ([v4.0.0](https://github.com/tomasnorre/typo3-upload-ter/releases/tag/v4.0.0), 4 days ago) - GitHub Action that helps you upload your Extensions to TER
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([13.0.1](https://github.com/tomasnorre/crawler/releases/tag/13.0.1), 1 month ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
 - [georgringer/news](https://github.com/georgringer/news) ([14.1.2](https://github.com/georgringer/news/releases/tag/14.1.2), 1 month ago) - TYPO3 Extension news
 
