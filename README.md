@@ -19,25 +19,25 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 - [georgringer/news](https://github.com/georgringer/news) - TYPO3 Extension news (1 day ago)
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 day ago)
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (1 day ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update dependency vimeo/psalm to v7.21.1](https://github.com/tomasnorre/crawler/pull/1420) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
-- [[DEBUG] runs-on: 22.04](https://github.com/tomasnorre/crawler/pull/1417) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [Update dependency vimeo/psalm to v7.21.0](https://github.com/tomasnorre/crawler/pull/1416) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [Update dependency vimeo/psalm to v7.20.0](https://github.com/tomasnorre/crawler/pull/1415) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [Update dependency rector/rector to v2.9.2](https://github.com/tomasnorre/crawler/pull/1414) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [Update dependency vimeo/psalm to v7.22.1](https://github.com/tomasnorre/crawler/pull/1423) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [[FEATURE] Exclude pages from crawling in the page properties](https://github.com/tomasnorre/crawler/pull/1422) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [[TASK] Hardning Rector Config](https://github.com/tomasnorre/crawler/pull/1421) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [Update dependency vimeo/psalm to v7.21.1](https://github.com/tomasnorre/crawler/pull/1420) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [[DEBUG] runs-on: 22.04](https://github.com/tomasnorre/crawler/pull/1417) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) ([v4.0.0](https://github.com/tomasnorre/typo3-upload-ter/releases/tag/v4.0.0), 4 days ago) - GitHub Action that helps you upload your Extensions to TER
+- [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) ([v4.0.0](https://github.com/tomasnorre/typo3-upload-ter/releases/tag/v4.0.0), 5 days ago) - GitHub Action that helps you upload your Extensions to TER
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([13.0.1](https://github.com/tomasnorre/crawler/releases/tag/13.0.1), 1 month ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
 - [georgringer/news](https://github.com/georgringer/news) ([14.1.2](https://github.com/georgringer/news/releases/tag/14.1.2), 1 month ago) - TYPO3 Extension news
 
 #### 📜 My recent [blog posts](https://blog.tomasnorre.dk)
 
-- [Simple backups with Restic](https://blog.tomasnorre.dk/blog/backup-with-restic/) (2 weeks ago)
+- [Simple backups with Restic](https://blog.tomasnorre.dk/blog/backup-with-restic/) (3 weeks ago)
 - [How to install PHP on Ubuntu 26.04](https://blog.tomasnorre.dk/blog/how-to-install-php-on-ubuntu-2604/) (1 month ago)
 - [Self-hosted Docker Registry](https://blog.tomasnorre.dk/blog/self-hosted-docker-registry/) (7 months ago)
 - [Post Ideas](https://blog.tomasnorre.dk/blog/post-ideas/) (7 months ago)
