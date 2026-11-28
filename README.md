@@ -17,21 +17,21 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 #### 👷 Check out what I'm currently working on
 
-- [georgringer/news](https://github.com/georgringer/news) - TYPO3 Extension news (1 day ago)
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc. (1 day ago)
-- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (2 days ago)
+- [georgringer/news](https://github.com/georgringer/news) - TYPO3 Extension news (2 days ago)
+- [tomasnorre/dk-tomasnorre-blog](https://github.com/tomasnorre/dk-tomasnorre-blog) - This is the repository for my blog (3 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update dependency vimeo/psalm to v7.22.1](https://github.com/tomasnorre/crawler/pull/1423) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [[FEATURE] Exclude pages from crawling in the page properties](https://github.com/tomasnorre/crawler/pull/1422) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [[TASK] Hardning Rector Config](https://github.com/tomasnorre/crawler/pull/1421) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [Update dependency vimeo/psalm to v7.21.1](https://github.com/tomasnorre/crawler/pull/1420) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
-- [[DEBUG] runs-on: 22.04](https://github.com/tomasnorre/crawler/pull/1417) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (2 days ago)
+- [Update dependency vimeo/psalm to v7.23.0](https://github.com/tomasnorre/crawler/pull/1440) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (today)
+- [[TASK] Add the iterable value types of the context menu item provider](https://github.com/tomasnorre/crawler/pull/1439) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [[TASK] Add the iterable value types of the CSV writer](https://github.com/tomasnorre/crawler/pull/1438) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [[TASK] Add the iterable value types of the queue executor](https://github.com/tomasnorre/crawler/pull/1437) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
+- [[TASK] Add the iterable value types of the frontend user authenticator](https://github.com/tomasnorre/crawler/pull/1436) on [tomasnorre/crawler](https://github.com/tomasnorre/crawler) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) ([v4.0.0](https://github.com/tomasnorre/typo3-upload-ter/releases/tag/v4.0.0), 5 days ago) - GitHub Action that helps you upload your Extensions to TER
+- [tomasnorre/typo3-upload-ter](https://github.com/tomasnorre/typo3-upload-ter) ([v4.0.0](https://github.com/tomasnorre/typo3-upload-ter/releases/tag/v4.0.0), 6 days ago) - GitHub Action that helps you upload your Extensions to TER
 - [tomasnorre/crawler](https://github.com/tomasnorre/crawler) ([13.0.1](https://github.com/tomasnorre/crawler/releases/tag/13.0.1), 1 month ago) - Libraries and scripts for crawling the TYPO3 page tree. Used for re-caching, re-indexing, publishing applications etc.
 - [georgringer/news](https://github.com/georgringer/news) ([14.1.2](https://github.com/georgringer/news/releases/tag/14.1.2), 1 month ago) - TYPO3 Extension news
 
@@ -47,7 +47,7 @@ Even if you don’t need my help right now, I’d truly appreciate it if you’d
 
 - [jordanhubbard/daemonarchy](https://github.com/jordanhubbard/daemonarchy) - A new desktop installer and curated and signed package ecosystem for FreeBSD; inspired by Omarchy, FreeBSD and the classic world of video games (1 month ago)
 - [dockersamples/laravel-docker-examples](https://github.com/dockersamples/laravel-docker-examples) - Set of docker compose examples for Laravel framework (2 months ago)
-- [wandoliver/laramon](https://github.com/wandoliver/laramon) - Self-hosted fleet monitoring for Laravel applications - inspired by Laravel Nightwatch. (2 months ago)
+- [wandoliver/laramon](https://github.com/wandoliver/laramon) - Self-hosted fleet monitoring for Laravel applications - inspired by Laravel Nightwatch. (3 months ago)
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User (5 months ago)
 - [s2b/visual-regression-tester](https://github.com/s2b/visual-regression-tester) - Collects and compares screenshots of websites (5 months ago)
 
